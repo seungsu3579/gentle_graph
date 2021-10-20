@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@900&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@900&family=Nanum+Gothic:wght@800&family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', filename='graph.css') }}" rel="stylesheet" type="text/css" />
+    
+    <script src="https://kit.fontawesome.com/8eb5905426.js" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v2.min.js?2.9.3"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <title>Gentle Graph</title>
+  </head>
+  <body>
+    <div id="header_background">
+      <header class="nav">
+        <div class="logo">
+          <span class="material-icons text" id="logo">
+            bubble_chart
+          </span>        
+          <span>
+            <a href="#logo" class="text">점잖은 그래프</a>
+          </span>
+        </div>
+        <div class="contents_nav">
+          <span class="content_nav">
+            <a href="#introduction" class="text">Introduction</a>
+          </span>
+          <span class="content_nav">
+            <a href="#member" class="text">Member</a>
+          </span>
+        </div>
+      </header>
+      <div class="network"></div>
+    <div class="information_section">
+      <div class="info">
+        <div class="js-clock">
+          <span class="clock-time text" >00:00</span><span class="clock-time-sec text">00</span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="search_section">
+      <div class="search">
+        <div>
+          <i class="fas fa-search"></i>
+        </div>
+        <form name=fsearch method=get style="margin:0px;" action="http://www.google.co.kr/search" target="_blank">
+          <input type=hidden name=where value="nexteach">
+          <input type="text" name=query required value="" placeholder="Google 검색 또는 URL 입력">
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="bar"></div>
+
+  <div id="introduction">
+    <div class="reset">
+      <div class="title">
+        <h1>Introduction</h1>
+      </div>
+      <div>
+        <h3 class="intro-content">마케팅 목적, 정치적 목적 등을 배제한 객관적인 사용자 행동 기반의 실시간 이슈트렌드를 보여줄 수 있는 서비스를 제안합니다. </h3>
+      </div>
+      <div>
+        <h3 class="intro-content">이를 통해 개인의 가치 판단을 도와줄 수 있는 객관적이고 우리 사회를 포괄할 수 있는 지표를 제시하고자 이 프로젝트를 진행했습니다.</h3>
+      </div>
+    </div>
+  </div>
+
+  <div id="member">
+    <div class="reset">
+      <div class="title">
+        <h1>Member</h1>
+      </div>
+      <div>
+        <img src="{{ url_for('static', filename='member.png') }}" alt="">
+      </div>
+    </div>
+  </div>
+  
+  <div id="tail"></div>
+
+  <!-- <script src="/static/clock.js"></script>
+  <script src="/static/keyword_graph.js"></script>
+  <script src="/static/detail_contents.js"></script> -->
+  <script type="text/javascript" src="{{ url_for('static', filename='keyword_info_2.json') }}"></script>
+  <script src="{{ url_for('static', filename='clock.js') }}"></script>
+  <script src="{{ url_for('static', filename='keyword_graph.js') }}"></script>
+  <script src="{{ url_for('static', filename='detail_contents.js') }}"></script>
+
+</body>
+</html>

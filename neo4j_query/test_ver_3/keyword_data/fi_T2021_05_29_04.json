@@ -1,0 +1,3565 @@
+{
+	"219061": {
+		"rank": 1,
+		"name": "조국",
+		"weights": 4.647575642391483,
+		"n_key": [
+			{
+				"id": 219932,
+				"name": "재보선",
+				"weights": 0.14301385000490863
+			},
+			{
+				"id": 219596,
+				"name": "인질",
+				"weights": 0.5515473366436854
+			},
+			{
+				"id": 218798,
+				"name": "후보",
+				"weights": 1.7021266604854008
+			},
+			{
+				"id": 219110,
+				"name": "대선",
+				"weights": 0.5494730500152872
+			},
+			{
+				"id": 219217,
+				"name": "피의자",
+				"weights": 0.14019931978205674
+			},
+			{
+				"id": 219160,
+				"name": "문재인",
+				"weights": 0.3700199732134173
+			},
+			{
+				"id": 219109,
+				"name": "윤석열",
+				"weights": 2.862646732680019
+			},
+			{
+				"id": 218803,
+				"name": "정부",
+				"weights": 3.1711666881922835
+			},
+			{
+				"id": 219151,
+				"name": "지니",
+				"weights": 0.214351375577855
+			},
+			{
+				"id": 219063,
+				"name": "추미애",
+				"weights": 0.5989540196416288
+			},
+			{
+				"id": 219062,
+				"name": "헌법",
+				"weights": 0.12041690311902378
+			},
+			{
+				"id": 219060,
+				"name": "박범계",
+				"weights": 0.14060694086556555
+			}
+		],
+		"n_content": [
+			{
+				"id": 219947,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://news.v.daum.net/v/20210528211057833",
+				"weights": 0.6540289786534769
+			},
+			{
+				"id": 219570,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://v.daum.net/v/20210528211057833",
+				"weights": 0.6500943085139076
+			},
+			{
+				"id": 219950,
+				"title": "'조국 사태' 몸 낮췄던 여권..'자서전'에 변화 기류",
+				"url": "https://news.v.daum.net/v/20210528202016177",
+				"weights": 0.34555809324411735
+			},
+			{
+				"id": 219582,
+				"title": "'조국 사태' 몸 낮췄던 여권..'자서전'에 변화 기류",
+				"url": "https://v.daum.net/v/20210528202016177",
+				"weights": 0.3436492356046861
+			},
+			{
+				"id": 219955,
+				"title": "조국 \"윤석열의 檢, 가족 인질로 수사\".. 尹측 \"누가 曺에 속겠나\"",
+				"url": "https://news.v.daum.net/v/20210528204040483",
+				"weights": 0.2761807908447128
+			},
+			{
+				"id": 219595,
+				"title": "조국 \"윤석열의 檢, 가족 인질로 수사\".. 尹측 \"누가 曺에 속겠나\"",
+				"url": "https://v.daum.net/v/20210528204040483",
+				"weights": 0.27536654579897263
+			},
+			{
+				"id": 219159,
+				"title": "조국, 윤석열 직격...\"문재인 정부 곧 죽을 권력이라 판단\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607429&rankingType=RANKING",
+				"weights": 0.27412296495193145
+			}
+		]
+	},
+	"218977": {
+		"rank": 2,
+		"name": "손정민",
+		"weights": 3.787244825131078,
+		"n_key": [
+			{
+				"id": 218978,
+				"name": "서울경찰청",
+				"weights": 0.9861123010583136
+			},
+			{
+				"id": 218910,
+				"name": "정민",
+				"weights": 1.7532850951012673
+			},
+			{
+				"id": 218979,
+				"name": "아버지",
+				"weights": 0.5396813658061493
+			},
+			{
+				"id": 219238,
+				"name": "김창룡",
+				"weights": 0.20690317269898978
+			},
+			{
+				"id": 219239,
+				"name": "청장",
+				"weights": 0.2350615223366194
+			},
+			{
+				"id": 218948,
+				"name": "경찰",
+				"weights": 2.964203297196805
+			},
+			{
+				"id": 219322,
+				"name": "스노클링",
+				"weights": 0.33117835845302035
+			},
+			{
+				"id": 219369,
+				"name": "대전경찰청장",
+				"weights": 0.1135653673811273
+			},
+			{
+				"id": 219389,
+				"name": "부친",
+				"weights": 0.2743126054320104
+			},
+			{
+				"id": 219604,
+				"name": "택시",
+				"weights": 0.7682585861825162
+			},
+			{
+				"id": 219622,
+				"name": "입수자",
+				"weights": 0.710485636650168
+			},
+			{
+				"id": 220128,
+				"name": "김진의",
+				"weights": 0.2042316341943446
+			},
+			{
+				"id": 220142,
+				"name": "김은배",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220143,
+				"name": "살인",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220144,
+				"name": "허민우",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220145,
+				"name": "배상훈",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220160,
+				"name": "뉴스A",
+				"weights": 0.12496386291790103
+			}
+		],
+		"n_content": [
+			{
+				"id": 219348,
+				"title": "손정민父 “친구의 유죄 바라는 거 아냐, 진실 원할뿐”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442897&rankingType=RANKING",
+				"weights": 0.4347342323529366
+			},
+			{
+				"id": 219956,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://news.v.daum.net/v/20210528085450587",
+				"weights": 0.38442018753307233
+			},
+			{
+				"id": 219603,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://v.daum.net/v/20210528085450587",
+				"weights": 0.38383839864944386
+			},
+			{
+				"id": 219321,
+				"title": "\"손정민씨 물놀이 영상 입수\" 경찰 발표에 父 \"이럴까봐 입장문서 스노클링 얘기해\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916062&rankingType=RANKING",
+				"weights": 0.33117835845302035
+			},
+			{
+				"id": 219621,
+				"title": "고 손정민씨 사건..\"한강 입수자 '시원하다' 소리내 신고 안했다\"",
+				"url": "https://v.daum.net/v/20210528075743217",
+				"weights": 0.26523896545850456
+			},
+			{
+				"id": 218976,
+				"title": "손정민 아버지 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646799&rankingType=RANKING",
+				"weights": 0.2178537148757974
+			},
+			{
+				"id": 219353,
+				"title": "“손정민 한강 빠뜨려? 약물주입?” 의혹에 경찰 Q&A",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442886&rankingType=RANKING",
+				"weights": 0.21729173908158902
+			}
+		]
+	},
+	"219363": {
+		"rank": 3,
+		"name": "BTS",
+		"weights": 3.238345728635799,
+		"n_key": [
+			{
+				"id": 220149,
+				"name": "NEWSENTV",
+				"weights": 0.1550496836957695
+			},
+			{
+				"id": 220064,
+				"name": "버터",
+				"weights": 0.3027528762084834
+			},
+			{
+				"id": 220038,
+				"name": "BBMAS",
+				"weights": 0.1589538994598869
+			},
+			{
+				"id": 220037,
+				"name": "MCDONALD",
+				"weights": 0.1589538994598869
+			},
+			{
+				"id": 218959,
+				"name": "방탄소년단",
+				"weights": 2.496369798333441
+			},
+			{
+				"id": 220013,
+				"name": "BUTTER",
+				"weights": 2.5507783878684305
+			},
+			{
+				"id": 218962,
+				"name": "프렌즈",
+				"weights": 0.3289392413283583
+			},
+			{
+				"id": 219379,
+				"name": "아미들",
+				"weights": 0.20357807176344636
+			},
+			{
+				"id": 218961,
+				"name": "맥도날드",
+				"weights": 0.4770446153605373
+			},
+			{
+				"id": 219364,
+				"name": "라디오DJ",
+				"weights": 0.15964529351423437
+			},
+			{
+				"id": 219226,
+				"name": "코로나",
+				"weights": 0.22489037665211953
+			}
+		],
+		"n_content": [
+			{
+				"id": 220052,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=119",
+				"weights": 0.7645079999570518
+			},
+			{
+				"id": 220117,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=10",
+				"weights": 0.4094749690527455
+			},
+			{
+				"id": 220079,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.33923308754790193
+			},
+			{
+				"id": 220065,
+				"title": "BTS \"Butter\" - The Late Show with Stephen Colbert",
+				"url": "https://www.youtube.com/watch?v=3kRl7gkXdXM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.21795775483354696
+			},
+			{
+				"id": 220210,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=162",
+				"weights": 0.20959851150838735
+			},
+			{
+				"id": 219378,
+				"title": "맥도날드 'BTS 세트' 50개국 판매 시작···아미들 '인증 열풍'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003915857&rankingType=RANKING",
+				"weights": 0.20357807176344636
+			},
+			{
+				"id": 219428,
+				"title": "中, BTS '프렌즈' 출연분 삭제…저스틴 비버·레이디 가가도 편집",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=031&aid=0000601201&rankingType=RANKING",
+				"weights": 0.16539007602980058
+			}
+		]
+	},
+	"218803": {
+		"rank": 4,
+		"name": "정부",
+		"weights": 3.1711666881922835,
+		"n_key": [
+			{
+				"id": 219573,
+				"name": "일본",
+				"weights": 2.156664424914122
+			},
+			{
+				"id": 219572,
+				"name": "IOC",
+				"weights": 0.9385497350258054
+			},
+			{
+				"id": 218894,
+				"name": "이용구",
+				"weights": 0.3557422522115353
+			},
+			{
+				"id": 219204,
+				"name": "검찰",
+				"weights": 0.36886656271768153
+			},
+			{
+				"id": 219329,
+				"name": "임대인",
+				"weights": 0.1735720730430506
+			},
+			{
+				"id": 219160,
+				"name": "문재인",
+				"weights": 0.3700199732134173
+			},
+			{
+				"id": 219109,
+				"name": "윤석열",
+				"weights": 2.862646732680019
+			},
+			{
+				"id": 219061,
+				"name": "조국",
+				"weights": 4.647575642391483
+			},
+			{
+				"id": 219071,
+				"name": "사업자",
+				"weights": 0.5002104583653684
+			},
+			{
+				"id": 218794,
+				"name": "비트코인",
+				"weights": 1.2295512849073713
+			},
+			{
+				"id": 218826,
+				"name": "임대사업자",
+				"weights": 0.17036683946622203
+			},
+			{
+				"id": 218804,
+				"name": "가토",
+				"weights": 0.1296254725815261
+			}
+		],
+		"n_content": [
+			{
+				"id": 219951,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://news.v.daum.net/v/20210528203604427",
+				"weights": 0.39860640914097034
+			},
+			{
+				"id": 219571,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://v.daum.net/v/20210528203604427",
+				"weights": 0.39668491951763746
+			},
+			{
+				"id": 219159,
+				"title": "조국, 윤석열 직격...\"문재인 정부 곧 죽을 권력이라 판단\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607429&rankingType=RANKING",
+				"weights": 0.27412296495193145
+			},
+			{
+				"id": 219968,
+				"title": "尹 때린 조국 \"文정부 곧 죽을 권력으로 판단해 표적수사\"",
+				"url": "https://news.v.daum.net/v/20210528230028228",
+				"weights": 0.2500223075042157
+			},
+			{
+				"id": 219602,
+				"title": "尹 때린 조국 \"文정부 곧 죽을 권력으로 판단해 표적수사\"",
+				"url": "https://v.daum.net/v/20210528230028228",
+				"weights": 0.24887258556118746
+			},
+			{
+				"id": 219200,
+				"title": "[속보] 벨기에 정부 \"주한 벨기에 대사 경질… 폭행 물의 대사 부인 면책 특권 제한\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705064&rankingType=RANKING",
+				"weights": 0.2404177216194817
+			},
+			{
+				"id": 219070,
+				"title": "정부, 비트코인 등 가상자산 사업자 관리감독 나선다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085905&rankingType=RANKING",
+				"weights": 0.18479403440801437
+			}
+		]
+	},
+	"218948": {
+		"rank": 5,
+		"name": "경찰",
+		"weights": 2.964203297196805,
+		"n_key": [
+			{
+				"id": 220145,
+				"name": "배상훈",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 218910,
+				"name": "정민",
+				"weights": 1.7532850951012673
+			},
+			{
+				"id": 219011,
+				"name": "음주운전",
+				"weights": 0.18140797280966112
+			},
+			{
+				"id": 218819,
+				"name": "간부",
+				"weights": 0.4307499770289633
+			},
+			{
+				"id": 219233,
+				"name": "경찰청장",
+				"weights": 0.1424191160367132
+			},
+			{
+				"id": 218977,
+				"name": "손정민",
+				"weights": 3.787244825131078
+			},
+			{
+				"id": 219238,
+				"name": "김창룡",
+				"weights": 0.20690317269898978
+			},
+			{
+				"id": 219239,
+				"name": "청장",
+				"weights": 0.2350615223366194
+			},
+			{
+				"id": 219322,
+				"name": "스노클링",
+				"weights": 0.33117835845302035
+			},
+			{
+				"id": 219376,
+				"name": "의붓딸",
+				"weights": 0.10922730186445512
+			},
+			{
+				"id": 219377,
+				"name": "성추행",
+				"weights": 0.20092209916759346
+			},
+			{
+				"id": 219389,
+				"name": "부친",
+				"weights": 0.2743126054320104
+			},
+			{
+				"id": 219546,
+				"name": "목격자",
+				"weights": 0.31421778973508036
+			},
+			{
+				"id": 218883,
+				"name": "부인",
+				"weights": 0.3972712264803977
+			},
+			{
+				"id": 219622,
+				"name": "입수자",
+				"weights": 0.710485636650168
+			},
+			{
+				"id": 220142,
+				"name": "김은배",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220143,
+				"name": "살인",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220144,
+				"name": "허민우",
+				"weights": 0.19154461187234936
+			}
+		],
+		"n_content": [
+			{
+				"id": 219321,
+				"title": "\"손정민씨 물놀이 영상 입수\" 경찰 발표에 父 \"이럴까봐 입장문서 스노클링 얘기해\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916062&rankingType=RANKING",
+				"weights": 0.33117835845302035
+			},
+			{
+				"id": 219545,
+				"title": "'한강입수男 목격자 왜 뒤늦게'…'정민씨 사건' 경찰 Q&A로 풀어보니",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378680&rankingType=RANKING",
+				"weights": 0.31421778973508036
+			},
+			{
+				"id": 218947,
+				"title": "정민씨父 \"경찰, '정민이 물놀이 영상' 누구한테 받았나..이럴 줄 알았다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646819&rankingType=RANKING",
+				"weights": 0.26986602953887634
+			},
+			{
+				"id": 219353,
+				"title": "“손정민 한강 빠뜨려? 약물주입?” 의혹에 경찰 Q&A",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442886&rankingType=RANKING",
+				"weights": 0.21729173908158902
+			},
+			{
+				"id": 219237,
+				"title": "경찰, 손정민 사건 관련 '김창룡 청장 가짜뉴스' 내사 착수",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705015&rankingType=RANKING",
+				"weights": 0.20690317269898978
+			},
+			{
+				"id": 219388,
+				"title": "“동문서답 느낌” 23쪽 경찰 자료 반박한 손정민 부친",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442898&rankingType=RANKING",
+				"weights": 0.19966929850822826
+			},
+			{
+				"id": 220141,
+				"title": "[시사본부] 故 손정민 씨 친구 입장문 발표, 경찰 “한강 입수자” 증언 확보/‘노래주점 살인’ 허민우, 전화로만 보호관찰 (아는 경찰-배상훈, 김은배) KBS 210519 방송",
+				"url": "https://www.youtube.com/watch?v=qgaC7dscdaY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=139",
+				"weights": 0.19154461187234936
+			}
+		]
+	},
+	"218917": {
+		"rank": 6,
+		"name": "네이버",
+		"weights": 2.8649339631433266,
+		"n_key": [
+			{
+				"id": 219615,
+				"name": "임원",
+				"weights": 0.5101905085373193
+			},
+			{
+				"id": 219548,
+				"name": "상사",
+				"weights": 0.1532545674127666
+			},
+			{
+				"id": 219395,
+				"name": "한성숙",
+				"weights": 0.15699930291884145
+			},
+			{
+				"id": 219347,
+				"name": "직장상사",
+				"weights": 0.16643587236976665
+			},
+			{
+				"id": 219190,
+				"name": "카카오",
+				"weights": 0.3979368808063015
+			}
+		],
+		"n_content": [
+			{
+				"id": 219989,
+				"title": "네이버 직원 극단 선택 추정..노조 \"직장 내 괴롭힘\"",
+				"url": "https://news.v.daum.net/v/20210528203019342",
+				"weights": 0.30275830250508895
+			},
+			{
+				"id": 219593,
+				"title": "네이버 직원 극단 선택 추정..노조 \"직장 내 괴롭힘\"",
+				"url": "https://v.daum.net/v/20210528203019342",
+				"weights": 0.30059123223620193
+			},
+			{
+				"id": 219979,
+				"title": "네이버 개발자의 갑작스런 죽음..\"임원이 상습 폭언\"",
+				"url": "https://news.v.daum.net/v/20210528201310091",
+				"weights": 0.25523872138049014
+			},
+			{
+				"id": 219614,
+				"title": "네이버 개발자의 갑작스런 죽음..\"임원이 상습 폭언\"",
+				"url": "https://v.daum.net/v/20210528201310091",
+				"weights": 0.2549517871568292
+			},
+			{
+				"id": 218916,
+				"title": "네이버 직원 숨진 채 발견···쪽지엔 “직장 내 괴롭힘, 업무 스트레스”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647064&rankingType=RANKING",
+				"weights": 0.23748203649170033
+			},
+			{
+				"id": 219012,
+				"title": "네이버 직원 극단 선택…“과중 업무·괴롭힘…사실이면 업무상 재해”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011053229&rankingType=RANKING",
+				"weights": 0.23354708012002767
+			},
+			{
+				"id": 219422,
+				"title": "네이버 40대 직원, 극단적 선택…직장 내 괴롭힘 조사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=031&aid=0000601233&rankingType=RANKING",
+				"weights": 0.1762665983193222
+			}
+		]
+	},
+	"219109": {
+		"rank": 7,
+		"name": "윤석열",
+		"weights": 2.862646732680019,
+		"n_key": [
+			{
+				"id": 219596,
+				"name": "인질",
+				"weights": 0.5515473366436854
+			},
+			{
+				"id": 218798,
+				"name": "후보",
+				"weights": 1.7021266604854008
+			},
+			{
+				"id": 219217,
+				"name": "피의자",
+				"weights": 0.14019931978205674
+			},
+			{
+				"id": 219160,
+				"name": "문재인",
+				"weights": 0.3700199732134173
+			},
+			{
+				"id": 219061,
+				"name": "조국",
+				"weights": 4.647575642391483
+			},
+			{
+				"id": 218803,
+				"name": "정부",
+				"weights": 3.1711666881922835
+			},
+			{
+				"id": 219111,
+				"name": "김동연",
+				"weights": 0.19483995672255125
+			},
+			{
+				"id": 219110,
+				"name": "대선",
+				"weights": 0.5494730500152872
+			},
+			{
+				"id": 218981,
+				"name": "이준석",
+				"weights": 2.452094141949665
+			},
+			{
+				"id": 219108,
+				"name": "최재형",
+				"weights": 0.2633069010489629
+			}
+		],
+		"n_content": [
+			{
+				"id": 219947,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://news.v.daum.net/v/20210528211057833",
+				"weights": 0.6540289786534769
+			},
+			{
+				"id": 219570,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://v.daum.net/v/20210528211057833",
+				"weights": 0.6500943085139076
+			},
+			{
+				"id": 219955,
+				"title": "조국 \"윤석열의 檢, 가족 인질로 수사\".. 尹측 \"누가 曺에 속겠나\"",
+				"url": "https://news.v.daum.net/v/20210528204040483",
+				"weights": 0.2761807908447128
+			},
+			{
+				"id": 219595,
+				"title": "조국 \"윤석열의 檢, 가족 인질로 수사\".. 尹측 \"누가 曺에 속겠나\"",
+				"url": "https://v.daum.net/v/20210528204040483",
+				"weights": 0.27536654579897263
+			},
+			{
+				"id": 219159,
+				"title": "조국, 윤석열 직격...\"문재인 정부 곧 죽을 권력이라 판단\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607429&rankingType=RANKING",
+				"weights": 0.27412296495193145
+			},
+			{
+				"id": 219107,
+				"title": "이준석 “윤석열·김동연·최재형 합류 대선 승리 토대 만들 것”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472620&rankingType=RANKING",
+				"weights": 0.19483995672255125
+			},
+			{
+				"id": 219396,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판···\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916271&rankingType=RANKING",
+				"weights": 0.15731782314765957
+			}
+		]
+	},
+	"220013": {
+		"rank": 8,
+		"name": "BUTTER",
+		"weights": 2.5507783878684305,
+		"n_key": [
+			{
+				"id": 220149,
+				"name": "NEWSENTV",
+				"weights": 0.1550496836957695
+			},
+			{
+				"id": 220064,
+				"name": "버터",
+				"weights": 0.3027528762084834
+			},
+			{
+				"id": 219363,
+				"name": "BTS",
+				"weights": 3.238345728635799
+			},
+			{
+				"id": 218959,
+				"name": "방탄소년단",
+				"weights": 2.496369798333441
+			}
+		],
+		"n_content": [
+			{
+				"id": 220052,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=119",
+				"weights": 0.7645079999570518
+			},
+			{
+				"id": 220117,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=10",
+				"weights": 0.4094749690527455
+			},
+			{
+				"id": 220079,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.33923308754790193
+			},
+			{
+				"id": 220065,
+				"title": "BTS \"Butter\" - The Late Show with Stephen Colbert",
+				"url": "https://www.youtube.com/watch?v=3kRl7gkXdXM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.21795775483354696
+			},
+			{
+				"id": 220210,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=162",
+				"weights": 0.20959851150838735
+			},
+			{
+				"id": 220148,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=141",
+				"weights": 0.1550496836957695
+			},
+			{
+				"id": 220012,
+				"title": "방탄소년단 'Butter 뮤비를 보는 남녀 댄서의 반응 차이 | BTS ‘Butter' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=rPosuDRNJrc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=104",
+				"weights": 0.1522035050645439
+			}
+		]
+	},
+	"218959": {
+		"rank": 9,
+		"name": "방탄소년단",
+		"weights": 2.496369798333441,
+		"n_key": [
+			{
+				"id": 220149,
+				"name": "NEWSENTV",
+				"weights": 0.1550496836957695
+			},
+			{
+				"id": 220064,
+				"name": "버터",
+				"weights": 0.3027528762084834
+			},
+			{
+				"id": 219363,
+				"name": "BTS",
+				"weights": 3.238345728635799
+			},
+			{
+				"id": 220013,
+				"name": "BUTTER",
+				"weights": 2.5507783878684305
+			},
+			{
+				"id": 218962,
+				"name": "프렌즈",
+				"weights": 0.3289392413283583
+			},
+			{
+				"id": 218961,
+				"name": "맥도날드",
+				"weights": 0.4770446153605373
+			},
+			{
+				"id": 218960,
+				"name": "시트콤",
+				"weights": 0.1635491652985577
+			}
+		],
+		"n_content": [
+			{
+				"id": 220052,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=119",
+				"weights": 0.7645079999570518
+			},
+			{
+				"id": 220117,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=10",
+				"weights": 0.4094749690527455
+			},
+			{
+				"id": 220079,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.33923308754790193
+			},
+			{
+				"id": 220210,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=162",
+				"weights": 0.20959851150838735
+			},
+			{
+				"id": 218958,
+				"title": "방탄소년단 \"맥도날드에 美시트콤 ‘프렌즈’특별출연, 또 다른 이정표\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646871&rankingType=RANKING",
+				"weights": 0.1635491652985577
+			},
+			{
+				"id": 220148,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=141",
+				"weights": 0.1550496836957695
+			},
+			{
+				"id": 220012,
+				"title": "방탄소년단 'Butter 뮤비를 보는 남녀 댄서의 반응 차이 | BTS ‘Butter' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=rPosuDRNJrc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=104",
+				"weights": 0.1522035050645439
+			}
+		]
+	},
+	"218981": {
+		"rank": 10,
+		"name": "이준석",
+		"weights": 2.452094141949665,
+		"n_key": [
+			{
+				"id": 219634,
+				"name": "진중권",
+				"weights": 0.5986060260264019
+			},
+			{
+				"id": 218926,
+				"name": "국민",
+				"weights": 0.8527137295752902
+			},
+			{
+				"id": 219561,
+				"name": "당대표",
+				"weights": 0.2769489971408866
+			},
+			{
+				"id": 219560,
+				"name": "홍문표",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219559,
+				"name": "본경선",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219558,
+				"name": "주호영",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219557,
+				"name": "조경태",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219556,
+				"name": "나경원",
+				"weights": 0.7074993204438905
+			},
+			{
+				"id": 219285,
+				"name": "라팍",
+				"weights": 0.14799827914294272
+			},
+			{
+				"id": 218845,
+				"name": "삼성",
+				"weights": 1.029080655780079
+			},
+			{
+				"id": 219273,
+				"name": "국민의힘",
+				"weights": 0.22036242491601732
+			},
+			{
+				"id": 219176,
+				"name": "본선",
+				"weights": 0.39206807938675525
+			},
+			{
+				"id": 219111,
+				"name": "김동연",
+				"weights": 0.19483995672255125
+			},
+			{
+				"id": 219110,
+				"name": "대선",
+				"weights": 0.5494730500152872
+			},
+			{
+				"id": 219109,
+				"name": "윤석열",
+				"weights": 2.862646732680019
+			},
+			{
+				"id": 219108,
+				"name": "최재형",
+				"weights": 0.2633069010489629
+			}
+		],
+		"n_content": [
+			{
+				"id": 219954,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://news.v.daum.net/v/20210528152626049",
+				"weights": 0.2993986578915666
+			},
+			{
+				"id": 219633,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://v.daum.net/v/20210528152626049",
+				"weights": 0.2992073681348353
+			},
+			{
+				"id": 219107,
+				"title": "이준석 “윤석열·김동연·최재형 합류 대선 승리 토대 만들 것”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472620&rankingType=RANKING",
+				"weights": 0.19483995672255125
+			},
+			{
+				"id": 219977,
+				"title": "이준석 '압도적 1위' 본선행..'30대 당대표' 현실화?",
+				"url": "https://news.v.daum.net/v/20210528200110921",
+				"weights": 0.16805570272339795
+			},
+			{
+				"id": 219284,
+				"title": "'라팍' 간 이준석… 알고보니 오랜 삼성 팬?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705072&rankingType=RANKING",
+				"weights": 0.14799827914294272
+			},
+			{
+				"id": 219996,
+				"title": "'0선' 이준석에 '18선' 좌불안석",
+				"url": "https://news.v.daum.net/v/20210528203842452",
+				"weights": 0.1463576700421171
+			},
+			{
+				"id": 219619,
+				"title": "[주간政談] '이준석 돌풍'..與가 바라는 인물은 따로 있다?",
+				"url": "https://v.daum.net/v/20210529000028725",
+				"weights": 0.13607687335125215
+			}
+		]
+	},
+	"219573": {
+		"rank": 11,
+		"name": "일본",
+		"weights": 2.156664424914122,
+		"n_key": [
+			{
+				"id": 218888,
+				"name": "도쿄올림픽",
+				"weights": 1.0734064011375617
+			},
+			{
+				"id": 219885,
+				"name": "우크라이나",
+				"weights": 0.11456379543373181
+			},
+			{
+				"id": 219821,
+				"name": "올림픽3X3예선",
+				"weights": 0.2594934702084918
+			},
+			{
+				"id": 219884,
+				"name": "8강",
+				"weights": 0.11456379543373181
+			},
+			{
+				"id": 219883,
+				"name": "호주",
+				"weights": 0.11456379543373181
+			},
+			{
+				"id": 219827,
+				"name": "최종예선",
+				"weights": 0.10885330281230067
+			},
+			{
+				"id": 219826,
+				"name": "미얀마",
+				"weights": 0.10885330281230067
+			},
+			{
+				"id": 219825,
+				"name": "WC",
+				"weights": 0.10885330281230067
+			},
+			{
+				"id": 219590,
+				"name": "한국",
+				"weights": 0.9511815333247602
+			},
+			{
+				"id": 218993,
+				"name": "올림픽",
+				"weights": 1.4558170042848386
+			},
+			{
+				"id": 218803,
+				"name": "정부",
+				"weights": 3.1711666881922835
+			},
+			{
+				"id": 219572,
+				"name": "IOC",
+				"weights": 0.9385497350258054
+			}
+		],
+		"n_content": [
+			{
+				"id": 219948,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://news.v.daum.net/v/20210528200710013",
+				"weights": 0.4199978433802029
+			},
+			{
+				"id": 219589,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://v.daum.net/v/20210528200710013",
+				"weights": 0.41909817521020265
+			},
+			{
+				"id": 219951,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://news.v.daum.net/v/20210528203604427",
+				"weights": 0.39860640914097034
+			},
+			{
+				"id": 219571,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://v.daum.net/v/20210528203604427",
+				"weights": 0.39668491951763746
+			},
+			{
+				"id": 219992,
+				"title": "韓 \"도쿄올림픽 지도 독도 표시 삭제해달라\"..日 \"독도는 일본땅\"",
+				"url": "https://news.v.daum.net/v/20210528204208506",
+				"weights": 0.15560157305187802
+			},
+			{
+				"id": 219973,
+				"title": "[단독] IOC \"독도 표시 수정, 일본에 물어봐라\"",
+				"url": "https://news.v.daum.net/v/20210528194800679",
+				"weights": 0.14325840636719772
+			},
+			{
+				"id": 219882,
+				"title": "[올림픽3x3예선] 호주, 우크라이나 넘고 8강 진출 확정한 '일본', 도쿄까지 2승 남았다!",
+				"url": "https://v.daum.net/v/20210528211031829",
+				"weights": 0.11456379543373181
+			}
+		]
+	},
+	"219254": {
+		"rank": 12,
+		"name": "임영웅",
+		"weights": 1.8215642102318463,
+		"n_key": [
+			{
+				"id": 219670,
+				"name": "물고기뮤직",
+				"weights": 0.2627590993250606
+			},
+			{
+				"id": 219255,
+				"name": "건물주",
+				"weights": 0.41814125568771215
+			},
+			{
+				"id": 219253,
+				"name": "트로트",
+				"weights": 0.15538215636265157
+			}
+		],
+		"n_content": [
+			{
+				"id": 219523,
+				"title": "임영웅 측 \"마포구 45억 건물 매입, 소속사가 한 것\" [종합]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004801110&rankingType=RANKING",
+				"weights": 0.44543635830297273
+			},
+			{
+				"id": 219663,
+				"title": "[단독] 임영웅, 45억원대 건물 매입",
+				"url": "https://v.daum.net/v/20210528174104131",
+				"weights": 0.4238215893339389
+			},
+			{
+				"id": 219669,
+				"title": "물고기뮤직, \"임영웅 건물주 보도는 오보, 잘못된 헤드라인으로 피해 입어\"",
+				"url": "https://v.daum.net/v/20210529020612574",
+				"weights": 0.2627590993250606
+			},
+			{
+				"id": 219668,
+				"title": "임영웅, 부동산 큰손 아니었다..\"45억 건물 매입=소속사꺼\" [공식입장]",
+				"url": "https://v.daum.net/v/20210528234514599",
+				"weights": 0.1905135934687309
+			},
+			{
+				"id": 219697,
+				"title": "임영웅 측 \"45억 건물 매입, 소속사가 법인명의로 한 것\"(공식입장)",
+				"url": "https://v.daum.net/v/20210528222539877",
+				"weights": 0.19026460569614506
+			},
+			{
+				"id": 219252,
+				"title": "'트로트로 큰 사랑' 임영웅 서울 마포 45억원 상당 6층 건물주 됐다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705079&rankingType=RANKING",
+				"weights": 0.15538215636265157
+			},
+			{
+				"id": 220235,
+				"title": "임영웅 I'm Not The Only One #Shorts",
+				"url": "https://www.youtube.com/watch?v=IZG5d1kpB5s&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=176",
+				"weights": 0.15338680774234648
+			}
+		]
+	},
+	"218910": {
+		"rank": 13,
+		"name": "정민",
+		"weights": 1.7532850951012673,
+		"n_key": [
+			{
+				"id": 220128,
+				"name": "김진의",
+				"weights": 0.2042316341943446
+			},
+			{
+				"id": 219389,
+				"name": "부친",
+				"weights": 0.2743126054320104
+			},
+			{
+				"id": 219622,
+				"name": "입수자",
+				"weights": 0.710485636650168
+			},
+			{
+				"id": 219624,
+				"name": "티셔츠",
+				"weights": 0.26541250648878956
+			},
+			{
+				"id": 219546,
+				"name": "목격자",
+				"weights": 0.31421778973508036
+			},
+			{
+				"id": 218979,
+				"name": "아버지",
+				"weights": 0.5396813658061493
+			},
+			{
+				"id": 218978,
+				"name": "서울경찰청",
+				"weights": 0.9861123010583136
+			},
+			{
+				"id": 218977,
+				"name": "손정민",
+				"weights": 3.787244825131078
+			},
+			{
+				"id": 218948,
+				"name": "경찰",
+				"weights": 2.964203297196805
+			}
+		],
+		"n_content": [
+			{
+				"id": 218909,
+				"title": "정민씨 父 “친구 유죄 안 바라···다만 진실 나오길 원할 뿐”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647013&rankingType=RANKING",
+				"weights": 0.47586929043289394
+			},
+			{
+				"id": 219545,
+				"title": "'한강입수男 목격자 왜 뒤늦게'…'정민씨 사건' 경찰 Q&A로 풀어보니",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378680&rankingType=RANKING",
+				"weights": 0.31421778973508036
+			},
+			{
+				"id": 218947,
+				"title": "정민씨父 \"경찰, '정민이 물놀이 영상' 누구한테 받았나..이럴 줄 알았다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646819&rankingType=RANKING",
+				"weights": 0.26986602953887634
+			},
+			{
+				"id": 219623,
+				"title": "\"정민이 친구, 신발만 버린 줄 알았는데 티셔츠까지 버렸단 사실도 알게 됐다\"",
+				"url": "https://v.daum.net/v/20210528062029075",
+				"weights": 0.26541250648878956
+			},
+			{
+				"id": 218976,
+				"title": "손정민 아버지 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646799&rankingType=RANKING",
+				"weights": 0.2178537148757974
+			},
+			{
+				"id": 220119,
+				"title": "[故손정민 사건] '한강 입수자' 목격담, 정민군 맞나? (f.손정민父)",
+				"url": "https://www.youtube.com/watch?v=jj1xRMYS9LM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=132",
+				"weights": 0.1354224571060474
+			},
+			{
+				"id": 220238,
+				"title": "부친이 공개한 정민 씨 휴대전화 사용내역 | 김진의 돌직구 쇼 743 회",
+				"url": "https://www.youtube.com/watch?v=Uh5Vu5KkFWo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=178",
+				"weights": 0.07464330692378215
+			}
+		]
+	},
+	"218798": {
+		"rank": 14,
+		"name": "후보",
+		"weights": 1.7021266604854008,
+		"n_key": [
+			{
+				"id": 220088,
+				"name": "송중기",
+				"weights": 0.15874303762332184
+			},
+			{
+				"id": 220221,
+				"name": "백상예술대상",
+				"weights": 0.14010027630660277
+			},
+			{
+				"id": 220098,
+				"name": "유재석",
+				"weights": 0.16053984773946084
+			},
+			{
+				"id": 220220,
+				"name": "장도연",
+				"weights": 0.14010027630660277
+			},
+			{
+				"id": 219061,
+				"name": "조국",
+				"weights": 4.647575642391483
+			},
+			{
+				"id": 219109,
+				"name": "윤석열",
+				"weights": 2.862646732680019
+			},
+			{
+				"id": 218797,
+				"name": "사드",
+				"weights": 0.10058527386375433
+			},
+			{
+				"id": 218796,
+				"name": "현대차",
+				"weights": 0.8023299119889559
+			}
+		],
+		"n_content": [
+			{
+				"id": 219947,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://news.v.daum.net/v/20210528211057833",
+				"weights": 0.6540289786534769
+			},
+			{
+				"id": 219570,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판..\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://v.daum.net/v/20210528211057833",
+				"weights": 0.6500943085139076
+			},
+			{
+				"id": 219396,
+				"title": "조국, 370페이지 회고록서 윤석열 정면 비판···\"현직 있을 때부터 수구 진영의 대권후보\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916271&rankingType=RANKING",
+				"weights": 0.15731782314765957
+			},
+			{
+				"id": 220219,
+				"title": "(ENG) 유재석, 송중기, 장도연... 어우 다 말하기도 입 아픈 별들의 잔치, 백상예술대상 후보 초대돼서 직접 다녀왔습니다⭐/ [문명특급 EP.190]",
+				"url": "https://www.youtube.com/watch?v=f4cso_qEuFY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=167",
+				"weights": 0.14010027630660277
+			},
+			{
+				"id": 218795,
+				"title": "현대차, 사드 보복에 문닫은 베이징 1공장 결국 매각… 中 스타트업이 인수 후보",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698627&rankingType=RANKING",
+				"weights": 0.10058527386375433
+			}
+		]
+	},
+	"218993": {
+		"rank": 15,
+		"name": "올림픽",
+		"weights": 1.4558170042848386,
+		"n_key": [
+			{
+				"id": 219835,
+				"name": "서경덕",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 218888,
+				"name": "도쿄올림픽",
+				"weights": 1.0734064011375617
+			},
+			{
+				"id": 219834,
+				"name": "조직위원장",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 219573,
+				"name": "일본",
+				"weights": 2.156664424914122
+			},
+			{
+				"id": 219590,
+				"name": "한국",
+				"weights": 0.9511815333247602
+			},
+			{
+				"id": 218892,
+				"name": "코로나19",
+				"weights": 0.5138148692482764
+			}
+		],
+		"n_content": [
+			{
+				"id": 219948,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://news.v.daum.net/v/20210528200710013",
+				"weights": 0.4199978433802029
+			},
+			{
+				"id": 219589,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://v.daum.net/v/20210528200710013",
+				"weights": 0.41909817521020265
+			},
+			{
+				"id": 219325,
+				"title": "올림픽 지도 독도 삭제 못한다는 日",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916134&rankingType=RANKING",
+				"weights": 0.20350208445715423
+			},
+			{
+				"id": 219833,
+				"title": "\"도쿄올림픽 독도 삭제하라\" 서경덕, 올림픽 조직위원장에 항의",
+				"url": "https://v.daum.net/v/20210528223710015",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 219191,
+				"title": "올림픽 앞둔 日, 코로나19 긴급사태 내달 20일까지 또 연장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607424&rankingType=RANKING",
+				"weights": 0.10786311233236151
+			},
+			{
+				"id": 219324,
+				"title": "초조한 日…올림픽 한달 앞까지 ‘긴급사태’ 또 연장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001443060&rankingType=RANKING",
+				"weights": 0.09905313253869497
+			},
+			{
+				"id": 218992,
+				"title": "'인도형 변이 우려' 日, 긴급사태 또 연장...올림픽 한 달 전까지 지속",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647254&rankingType=RANKING",
+				"weights": 0.08361472617807288
+			}
+		]
+	},
+	"219320": {
+		"rank": 16,
+		"name": "아워홈",
+		"weights": 1.297366010509953,
+		"n_key": [
+			{
+				"id": 219600,
+				"name": "구본성",
+				"weights": 0.6465041572267141
+			},
+			{
+				"id": 219048,
+				"name": "운전자",
+				"weights": 1.1295852857980573
+			}
+		],
+		"n_content": [
+			{
+				"id": 219534,
+				"title": "아워홈 부회장의 '보복운전 클라스'…운전자까지 차로 밀어붙여",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800925&rankingType=RANKING",
+				"weights": 0.2911155952480462
+			},
+			{
+				"id": 219974,
+				"title": "구본성 아워홈 부회장 '보복운전'..항의하자 차로 치어",
+				"url": "https://news.v.daum.net/v/20210528202816307",
+				"weights": 0.23758475605364393
+			},
+			{
+				"id": 219599,
+				"title": "구본성 아워홈 부회장 '보복운전'..항의하자 차로 치어",
+				"url": "https://v.daum.net/v/20210528202816307",
+				"weights": 0.23622397438703552
+			},
+			{
+				"id": 219335,
+				"title": "아워홈 부회장, 보복운전으로 재판···차로 하차한 운전자 밀어붙이기도",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916162&rankingType=RANKING",
+				"weights": 0.20376366494330805
+			},
+			{
+				"id": 219917,
+				"title": "아워홈 구본성 부회장 '보복운전'..상대 차·운전자 들이받아",
+				"url": "https://v.daum.net/v/20210529002136975",
+				"weights": 0.17269542678603464
+			},
+			{
+				"id": 219319,
+				"title": "상대방 들이받고 도주까지…아워홈 부회장의 보복운전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001443022&rankingType=RANKING",
+				"weights": 0.15598259309188456
+			}
+		]
+	},
+	"218794": {
+		"rank": 17,
+		"name": "비트코인",
+		"weights": 1.2295512849073713,
+		"n_key": [
+			{
+				"id": 218792,
+				"name": "애플",
+				"weights": 1.0434688810238986
+			},
+			{
+				"id": 219287,
+				"name": "머스크",
+				"weights": 0.1060857057526144
+			},
+			{
+				"id": 219182,
+				"name": "JP모건",
+				"weights": 0.10673844166551305
+			},
+			{
+				"id": 219071,
+				"name": "사업자",
+				"weights": 0.5002104583653684
+			},
+			{
+				"id": 218803,
+				"name": "정부",
+				"weights": 3.1711666881922835
+			},
+			{
+				"id": 218984,
+				"name": "페이팔",
+				"weights": 0.1009366971153035
+			},
+			{
+				"id": 218973,
+				"name": "글로벌포스트",
+				"weights": 0.1017934323257161
+			}
+		],
+		"n_content": [
+			{
+				"id": 219070,
+				"title": "정부, 비트코인 등 가상자산 사업자 관리감독 나선다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085905&rankingType=RANKING",
+				"weights": 0.18479403440801437
+			},
+			{
+				"id": 219345,
+				"title": "애플도 비트코인 결제 도입하나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003915863&rankingType=RANKING",
+				"weights": 0.1574373568641531
+			},
+			{
+				"id": 220002,
+				"title": "비트코인, 하루새 7% 하락..3만6천달러 붕괴",
+				"url": "https://news.v.daum.net/v/20210528210104741",
+				"weights": 0.14517806882400702
+			},
+			{
+				"id": 218937,
+				"title": "비트코인 3.5만달러로 급락...거래도 급감",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647255&rankingType=RANKING",
+				"weights": 0.11090288774746734
+			},
+			{
+				"id": 218793,
+				"title": "\"호재도 악재도 없어\"… 비트코인, 박스권에 갇혔나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698358&rankingType=RANKING",
+				"weights": 0.10978211856938269
+			},
+			{
+				"id": 219181,
+				"title": "박스권 갇힌 비트코인… JP모건 CEO는 또 '쓴소리'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013275&rankingType=RANKING",
+				"weights": 0.10673844166551305
+			},
+			{
+				"id": 219286,
+				"title": "다시 시작된 머스크의 트윗… 비트코인 오름세",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013169&rankingType=RANKING",
+				"weights": 0.1060857057526144
+			}
+		]
+	},
+	"219048": {
+		"rank": 18,
+		"name": "운전자",
+		"weights": 1.1295852857980573,
+		"n_key": [
+			{
+				"id": 220237,
+				"name": "리어카",
+				"weights": 0.11956587163283974
+			},
+			{
+				"id": 219600,
+				"name": "구본성",
+				"weights": 0.6465041572267141
+			},
+			{
+				"id": 219751,
+				"name": "유하나",
+				"weights": 0.14453990039308248
+			},
+			{
+				"id": 219750,
+				"name": "이용규",
+				"weights": 0.14453990039308248
+			},
+			{
+				"id": 219320,
+				"name": "아워홈",
+				"weights": 1.297366010509953
+			},
+			{
+				"id": 219049,
+				"name": "인천대교",
+				"weights": 0.197904826794746
+			},
+			{
+				"id": 219047,
+				"name": "해경",
+				"weights": 0.197904826794746
+			}
+		],
+		"n_content": [
+			{
+				"id": 219534,
+				"title": "아워홈 부회장의 '보복운전 클라스'…운전자까지 차로 밀어붙여",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800925&rankingType=RANKING",
+				"weights": 0.2911155952480462
+			},
+			{
+				"id": 219335,
+				"title": "아워홈 부회장, 보복운전으로 재판···차로 하차한 운전자 밀어붙이기도",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916162&rankingType=RANKING",
+				"weights": 0.20376366494330805
+			},
+			{
+				"id": 219046,
+				"title": "인천대교 세워진 차량서 30대 운전자 사라져…해경 수색",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052724&rankingType=RANKING",
+				"weights": 0.197904826794746
+			},
+			{
+				"id": 219917,
+				"title": "아워홈 구본성 부회장 '보복운전'..상대 차·운전자 들이받아",
+				"url": "https://v.daum.net/v/20210529002136975",
+				"weights": 0.17269542678603464
+			},
+			{
+				"id": 219749,
+				"title": "'이용규♥︎' 유하나, 과속 운전자에 분노 \"아들 등교 중 차에 치일 뻔한 순간 몇 번씩 경험\"[전문]",
+				"url": "https://v.daum.net/v/20210528111715561",
+				"weights": 0.14453990039308248
+			},
+			{
+				"id": 220236,
+				"title": "[블박TV] 리어카 밀려와 충돌하자 운전자가 보인 행동 / 와이퍼",
+				"url": "https://www.youtube.com/watch?v=oNZ5VckivGY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=177",
+				"weights": 0.11956587163283974
+			}
+		]
+	},
+	"218888": {
+		"rank": 19,
+		"name": "도쿄올림픽",
+		"weights": 1.0734064011375617,
+		"n_key": [
+			{
+				"id": 219573,
+				"name": "일본",
+				"weights": 2.156664424914122
+			},
+			{
+				"id": 219835,
+				"name": "서경덕",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 218993,
+				"name": "올림픽",
+				"weights": 1.4558170042848386
+			},
+			{
+				"id": 219834,
+				"name": "조직위원장",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 219590,
+				"name": "한국",
+				"weights": 0.9511815333247602
+			},
+			{
+				"id": 218889,
+				"name": "정의용",
+				"weights": 0.3621985533822512
+			}
+		],
+		"n_content": [
+			{
+				"id": 219952,
+				"title": "\"도쿄올림픽 보이콧\"..\"선수 피땀 생각해야\"",
+				"url": "https://news.v.daum.net/v/20210528203905460",
+				"weights": 0.22617851106345205
+			},
+			{
+				"id": 219617,
+				"title": "\"도쿄올림픽 보이콧\"..\"선수 피땀 생각해야\"",
+				"url": "https://v.daum.net/v/20210528203905460",
+				"weights": 0.22546985214850054
+			},
+			{
+				"id": 219992,
+				"title": "韓 \"도쿄올림픽 지도 독도 표시 삭제해달라\"..日 \"독도는 일본땅\"",
+				"url": "https://news.v.daum.net/v/20210528204208506",
+				"weights": 0.15560157305187802
+			},
+			{
+				"id": 219967,
+				"title": "외교전으로 번지는 도쿄올림픽 독도 지도..정의용 \"강력 대응\"",
+				"url": "https://news.v.daum.net/v/20210528200151937",
+				"weights": 0.15178949182741977
+			},
+			{
+				"id": 219833,
+				"title": "\"도쿄올림픽 독도 삭제하라\" 서경덕, 올림픽 조직위원장에 항의",
+				"url": "https://v.daum.net/v/20210528223710015",
+				"weights": 0.1226879301881497
+			},
+			{
+				"id": 219795,
+				"title": "'세계 3위' 한국, 도쿄올림픽 B조 편성..후쿠시마 피했다",
+				"url": "https://v.daum.net/v/20210528202455248",
+				"weights": 0.11208551473435463
+			},
+			{
+				"id": 218887,
+				"title": "\"결코 용납안해\"… 정의용, 일본 도쿄올림픽 '독도표시' 지도에 강력 항의",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698506&rankingType=RANKING",
+				"weights": 0.07959352812380699
+			}
+		]
+	},
+	"218792": {
+		"rank": 20,
+		"name": "애플",
+		"weights": 1.0434688810238986,
+		"n_key": [
+			{
+				"id": 220035,
+				"name": "공대생",
+				"weights": 0.10030806952561111
+			},
+			{
+				"id": 220034,
+				"name": "아이폰",
+				"weights": 0.10030806952561111
+			},
+			{
+				"id": 220033,
+				"name": "변승주",
+				"weights": 0.10030806952561111
+			},
+			{
+				"id": 218794,
+				"name": "비트코인",
+				"weights": 1.2295512849073713
+			},
+			{
+				"id": 219122,
+				"name": "구글",
+				"weights": 0.13028265044521542
+			},
+			{
+				"id": 218846,
+				"name": "LG",
+				"weights": 0.5720097088338306
+			},
+			{
+				"id": 218845,
+				"name": "삼성",
+				"weights": 1.029080655780079
+			},
+			{
+				"id": 218842,
+				"name": "아이폰12",
+				"weights": 0.2494251118963321
+			},
+			{
+				"id": 218841,
+				"name": "이용자",
+				"weights": 0.1273033325754594
+			},
+			{
+				"id": 218791,
+				"name": "암호화폐",
+				"weights": 0.13016386115454814
+			}
+		],
+		"n_content": [
+			{
+				"id": 219345,
+				"title": "애플도 비트코인 결제 도입하나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003915863&rankingType=RANKING",
+				"weights": 0.1574373568641531
+			},
+			{
+				"id": 219452,
+				"title": "“LG폰 받고 15만원 쏜다” 삼성에게 뺏길라, 칼 꺼낸 애플",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=138&aid=0002104140&rankingType=RANKING",
+				"weights": 0.12920810728311719
+			},
+			{
+				"id": 218840,
+				"title": "애플 이용자의 고민…아이폰12 살까, 13 기다릴까",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223366&rankingType=RANKING",
+				"weights": 0.1273033325754594
+			},
+			{
+				"id": 218871,
+				"title": "삼성·애플 '박터진다'...LG중고폰에 15만원 추가 보상",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223395&rankingType=RANKING",
+				"weights": 0.12104389936273974
+			},
+			{
+				"id": 219121,
+				"title": "삼성+구글, ‘애플 천하’ 스마트워치에 도전장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472659&rankingType=RANKING",
+				"weights": 0.11161658906111212
+			},
+			{
+				"id": 218790,
+				"title": "애플도 암호화폐 뛰어드나… 래리 핑크·칼 아이칸 등 긍정론 잇따라",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698337&rankingType=RANKING",
+				"weights": 0.1037636970251779
+			},
+			{
+				"id": 220032,
+				"title": "실제로 작동하는 천만원짜리 초거대 아이폰 만들기 with 공대생 변승주 (애플한테 고소 당하면 영상 내릴게요ㅜㅜㅋㅋ)",
+				"url": "https://www.youtube.com/watch?v=tClBD1DHICc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=111",
+				"weights": 0.10030806952561111
+			}
+		]
+	},
+	"218845": {
+		"rank": 21,
+		"name": "삼성",
+		"weights": 1.029080655780079,
+		"n_key": [
+			{
+				"id": 219528,
+				"name": "인사팀장",
+				"weights": 0.21557817708958302
+			},
+			{
+				"id": 218981,
+				"name": "이준석",
+				"weights": 2.452094141949665
+			},
+			{
+				"id": 219285,
+				"name": "라팍",
+				"weights": 0.14799827914294272
+			},
+			{
+				"id": 219122,
+				"name": "구글",
+				"weights": 0.13028265044521542
+			},
+			{
+				"id": 218936,
+				"name": "퇴직연금",
+				"weights": 0.10780320033905035
+			},
+			{
+				"id": 218792,
+				"name": "애플",
+				"weights": 1.0434688810238986
+			},
+			{
+				"id": 218855,
+				"name": "갤럭시Z플립3",
+				"weights": 0.09641914489222682
+			},
+			{
+				"id": 218847,
+				"name": "다이슨",
+				"weights": 0.09941325860930697
+			},
+			{
+				"id": 218846,
+				"name": "LG",
+				"weights": 0.5720097088338306
+			}
+		],
+		"n_content": [
+			{
+				"id": 219527,
+				"title": "인사팀장 다 불렀다…삼성이 듣게한 '이 강연'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004801004&rankingType=RANKING",
+				"weights": 0.21557817708958302
+			},
+			{
+				"id": 219284,
+				"title": "'라팍' 간 이준석… 알고보니 오랜 삼성 팬?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705072&rankingType=RANKING",
+				"weights": 0.14799827914294272
+			},
+			{
+				"id": 219452,
+				"title": "“LG폰 받고 15만원 쏜다” 삼성에게 뺏길라, 칼 꺼낸 애플",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=138&aid=0002104140&rankingType=RANKING",
+				"weights": 0.12920810728311719
+			},
+			{
+				"id": 218871,
+				"title": "삼성·애플 '박터진다'...LG중고폰에 15만원 추가 보상",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223395&rankingType=RANKING",
+				"weights": 0.12104389936273974
+			},
+			{
+				"id": 219121,
+				"title": "삼성+구글, ‘애플 천하’ 스마트워치에 도전장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472659&rankingType=RANKING",
+				"weights": 0.11161658906111212
+			},
+			{
+				"id": 218935,
+				"title": "[단독] '삼성'에는 '미래'가 없다?…과열되는 퇴직연금 경쟁",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960975&rankingType=RANKING",
+				"weights": 0.10780320033905035
+			},
+			{
+				"id": 218844,
+				"title": "다이슨, '녹색 레이저' 쏘는 무선청소기로 LG·삼성에 도전장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223306&rankingType=RANKING",
+				"weights": 0.09941325860930697
+			}
+		]
+	},
+	"219140": {
+		"rank": 22,
+		"name": "대통령",
+		"weights": 0.9889735361221739,
+		"n_key": [
+			{
+				"id": 219575,
+				"name": "아이스크림",
+				"weights": 0.439721969930163
+			},
+			{
+				"id": 219147,
+				"name": "바이든",
+				"weights": 0.8368653995275873
+			},
+			{
+				"id": 219146,
+				"name": "시진핑",
+				"weights": 0.8368653995275873
+			}
+		],
+		"n_content": [
+			{
+				"id": 219145,
+				"title": "문 대통령이 초청했지만... 바이든·시진핑 P4G 정상회의 안 온다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607416&rankingType=RANKING",
+				"weights": 0.4304563712633726
+			},
+			{
+				"id": 219986,
+				"title": "왜 미국 대통령은 길에서 아이스크림을 먹었나[청계천 옆 사진관]",
+				"url": "https://news.v.daum.net/v/20210528223617006",
+				"weights": 0.22004245158835803
+			},
+			{
+				"id": 219574,
+				"title": "왜 미국 대통령은 길에서 아이스크림을 먹었나[청계천 옆 사진관]",
+				"url": "https://v.daum.net/v/20210528223617006",
+				"weights": 0.21967951834180496
+			},
+			{
+				"id": 219139,
+				"title": "<뉴스와 시각>기업에 빚진 文대통령",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472642&rankingType=RANKING",
+				"weights": 0.11879519492863837
+			}
+		]
+	},
+	"218978": {
+		"rank": 23,
+		"name": "서울경찰청",
+		"weights": 0.9861123010583136,
+		"n_key": [
+			{
+				"id": 219604,
+				"name": "택시",
+				"weights": 0.7682585861825162
+			},
+			{
+				"id": 218979,
+				"name": "아버지",
+				"weights": 0.5396813658061493
+			},
+			{
+				"id": 218910,
+				"name": "정민",
+				"weights": 1.7532850951012673
+			},
+			{
+				"id": 218977,
+				"name": "손정민",
+				"weights": 3.787244825131078
+			}
+		],
+		"n_content": [
+			{
+				"id": 219956,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://news.v.daum.net/v/20210528085450587",
+				"weights": 0.38442018753307233
+			},
+			{
+				"id": 219603,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://v.daum.net/v/20210528085450587",
+				"weights": 0.38383839864944386
+			},
+			{
+				"id": 218976,
+				"title": "손정민 아버지 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646799&rankingType=RANKING",
+				"weights": 0.2178537148757974
+			}
+		]
+	},
+	"220067": {
+		"rank": 24,
+		"name": "에스파",
+		"weights": 0.9798234027488918,
+		"n_key": [
+			{
+				"id": 220130,
+				"name": "AESPA",
+				"weights": 0.7108331526757473
+			},
+			{
+				"id": 219722,
+				"name": "소녀시대",
+				"weights": 0.22156069793892827
+			}
+		],
+		"n_content": [
+			{
+				"id": 220129,
+				"title": "aespa 에스파 'Next Level' MV",
+				"url": "https://www.youtube.com/watch?v=4TWR90KJl84&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=135",
+				"weights": 0.4507936256758205
+			},
+			{
+				"id": 220066,
+				"title": "[방송선공개] 멋쁨폭발! 에스파의 소녀시대 ‘소원을 말해봐’ 커버 무대♬",
+				"url": "https://www.youtube.com/watch?v=fCnQgb4DChA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=124",
+				"weights": 0.1414446969030727
+			},
+			{
+				"id": 220256,
+				"title": "(Teaser) [BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=ESh2SQDho_o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=188",
+				"weights": 0.13528092576583775
+			},
+			{
+				"id": 220131,
+				"title": "[주간아 미방] 무대마저 어나더 레벨! 광야 대스타 에스파(aespa)의 ‘Next Level’♬ l EP.513",
+				"url": "https://www.youtube.com/watch?v=GrkauPw76b8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=15",
+				"weights": 0.12754555317007174
+			},
+			{
+				"id": 220222,
+				"title": "에스파 'NEXT LEVEL' 뮤비를 보는 남녀 댄서의 반응 차이 | aespa ‘NEXT LEVEL' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=pt5RiSKfRC4&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=168",
+				"weights": 0.12475860123408909
+			}
+		]
+	},
+	"219590": {
+		"rank": 25,
+		"name": "한국",
+		"weights": 0.9511815333247602,
+		"n_key": [
+			{
+				"id": 218888,
+				"name": "도쿄올림픽",
+				"weights": 1.0734064011375617
+			},
+			{
+				"id": 219573,
+				"name": "일본",
+				"weights": 2.156664424914122
+			},
+			{
+				"id": 218993,
+				"name": "올림픽",
+				"weights": 1.4558170042848386
+			}
+		],
+		"n_content": [
+			{
+				"id": 219948,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://news.v.daum.net/v/20210528200710013",
+				"weights": 0.4199978433802029
+			},
+			{
+				"id": 219589,
+				"title": "'독도 억지' 일본, 올림픽 불참은 한국이 알아서 해라?",
+				"url": "https://v.daum.net/v/20210528200710013",
+				"weights": 0.41909817521020265
+			},
+			{
+				"id": 219795,
+				"title": "'세계 3위' 한국, 도쿄올림픽 B조 편성..후쿠시마 피했다",
+				"url": "https://v.daum.net/v/20210528202455248",
+				"weights": 0.11208551473435463
+			}
+		]
+	},
+	"219572": {
+		"rank": 26,
+		"name": "IOC",
+		"weights": 0.9385497350258054,
+		"n_key": [
+			{
+				"id": 218803,
+				"name": "정부",
+				"weights": 3.1711666881922835
+			},
+			{
+				"id": 219573,
+				"name": "일본",
+				"weights": 2.156664424914122
+			}
+		],
+		"n_content": [
+			{
+				"id": 219951,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://news.v.daum.net/v/20210528203604427",
+				"weights": 0.39860640914097034
+			},
+			{
+				"id": 219571,
+				"title": "[단독] \"독도 삭제, 일본에 물어봐라\"..정부 \"IOC 개입 요청\"",
+				"url": "https://v.daum.net/v/20210528203604427",
+				"weights": 0.39668491951763746
+			},
+			{
+				"id": 219973,
+				"title": "[단독] IOC \"독도 표시 수정, 일본에 물어봐라\"",
+				"url": "https://news.v.daum.net/v/20210528194800679",
+				"weights": 0.14325840636719772
+			}
+		]
+	},
+	"219311": {
+		"rank": 27,
+		"name": "쟁반짜장",
+		"weights": 0.9153852048351384,
+		"n_key": [
+			{
+				"id": 219371,
+				"name": "짜장면",
+				"weights": 0.3267654377583891
+			},
+			{
+				"id": 219312,
+				"name": "짜장",
+				"weights": 0.9147459294809014
+			},
+			{
+				"id": 219262,
+				"name": "사장",
+				"weights": 0.8121607241140778
+			}
+		],
+		"n_content": [
+			{
+				"id": 219953,
+				"title": "\"짜장? 무슨 짜장? 쟁반짜장?\".. 아이가 시켰다고 일부러 쟁반짜장 3그릇 보낸 중국집 사장?",
+				"url": "https://news.v.daum.net/v/20210528143919170",
+				"weights": 0.4441263559460895
+			},
+			{
+				"id": 219370,
+				"title": "“아이라고 짜장면 대신 쟁반짜장? 화나네요” [사연뉴스]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442808&rankingType=RANKING",
+				"weights": 0.3267654377583891
+			},
+			{
+				"id": 219310,
+				"title": "'그냥 짜장' 3개 달라는 9살 아이에 중국집 사장은 \"어 쟁반짜장\" 누구 잘못?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705058&rankingType=RANKING",
+				"weights": 0.14449341113065986
+			}
+		]
+	},
+	"219312": {
+		"rank": 28,
+		"name": "짜장",
+		"weights": 0.9147459294809014,
+		"n_key": [
+			{
+				"id": 219565,
+				"name": "쟁반",
+				"weights": 0.326126162404152
+			},
+			{
+				"id": 219262,
+				"name": "사장",
+				"weights": 0.8121607241140778
+			},
+			{
+				"id": 219311,
+				"name": "쟁반짜장",
+				"weights": 0.9153852048351384
+			}
+		],
+		"n_content": [
+			{
+				"id": 219953,
+				"title": "\"짜장? 무슨 짜장? 쟁반짜장?\".. 아이가 시켰다고 일부러 쟁반짜장 3그릇 보낸 중국집 사장?",
+				"url": "https://news.v.daum.net/v/20210528143919170",
+				"weights": 0.4441263559460895
+			},
+			{
+				"id": 219998,
+				"title": "\"그냥 짜장 3개\" 아이 주문에..비싼 쟁반짜장 3개 배달한 중국집",
+				"url": "https://news.v.daum.net/v/20210529001501915",
+				"weights": 0.16401972597826675
+			},
+			{
+				"id": 219564,
+				"title": "\"그냥 짜장 3개\" 아이 주문에..비싼 쟁반짜장 3개 배달한 중국집",
+				"url": "https://v.daum.net/v/20210529001501915",
+				"weights": 0.16210643642588524
+			},
+			{
+				"id": 219310,
+				"title": "'그냥 짜장' 3개 달라는 9살 아이에 중국집 사장은 \"어 쟁반짜장\" 누구 잘못?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705058&rankingType=RANKING",
+				"weights": 0.14449341113065986
+			}
+		]
+	},
+	"219682": {
+		"rank": 29,
+		"name": "태민",
+		"weights": 0.8802459565826031,
+		"n_key": [
+			{
+				"id": 220172,
+				"name": "TAEMIN",
+				"weights": 0.29911500610779296
+			},
+			{
+				"id": 220168,
+				"name": "TAEMI",
+				"weights": 0.12301301439144155
+			},
+			{
+				"id": 220167,
+				"name": "ADVICE",
+				"weights": 0.4221280204992345
+			},
+			{
+				"id": 220166,
+				"name": "MINHO",
+				"weights": 0.12301301439144155
+			},
+			{
+				"id": 219745,
+				"name": "남윤수",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 219744,
+				"name": "한강",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 219736,
+				"name": "한강뷰",
+				"weights": 0.14210904846309258
+			},
+			{
+				"id": 219684,
+				"name": "동생",
+				"weights": 0.38907209486789324
+			},
+			{
+				"id": 219639,
+				"name": "나혼산",
+				"weights": 0.5733676663428299
+			},
+			{
+				"id": 219683,
+				"name": "샤이니",
+				"weights": 0.3165035133222213
+			}
+		],
+		"n_content": [
+			{
+				"id": 220171,
+				"title": "TAEMIN 태민 'Advice' MV",
+				"url": "https://www.youtube.com/watch?v=sQg4VCB3bYw&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=150",
+				"weights": 0.17658086395391215
+			},
+			{
+				"id": 219681,
+				"title": "샤이니 태민, '나혼산'서 집 최초 공개..키 \"군입대 앞둔 동생\" 걱정(종합)",
+				"url": "https://v.daum.net/v/20210529004738178",
+				"weights": 0.17439446485912874
+			},
+			{
+				"id": 219735,
+				"title": "샤이니 태민, 뉴욕 스타일 한강뷰 고층아파트 자택 공개..키 \"돈이 좋다\"(나혼산)",
+				"url": "https://v.daum.net/v/20210529004159137",
+				"weights": 0.14210904846309258
+			},
+			{
+				"id": 219743,
+				"title": "태민, 키도 놀란 한강뷰 하우스 \"돈이 좋다\"→남윤수, 187cm 복층 라이프 ('나혼산')[종합]",
+				"url": "https://v.daum.net/v/20210529004823180",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 220165,
+				"title": "TAEMIN 태민 ‘Advice’ MV Reaction with MINHO",
+				"url": "https://www.youtube.com/watch?v=60k3yHd0yv8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=147",
+				"weights": 0.12301301439144155
+			},
+			{
+				"id": 220227,
+				"title": "TAEMIN 태민 'Advice' @Beyond LIVE - TAEMIN : N.G.D.A (Stage Ver.)",
+				"url": "https://www.youtube.com/watch?v=uamEPyaJGXA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=171",
+				"weights": 0.12253414215388078
+			}
+		]
+	},
+	"219783": {
+		"rank": 30,
+		"name": "류현진",
+		"weights": 0.8678914839599053,
+		"n_key": [
+			{
+				"id": 219893,
+				"name": "우완",
+				"weights": 0.16775572261324234
+			},
+			{
+				"id": 219892,
+				"name": "9G",
+				"weights": 0.16775572261324234
+			},
+			{
+				"id": 219875,
+				"name": "ML",
+				"weights": 0.22729694274711548
+			},
+			{
+				"id": 219888,
+				"name": "클리블랜드인디언스",
+				"weights": 0.15440112696057698
+			},
+			{
+				"id": 219887,
+				"name": "토론토",
+				"weights": 0.15440112696057698
+			},
+			{
+				"id": 219858,
+				"name": "CLE",
+				"weights": 0.16888401218161583
+			},
+			{
+				"id": 219857,
+				"name": "AL",
+				"weights": 0.16888401218161583
+			},
+			{
+				"id": 219784,
+				"name": "동료",
+				"weights": 0.1590637272601393
+			},
+			{
+				"id": 219782,
+				"name": "슈어저",
+				"weights": 0.1590637272601393
+			}
+		],
+		"n_content": [
+			{
+				"id": 219787,
+				"title": "도대체 류현진에 왜 고전하는 거야? 전문가 \"100마일처럼 보이니까\"",
+				"url": "https://v.daum.net/v/20210528193004299",
+				"weights": 0.21778689494433084
+			},
+			{
+				"id": 219856,
+				"title": "'시즌 5승 사냥' 류현진, AL 중부 2위 CLE 상대 '신들린 제구력' 선보일까",
+				"url": "https://v.daum.net/v/20210528122055711",
+				"weights": 0.16888401218161583
+			},
+			{
+				"id": 219891,
+				"title": "'9G 9볼넷' 칼제구 류현진, 5승 맞상대는 ML 데뷔 25살 우완",
+				"url": "https://v.daum.net/v/20210528180314638",
+				"weights": 0.16775572261324234
+			},
+			{
+				"id": 219781,
+				"title": "슈어저가 류현진 동료? \"미친 소리 아냐, 매력적 행선지다\" MLB.com",
+				"url": "https://v.daum.net/v/20210528233250521",
+				"weights": 0.1590637272601393
+			},
+			{
+				"id": 219886,
+				"title": "[쿡Pick] #류현진 #시즌5승도전 #위기의토론토 #클리블랜드인디언스",
+				"url": "https://v.daum.net/v/20210528180404652",
+				"weights": 0.15440112696057698
+			}
+		]
+	},
+	"218926": {
+		"rank": 31,
+		"name": "국민",
+		"weights": 0.8527137295752902,
+		"n_key": [
+			{
+				"id": 218981,
+				"name": "이준석",
+				"weights": 2.452094141949665
+			},
+			{
+				"id": 219634,
+				"name": "진중권",
+				"weights": 0.5986060260264019
+			},
+			{
+				"id": 219556,
+				"name": "나경원",
+				"weights": 0.7074993204438905
+			}
+		],
+		"n_content": [
+			{
+				"id": 219954,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://news.v.daum.net/v/20210528152626049",
+				"weights": 0.2993986578915666
+			},
+			{
+				"id": 219633,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://v.daum.net/v/20210528152626049",
+				"weights": 0.2992073681348353
+			},
+			{
+				"id": 218925,
+				"title": "코로나 백신 접종 520만 넘었다…전 국민 10% 접종",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647246&rankingType=RANKING",
+				"weights": 0.10311916928524807
+			},
+			{
+				"id": 219607,
+				"title": "이틀간 120만 접종.. 국민들이 팔걷었다",
+				"url": "https://v.daum.net/v/20210529030622024",
+				"weights": 0.07963144554252197
+			},
+			{
+				"id": 220137,
+				"title": "국민이 손정민 사건에 분노하는 이유",
+				"url": "https://www.youtube.com/watch?v=ulStgubhQlg&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=136",
+				"weights": 0.07135708872111826
+			}
+		]
+	},
+	"219147": {
+		"rank": 32,
+		"name": "바이든",
+		"weights": 0.8368653995275873,
+		"n_key": [
+			{
+				"id": 219140,
+				"name": "대통령",
+				"weights": 0.9889735361221739
+			},
+			{
+				"id": 219146,
+				"name": "시진핑",
+				"weights": 0.8368653995275873
+			}
+		],
+		"n_content": [
+			{
+				"id": 219145,
+				"title": "문 대통령이 초청했지만... 바이든·시진핑 P4G 정상회의 안 온다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607416&rankingType=RANKING",
+				"weights": 0.4304563712633726
+			},
+			{
+				"id": 219972,
+				"title": "[속보]美 바이든·中 시진핑, P4G 서울 정상회의 불참",
+				"url": "https://news.v.daum.net/v/20210528145939898",
+				"weights": 0.20332470236623057
+			},
+			{
+				"id": 219608,
+				"title": "[속보]美 바이든·中 시진핑, P4G 서울 정상회의 불참",
+				"url": "https://v.daum.net/v/20210528145939898",
+				"weights": 0.20308432589798414
+			}
+		]
+	},
+	"219146": {
+		"rank": 33,
+		"name": "시진핑",
+		"weights": 0.8368653995275873,
+		"n_key": [
+			{
+				"id": 219140,
+				"name": "대통령",
+				"weights": 0.9889735361221739
+			},
+			{
+				"id": 219147,
+				"name": "바이든",
+				"weights": 0.8368653995275873
+			}
+		],
+		"n_content": [
+			{
+				"id": 219145,
+				"title": "문 대통령이 초청했지만... 바이든·시진핑 P4G 정상회의 안 온다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607416&rankingType=RANKING",
+				"weights": 0.4304563712633726
+			},
+			{
+				"id": 219972,
+				"title": "[속보]美 바이든·中 시진핑, P4G 서울 정상회의 불참",
+				"url": "https://news.v.daum.net/v/20210528145939898",
+				"weights": 0.20332470236623057
+			},
+			{
+				"id": 219608,
+				"title": "[속보]美 바이든·中 시진핑, P4G 서울 정상회의 불참",
+				"url": "https://v.daum.net/v/20210528145939898",
+				"weights": 0.20308432589798414
+			}
+		]
+	},
+	"219262": {
+		"rank": 34,
+		"name": "사장",
+		"weights": 0.8121607241140778,
+		"n_key": [
+			{
+				"id": 220016,
+				"name": "초중딩",
+				"weights": 0.11355328390290932
+			},
+			{
+				"id": 220015,
+				"name": "사이다",
+				"weights": 0.11355328390290932
+			},
+			{
+				"id": 219312,
+				"name": "짜장",
+				"weights": 0.9147459294809014
+			},
+			{
+				"id": 219311,
+				"name": "쟁반짜장",
+				"weights": 0.9153852048351384
+			},
+			{
+				"id": 219263,
+				"name": "삼성바이오로직스",
+				"weights": 0.10998767313441916
+			},
+			{
+				"id": 219261,
+				"name": "삼바",
+				"weights": 0.10998767313441916
+			},
+			{
+				"id": 219260,
+				"name": "존림",
+				"weights": 0.10998767313441916
+			}
+		],
+		"n_content": [
+			{
+				"id": 219953,
+				"title": "\"짜장? 무슨 짜장? 쟁반짜장?\".. 아이가 시켰다고 일부러 쟁반짜장 3그릇 보낸 중국집 사장?",
+				"url": "https://news.v.daum.net/v/20210528143919170",
+				"weights": 0.4441263559460895
+			},
+			{
+				"id": 219310,
+				"title": "'그냥 짜장' 3개 달라는 9살 아이에 중국집 사장은 \"어 쟁반짜장\" 누구 잘못?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000705058&rankingType=RANKING",
+				"weights": 0.14449341113065986
+			},
+			{
+				"id": 220014,
+				"title": "(사이다툰) \"초중딩들 곱셈 못하니깐 음식값 더 받자ㅋ\"라는 음식점 사장 사이다 날리기!/영상툰/썰툰/",
+				"url": "https://www.youtube.com/watch?v=v53qUVQMLl8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=105",
+				"weights": 0.11355328390290932
+			},
+			{
+				"id": 219259,
+				"title": "[CEO UP | 존림 삼성바이오로직스 사장] 송도 삼바에 쏠리는 눈",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013251&rankingType=RANKING",
+				"weights": 0.10998767313441916
+			}
+		]
+	},
+	"218796": {
+		"rank": 35,
+		"name": "현대차",
+		"weights": 0.8023299119889559,
+		"n_key": [
+			{
+				"id": 219219,
+				"name": "기아",
+				"weights": 0.10355051413676306
+			},
+			{
+				"id": 219174,
+				"name": "베이징1공장",
+				"weights": 0.0992729022435332
+			},
+			{
+				"id": 218886,
+				"name": "리오토",
+				"weights": 0.09008918781352364
+			},
+			{
+				"id": 218885,
+				"name": "전기차",
+				"weights": 0.10783466912072373
+			},
+			{
+				"id": 218798,
+				"name": "후보",
+				"weights": 1.7021266604854008
+			},
+			{
+				"id": 218797,
+				"name": "사드",
+				"weights": 0.10058527386375433
+			}
+		],
+		"n_content": [
+			{
+				"id": 219987,
+				"title": "현대차, 중국 베이징 1공장 부지 매각 추진(종합)",
+				"url": "https://news.v.daum.net/v/20210529000011713",
+				"weights": 0.16890847353218363
+			},
+			{
+				"id": 219568,
+				"title": "현대차, 중국 베이징 1공장 부지 매각 추진(종합)",
+				"url": "https://v.daum.net/v/20210529000011713",
+				"weights": 0.16786328167080022
+			},
+			{
+				"id": 218795,
+				"title": "현대차, 사드 보복에 문닫은 베이징 1공장 결국 매각… 中 스타트업이 인수 후보",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698627&rankingType=RANKING",
+				"weights": 0.10058527386375433
+			},
+			{
+				"id": 219173,
+				"title": "현대차, 2년 간 놀리던 베이징1공장 결국 매각 착수",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607403&rankingType=RANKING",
+				"weights": 0.0992729022435332
+			},
+			{
+				"id": 218884,
+				"title": "\"中 전기차 '리오토', 현대차 베이징 공장 한 곳 인수할 것\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223318&rankingType=RANKING",
+				"weights": 0.09008918781352364
+			},
+			{
+				"id": 219213,
+				"title": "현대차 ‘중국 첫 공장’ 매각하나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013270&rankingType=RANKING",
+				"weights": 0.08935877479664579
+			},
+			{
+				"id": 219218,
+				"title": "[증시이슈]‘반도체 단비’에 현대차·기아 일제히 올라",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013247&rankingType=RANKING",
+				"weights": 0.08625201806851501
+			}
+		]
+	},
+	"219604": {
+		"rank": 36,
+		"name": "택시",
+		"weights": 0.7682585861825162,
+		"n_key": [
+			{
+				"id": 218978,
+				"name": "서울경찰청",
+				"weights": 0.9861123010583136
+			},
+			{
+				"id": 218977,
+				"name": "손정민",
+				"weights": 3.787244825131078
+			}
+		],
+		"n_content": [
+			{
+				"id": 219956,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://news.v.daum.net/v/20210528085450587",
+				"weights": 0.38442018753307233
+			},
+			{
+				"id": 219603,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://v.daum.net/v/20210528085450587",
+				"weights": 0.38383839864944386
+			}
+		]
+	},
+	"218857": {
+		"rank": 37,
+		"name": "남양유업",
+		"weights": 0.7669391592205175,
+		"n_key": [
+			{
+				"id": 219281,
+				"name": "오너",
+				"weights": 0.1415767012853054
+			},
+			{
+				"id": 219242,
+				"name": "한앤코",
+				"weights": 0.14798996812254026
+			},
+			{
+				"id": 219241,
+				"name": "웅진식품",
+				"weights": 0.14798996812254026
+			},
+			{
+				"id": 218859,
+				"name": "주인",
+				"weights": 0.292513207627071
+			},
+			{
+				"id": 218858,
+				"name": "한앤컴퍼니",
+				"weights": 0.14452323950453072
+			}
+		],
+		"n_content": [
+			{
+				"id": 219576,
+				"title": "'허겁지겁' 팔았다..'57년 기업' 남양유업은 왜 몰락했나",
+				"url": "https://v.daum.net/v/20210528172205562",
+				"weights": 0.16863169997298366
+			},
+			{
+				"id": 218964,
+				"title": "한때 유업계 1위에서 매물로…'반백년' 남양유업, 갑질경영의 몰락",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085937&rankingType=RANKING",
+				"weights": 0.16421755033515742
+			},
+			{
+				"id": 219240,
+				"title": "“웅진식품 팔아 떼돈”…남양유업 새주인 된 한앤코는?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013242&rankingType=RANKING",
+				"weights": 0.14798996812254026
+			},
+			{
+				"id": 218856,
+				"title": "'논란의 남양유업' 새주인 한앤컴퍼니 대표는 누구?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698528&rankingType=RANKING",
+				"weights": 0.14452323950453072
+			},
+			{
+				"id": 219280,
+				"title": "[증시이슈] 남양유업, '오너 지분 매각' 소식에 상한가",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=243&aid=0000013248&rankingType=RANKING",
+				"weights": 0.1415767012853054
+			}
+		]
+	},
+	"219855": {
+		"rank": 38,
+		"name": "토트넘",
+		"weights": 0.761806091551507,
+		"n_key": [
+			{
+				"id": 219913,
+				"name": "SON",
+				"weights": 0.1652876323741666
+			},
+			{
+				"id": 219864,
+				"name": "케인",
+				"weights": 0.20800727200202984
+			},
+			{
+				"id": 219912,
+				"name": "독일",
+				"weights": 0.1652876323741666
+			},
+			{
+				"id": 219895,
+				"name": "BBC",
+				"weights": 0.14134822020782623
+			},
+			{
+				"id": 219843,
+				"name": "포체티노",
+				"weights": 0.2324774693406771
+			},
+			{
+				"id": 219878,
+				"name": "스포츠타임",
+				"weights": 0.1383078640351099
+			},
+			{
+				"id": 219867,
+				"name": "축구",
+				"weights": 0.16899288775910434
+			},
+			{
+				"id": 219797,
+				"name": "손흥민",
+				"weights": 0.5361830301095516
+			}
+		],
+		"n_content": [
+			{
+				"id": 219866,
+				"title": "손흥민 팬 \"날 때부터 토트넘 사랑, 축구는 가족의 중대사\"",
+				"url": "https://v.daum.net/v/20210529002214995",
+				"weights": 0.16899288775910434
+			},
+			{
+				"id": 219911,
+				"title": "'토트넘+독일' 레전드, SON 행보 예상 \"케인 떠나면 아마..\"",
+				"url": "https://v.daum.net/v/20210528160502435",
+				"weights": 0.1652876323741666
+			},
+			{
+				"id": 219854,
+				"title": "라이언 메이슨,\"토트넘 감독? 내가 할게\"",
+				"url": "https://v.daum.net/v/20210528172513651",
+				"weights": 0.1478694871752999
+			},
+			{
+				"id": 219894,
+				"title": "BBC, \"포체티노 토트넘 복귀 가능성 낮다\" 주장..이유는?",
+				"url": "https://v.daum.net/v/20210528210003725",
+				"weights": 0.14134822020782623
+			},
+			{
+				"id": 219877,
+				"title": "[스포츠타임] 우승했는데 '사직서'..토트넘 거액 오퍼 때문",
+				"url": "https://v.daum.net/v/20210528154733810",
+				"weights": 0.1383078640351099
+			}
+		]
+	},
+	"220130": {
+		"rank": 39,
+		"name": "AESPA",
+		"weights": 0.7108331526757473,
+		"n_key": [
+			{
+				"id": 220067,
+				"name": "에스파",
+				"weights": 0.9798234027488918
+			}
+		],
+		"n_content": [
+			{
+				"id": 220129,
+				"title": "aespa 에스파 'Next Level' MV",
+				"url": "https://www.youtube.com/watch?v=4TWR90KJl84&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=135",
+				"weights": 0.4507936256758205
+			},
+			{
+				"id": 220256,
+				"title": "(Teaser) [BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=ESh2SQDho_o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=188",
+				"weights": 0.13528092576583775
+			},
+			{
+				"id": 220222,
+				"title": "에스파 'NEXT LEVEL' 뮤비를 보는 남녀 댄서의 반응 차이 | aespa ‘NEXT LEVEL' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=pt5RiSKfRC4&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=168",
+				"weights": 0.12475860123408909
+			}
+		]
+	},
+	"219149": {
+		"rank": 40,
+		"name": "한복",
+		"weights": 0.7105023069931413,
+		"n_key": [
+			{
+				"id": 219314,
+				"name": "김치",
+				"weights": 0.5742329638652623
+			}
+		],
+		"n_content": [
+			{
+				"id": 219949,
+				"title": "\"김치·한복 모두 중국것\" 괘씸죄에 \"中 속국\" 거부감..MZ세대 분노 폭발",
+				"url": "https://news.v.daum.net/v/20210528175501426",
+				"weights": 0.36480644359103115
+			},
+			{
+				"id": 219313,
+				"title": "\"김치·한복 모두 중국것\" 괘씸죄에 \"中 속국\" 거부감···MZ세대 분노 폭발",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916230&rankingType=RANKING",
+				"weights": 0.20942652027423117
+			},
+			{
+				"id": 219148,
+				"title": "“한복 현대화는 내 소명… 한순간도 쉴 수 없어”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472603&rankingType=RANKING",
+				"weights": 0.13626934312787892
+			}
+		]
+	},
+	"219622": {
+		"rank": 41,
+		"name": "입수자",
+		"weights": 0.710485636650168,
+		"n_key": [
+			{
+				"id": 220145,
+				"name": "배상훈",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220144,
+				"name": "허민우",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220143,
+				"name": "살인",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220142,
+				"name": "김은배",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 218948,
+				"name": "경찰",
+				"weights": 2.964203297196805
+			},
+			{
+				"id": 218910,
+				"name": "정민",
+				"weights": 1.7532850951012673
+			},
+			{
+				"id": 218977,
+				"name": "손정민",
+				"weights": 3.787244825131078
+			}
+		],
+		"n_content": [
+			{
+				"id": 219621,
+				"title": "고 손정민씨 사건..\"한강 입수자 '시원하다' 소리내 신고 안했다\"",
+				"url": "https://v.daum.net/v/20210528075743217",
+				"weights": 0.26523896545850456
+			},
+			{
+				"id": 220141,
+				"title": "[시사본부] 故 손정민 씨 친구 입장문 발표, 경찰 “한강 입수자” 증언 확보/‘노래주점 살인’ 허민우, 전화로만 보호관찰 (아는 경찰-배상훈, 김은배) KBS 210519 방송",
+				"url": "https://www.youtube.com/watch?v=qgaC7dscdaY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=139",
+				"weights": 0.19154461187234936
+			},
+			{
+				"id": 220119,
+				"title": "[故손정민 사건] '한강 입수자' 목격담, 정민군 맞나? (f.손정민父)",
+				"url": "https://www.youtube.com/watch?v=jj1xRMYS9LM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=132",
+				"weights": 0.1354224571060474
+			},
+			{
+				"id": 220211,
+				"title": "MBN 뉴스파이터-故 손정민 군 실종 시간대 목격된 한강 입수자는?",
+				"url": "https://www.youtube.com/watch?v=VA0BIenbKrY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=163",
+				"weights": 0.1182796022132667
+			}
+		]
+	},
+	"219556": {
+		"rank": 42,
+		"name": "나경원",
+		"weights": 0.7074993204438905,
+		"n_key": [
+			{
+				"id": 219634,
+				"name": "진중권",
+				"weights": 0.5986060260264019
+			},
+			{
+				"id": 218926,
+				"name": "국민",
+				"weights": 0.8527137295752902
+			},
+			{
+				"id": 219561,
+				"name": "당대표",
+				"weights": 0.2769489971408866
+			},
+			{
+				"id": 218981,
+				"name": "이준석",
+				"weights": 2.452094141949665
+			},
+			{
+				"id": 219560,
+				"name": "홍문표",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219273,
+				"name": "국민의힘",
+				"weights": 0.22036242491601732
+			},
+			{
+				"id": 219559,
+				"name": "본경선",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219558,
+				"name": "주호영",
+				"weights": 0.10889329441748863
+			},
+			{
+				"id": 219557,
+				"name": "조경태",
+				"weights": 0.10889329441748863
+			}
+		],
+		"n_content": [
+			{
+				"id": 219954,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://news.v.daum.net/v/20210528152626049",
+				"weights": 0.2993986578915666
+			},
+			{
+				"id": 219633,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://v.daum.net/v/20210528152626049",
+				"weights": 0.2992073681348353
+			},
+			{
+				"id": 219555,
+				"title": "나경원·이준석·조경태·주호영·홍문표 국민의힘 당대표 본경선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=310&aid=0000087666&rankingType=RANKING",
+				"weights": 0.10889329441748863
+			}
+		]
+	},
+	"219539": {
+		"rank": 43,
+		"name": "시민",
+		"weights": 0.6514304071209469,
+		"n_key": [
+			{
+				"id": 218838,
+				"name": "국적법",
+				"weights": 0.5639590481455435
+			}
+		],
+		"n_content": [
+			{
+				"id": 219538,
+				"title": "\"3시간 출퇴근 지옥...더 이상 이렇게는 못산다\" 靑 달려간 김포시민",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800940&rankingType=RANKING",
+				"weights": 0.3024604378148387
+			},
+			{
+				"id": 219957,
+				"title": "\"이익 볼 사람 다 봤는데 인제야\"..시민들 \"뒷북\" 비판",
+				"url": "https://news.v.daum.net/v/20210528195616847",
+				"weights": 0.21522181917070388
+			},
+			{
+				"id": 219584,
+				"title": "\"나라 팔아먹으려 한다\"..국적법 개정 '中 특혜 논란' 시민들 거센 반발",
+				"url": "https://v.daum.net/v/20210529030028794",
+				"weights": 0.1337481501354044
+			}
+		]
+	},
+	"219600": {
+		"rank": 44,
+		"name": "구본성",
+		"weights": 0.6465041572267141,
+		"n_key": [
+			{
+				"id": 219048,
+				"name": "운전자",
+				"weights": 1.1295852857980573
+			},
+			{
+				"id": 219320,
+				"name": "아워홈",
+				"weights": 1.297366010509953
+			}
+		],
+		"n_content": [
+			{
+				"id": 219974,
+				"title": "구본성 아워홈 부회장 '보복운전'..항의하자 차로 치어",
+				"url": "https://news.v.daum.net/v/20210528202816307",
+				"weights": 0.23758475605364393
+			},
+			{
+				"id": 219599,
+				"title": "구본성 아워홈 부회장 '보복운전'..항의하자 차로 치어",
+				"url": "https://v.daum.net/v/20210528202816307",
+				"weights": 0.23622397438703552
+			},
+			{
+				"id": 219917,
+				"title": "아워홈 구본성 부회장 '보복운전'..상대 차·운전자 들이받아",
+				"url": "https://v.daum.net/v/20210529002136975",
+				"weights": 0.17269542678603464
+			}
+		]
+	},
+	"219063": {
+		"rank": 45,
+		"name": "추미애",
+		"weights": 0.5989540196416288,
+		"n_key": [
+			{
+				"id": 219932,
+				"name": "재보선",
+				"weights": 0.14301385000490863
+			},
+			{
+				"id": 219151,
+				"name": "지니",
+				"weights": 0.214351375577855
+			},
+			{
+				"id": 219062,
+				"name": "헌법",
+				"weights": 0.12041690311902378
+			},
+			{
+				"id": 219061,
+				"name": "조국",
+				"weights": 4.647575642391483
+			},
+			{
+				"id": 219060,
+				"name": "박범계",
+				"weights": 0.14060694086556555
+			}
+		],
+		"n_content": [
+			{
+				"id": 219150,
+				"title": "추미애 “선거 지니 '조국 탓, 내 탓'… 우울증 앓았다”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607432&rankingType=RANKING",
+				"weights": 0.214351375577855
+			},
+			{
+				"id": 219931,
+				"title": "'재보선 조국·추미애 탓' 평가에..秋 \"심하게 우울증 앓았다\"",
+				"url": "https://v.daum.net/v/20210529010122252",
+				"weights": 0.14301385000490863
+			},
+			{
+				"id": 219354,
+				"title": "추미애 \"선거 지니 조국·추미애 탓…우울증 앓아\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=031&aid=0000601272&rankingType=RANKING",
+				"weights": 0.12117189093984139
+			},
+			{
+				"id": 219059,
+				"title": "“조국 추미애 박범계가 헌법상 알 권리 빼앗아”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=262&aid=0000014497&rankingType=RANKING",
+				"weights": 0.12041690311902378
+			}
+		]
+	},
+	"219634": {
+		"rank": 46,
+		"name": "진중권",
+		"weights": 0.5986060260264019,
+		"n_key": [
+			{
+				"id": 218981,
+				"name": "이준석",
+				"weights": 2.452094141949665
+			},
+			{
+				"id": 218926,
+				"name": "국민",
+				"weights": 0.8527137295752902
+			},
+			{
+				"id": 219556,
+				"name": "나경원",
+				"weights": 0.7074993204438905
+			}
+		],
+		"n_content": [
+			{
+				"id": 219954,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://news.v.daum.net/v/20210528152626049",
+				"weights": 0.2993986578915666
+			},
+			{
+				"id": 219633,
+				"title": "진중권 \"이준석 이기면 국민의힘 망해..언제적 나경원?\"",
+				"url": "https://v.daum.net/v/20210528152626049",
+				"weights": 0.2992073681348353
+			}
+		]
+	},
+	"219511": {
+		"rank": 47,
+		"name": "부부",
+		"weights": 0.5954914328690615,
+		"n_key": [
+			{
+				"id": 219777,
+				"name": "미우새",
+				"weights": 0.17096383788003794
+			},
+			{
+				"id": 219776,
+				"name": "장윤정",
+				"weights": 0.17096383788003794
+			},
+			{
+				"id": 219775,
+				"name": "도경완",
+				"weights": 0.17096383788003794
+			},
+			{
+				"id": 219717,
+				"name": "당구",
+				"weights": 0.14454047613744062
+			},
+			{
+				"id": 219716,
+				"name": "피아비",
+				"weights": 0.14454047613744062
+			},
+			{
+				"id": 219656,
+				"name": "정주리",
+				"weights": 0.14042879905167777
+			},
+			{
+				"id": 219655,
+				"name": "국제",
+				"weights": 0.2849692751891184
+			},
+			{
+				"id": 219654,
+				"name": "엘랸",
+				"weights": 0.14042879905167777
+			},
+			{
+				"id": 219494,
+				"name": "억만장자",
+				"weights": 0.3447642950473384
+			}
+		],
+		"n_content": [
+			{
+				"id": 219774,
+				"title": "'미우새' 도경완, 장윤정과 부부싸움 다음날 합동 방송→폭풍 오열",
+				"url": "https://v.daum.net/v/20210528112035697",
+				"weights": 0.17096383788003794
+			},
+			{
+				"id": 219715,
+				"title": "'국제부부' 피아비 \"당구 랭킹 세계 2위..남편이 3만원 큐대 사줘 시작\"",
+				"url": "https://v.daum.net/v/20210528231400371",
+				"weights": 0.14454047613744062
+			},
+			{
+				"id": 219653,
+				"title": "'국제부부' 정주리, 30분 샤워 엘랸 남편에 \"내 남편은 5일에 한 번\"[결정적장면]",
+				"url": "https://v.daum.net/v/20210528234222581",
+				"weights": 0.14042879905167777
+			},
+			{
+				"id": 219510,
+				"title": "억만장자들의 결혼과 이혼(1) 빌 게이츠 부부 파탄의 원인, 스캔들이 아니다?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=053&aid=0000029063&rankingType=RANKING",
+				"weights": 0.13955831979990518
+			}
+		]
+	},
+	"219314": {
+		"rank": 48,
+		"name": "김치",
+		"weights": 0.5742329638652623,
+		"n_key": [
+			{
+				"id": 219149,
+				"name": "한복",
+				"weights": 0.7105023069931413
+			}
+		],
+		"n_content": [
+			{
+				"id": 219949,
+				"title": "\"김치·한복 모두 중국것\" 괘씸죄에 \"中 속국\" 거부감..MZ세대 분노 폭발",
+				"url": "https://news.v.daum.net/v/20210528175501426",
+				"weights": 0.36480644359103115
+			},
+			{
+				"id": 219313,
+				"title": "\"김치·한복 모두 중국것\" 괘씸죄에 \"中 속국\" 거부감···MZ세대 분노 폭발",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916230&rankingType=RANKING",
+				"weights": 0.20942652027423117
+			}
+		]
+	},
+	"219639": {
+		"rank": 49,
+		"name": "나혼산",
+		"weights": 0.5733676663428299,
+		"n_key": [
+			{
+				"id": 219745,
+				"name": "남윤수",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 219744,
+				"name": "한강",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 219736,
+				"name": "한강뷰",
+				"weights": 0.14210904846309258
+			},
+			{
+				"id": 219684,
+				"name": "동생",
+				"weights": 0.38907209486789324
+			},
+			{
+				"id": 219683,
+				"name": "샤이니",
+				"weights": 0.3165035133222213
+			},
+			{
+				"id": 219682,
+				"name": "태민",
+				"weights": 0.8802459565826031
+			},
+			{
+				"id": 219641,
+				"name": "홍보대사",
+				"weights": 0.11524973025946132
+			},
+			{
+				"id": 219640,
+				"name": "밤TVIEW",
+				"weights": 0.11524973025946132
+			},
+			{
+				"id": 219638,
+				"name": "이지훈",
+				"weights": 0.11524973025946132
+			}
+		],
+		"n_content": [
+			{
+				"id": 219681,
+				"title": "샤이니 태민, '나혼산'서 집 최초 공개..키 \"군입대 앞둔 동생\" 걱정(종합)",
+				"url": "https://v.daum.net/v/20210529004738178",
+				"weights": 0.17439446485912874
+			},
+			{
+				"id": 219735,
+				"title": "샤이니 태민, 뉴욕 스타일 한강뷰 고층아파트 자택 공개..키 \"돈이 좋다\"(나혼산)",
+				"url": "https://v.daum.net/v/20210529004159137",
+				"weights": 0.14210904846309258
+			},
+			{
+				"id": 219743,
+				"title": "태민, 키도 놀란 한강뷰 하우스 \"돈이 좋다\"→남윤수, 187cm 복층 라이프 ('나혼산')[종합]",
+				"url": "https://v.daum.net/v/20210529004823180",
+				"weights": 0.14161442276114725
+			},
+			{
+				"id": 219637,
+				"title": "'나혼산' 이지훈, 출연 후 광고 10개+남양주 홍보대사[★밤TView]",
+				"url": "https://v.daum.net/v/20210529004245144",
+				"weights": 0.11524973025946132
+			}
+		]
+	},
+	"218846": {
+		"rank": 50,
+		"name": "LG",
+		"weights": 0.5720097088338306,
+		"n_key": [
+			{
+				"id": 219841,
+				"name": "야수",
+				"weights": 0.1494743378516592
+			},
+			{
+				"id": 219467,
+				"name": "KT",
+				"weights": 0.5538168703550708
+			},
+			{
+				"id": 219832,
+				"name": "KIA",
+				"weights": 0.44220107211613047
+			},
+			{
+				"id": 218792,
+				"name": "애플",
+				"weights": 1.0434688810238986
+			},
+			{
+				"id": 218847,
+				"name": "다이슨",
+				"weights": 0.09941325860930697
+			},
+			{
+				"id": 218845,
+				"name": "삼성",
+				"weights": 1.029080655780079
+			}
+		],
+		"n_content": [
+			{
+				"id": 219840,
+				"title": "KIA, '끝내기 야수 선택'으로 KT 잡고 3연승..LG는 공동 2위 점프(종합)",
+				"url": "https://v.daum.net/v/20210528230117237",
+				"weights": 0.1494743378516592
+			},
+			{
+				"id": 219452,
+				"title": "“LG폰 받고 15만원 쏜다” 삼성에게 뺏길라, 칼 꺼낸 애플",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=138&aid=0002104140&rankingType=RANKING",
+				"weights": 0.12920810728311719
+			},
+			{
+				"id": 218871,
+				"title": "삼성·애플 '박터진다'...LG중고폰에 15만원 추가 보상",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223395&rankingType=RANKING",
+				"weights": 0.12104389936273974
+			},
+			{
+				"id": 218844,
+				"title": "다이슨, '녹색 레이저' 쏘는 무선청소기로 LG·삼성에 도전장",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223306&rankingType=RANKING",
+				"weights": 0.09941325860930697
+			},
+			{
+				"id": 219028,
+				"title": "\"분할 상장한 LG, 주가 하락 과도\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960909&rankingType=RANKING",
+				"weights": 0.07287010572700758
+			}
+		]
+	}
+}

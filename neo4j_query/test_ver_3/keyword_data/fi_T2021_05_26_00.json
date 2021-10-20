@@ -1,0 +1,2053 @@
+{
+	"10073": {
+		"rank": 1,
+		"name": "BTS",
+		"weights": 3.6307815592768016,
+		"n_key": [
+			{
+				"id": 10556,
+				"name": "BBMAs",
+				"weights": 0.15282581991786576
+			},
+			{
+				"id": 10555,
+				"name": "McDonald",
+				"weights": 0.15282581991786576
+			},
+			{
+				"id": 10343,
+				"name": "BBMA",
+				"weights": 0.15107748474604557
+			},
+			{
+				"id": 10298,
+				"name": "RM",
+				"weights": 0.14675657764019864
+			},
+			{
+				"id": 10297,
+				"name": "저스틴비버",
+				"weights": 0.14675657764019864
+			},
+			{
+				"id": 10256,
+				"name": "NewsenTV",
+				"weights": 0.15588925338234805
+			},
+			{
+				"id": 10255,
+				"name": "BUTTER",
+				"weights": 0.3100755207328326
+			},
+			{
+				"id": 10228,
+				"name": "방탄소년단",
+				"weights": 2.760015130083011
+			},
+			{
+				"id": 10164,
+				"name": "이지효",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10163,
+				"name": "아미",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10162,
+				"name": "바이든",
+				"weights": 0.3711529704152853
+			},
+			{
+				"id": 10072,
+				"name": "Butter",
+				"weights": 2.4377364421872283
+			}
+		],
+		"n_content": [
+			{
+				"id": 10231,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.836365704687151
+			},
+			{
+				"id": 10544,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=82",
+				"weights": 0.4129673202025831
+			},
+			{
+				"id": 10161,
+				"title": "78세 바이든도 아미였어?…BTS 출격에 엔터주 담는 외국인, 왜? [이지효의 플러스 PICK]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960296&rankingType=RANKING",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10071,
+				"title": "BTS 'Butter', 전 세계 아미들이 3억 트윗으로 축하했다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696986&rankingType=RANKING",
+				"weights": 0.25739165822363264
+			},
+			{
+				"id": 10227,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=1",
+				"weights": 0.24893269806119828
+			},
+			{
+				"id": 10253,
+				"title": "[EPISODE] BTS (방탄소년단) 'Butter' MV Shooting Sketch",
+				"url": "https://www.youtube.com/watch?v=mQEGPegvnuM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.19499105766787195
+			},
+			{
+				"id": 10442,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=54",
+				"weights": 0.17788542856547038
+			}
+		]
+	},
+	"10228": {
+		"rank": 2,
+		"name": "방탄소년단",
+		"weights": 2.760015130083011,
+		"n_key": [
+			{
+				"id": 10420,
+				"name": "버터",
+				"weights": 0.11556371611461495
+			},
+			{
+				"id": 10256,
+				"name": "NewsenTV",
+				"weights": 0.15588925338234805
+			},
+			{
+				"id": 10255,
+				"name": "BUTTER",
+				"weights": 0.3100755207328326
+			},
+			{
+				"id": 10072,
+				"name": "Butter",
+				"weights": 2.4377364421872283
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			}
+		],
+		"n_content": [
+			{
+				"id": 10231,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.836365704687151
+			},
+			{
+				"id": 10544,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=82",
+				"weights": 0.4129673202025831
+			},
+			{
+				"id": 10227,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=1",
+				"weights": 0.24893269806119828
+			},
+			{
+				"id": 10253,
+				"title": "[EPISODE] BTS (방탄소년단) 'Butter' MV Shooting Sketch",
+				"url": "https://www.youtube.com/watch?v=mQEGPegvnuM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.19499105766787195
+			},
+			{
+				"id": 10442,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=54",
+				"weights": 0.17788542856547038
+			},
+			{
+				"id": 10254,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=107",
+				"weights": 0.15588925338234805
+			},
+			{
+				"id": 10475,
+				"title": "방탄소년단 'Butter 뮤비를 보는 남녀 댄서의 반응 차이 | BTS ‘Butter' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=rPosuDRNJrc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=66",
+				"weights": 0.15486816180768606
+			}
+		]
+	},
+	"10072": {
+		"rank": 3,
+		"name": "Butter",
+		"weights": 2.4377364421872283,
+		"n_key": [
+			{
+				"id": 10228,
+				"name": "방탄소년단",
+				"weights": 2.760015130083011
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			}
+		],
+		"n_content": [
+			{
+				"id": 10231,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.836365704687151
+			},
+			{
+				"id": 10544,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=82",
+				"weights": 0.4129673202025831
+			},
+			{
+				"id": 10071,
+				"title": "BTS 'Butter', 전 세계 아미들이 3억 트윗으로 축하했다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696986&rankingType=RANKING",
+				"weights": 0.25739165822363264
+			},
+			{
+				"id": 10227,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=1",
+				"weights": 0.24893269806119828
+			},
+			{
+				"id": 10253,
+				"title": "[EPISODE] BTS (방탄소년단) 'Butter' MV Shooting Sketch",
+				"url": "https://www.youtube.com/watch?v=mQEGPegvnuM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.19499105766787195
+			},
+			{
+				"id": 10442,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=54",
+				"weights": 0.17788542856547038
+			},
+			{
+				"id": 10475,
+				"title": "방탄소년단 'Butter 뮤비를 보는 남녀 댄서의 반응 차이 | BTS ‘Butter' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=rPosuDRNJrc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=66",
+				"weights": 0.15486816180768606
+			}
+		]
+	},
+	"10021": {
+		"rank": 4,
+		"name": "손정민",
+		"weights": 1.9177314922439703,
+		"n_key": [
+			{
+				"id": 10620,
+				"name": "김은배",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10619,
+				"name": "배상훈",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10618,
+				"name": "허민우",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10129,
+				"name": "정민",
+				"weights": 0.9158450905288549
+			},
+			{
+				"id": 10235,
+				"name": "김진의",
+				"weights": 0.2304925345827415
+			},
+			{
+				"id": 10230,
+				"name": "뉴스A",
+				"weights": 0.1379744620958154
+			},
+			{
+				"id": 10063,
+				"name": "경찰",
+				"weights": 0.5524573183618162
+			}
+		],
+		"n_content": [
+			{
+				"id": 10195,
+				"title": "“손정민 양말, 강물 속 흙 성분과 유사”…“경찰 수사 못 믿겠다”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050599&rankingType=RANKING",
+				"weights": 0.2983760300000001
+			},
+			{
+				"id": 10211,
+				"title": "“손정민 양말, 강물 속 흙 성분과 유사”…사망 경위는 안갯속",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050688&rankingType=RANKING",
+				"weights": 0.229072822386041
+			},
+			{
+				"id": 10020,
+				"title": "고 손정민씨 사건 핵심 단서 '친구 휴대전화'는 어디에?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000697317&rankingType=RANKING",
+				"weights": 0.20628194414422116
+			},
+			{
+				"id": 10600,
+				"title": "[故손정민 사건] '한강 입수자' 목격담, 정민군 맞나? (f.손정민父)",
+				"url": "https://www.youtube.com/watch?v=jj1xRMYS9LM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=94",
+				"weights": 0.19006339833440897
+			},
+			{
+				"id": 10617,
+				"title": "[시사본부] 故 손정민 씨 친구 입장문 발표, 경찰 “한강 입수자” 증언 확보/‘노래주점 살인’ 허민우, 전화로만 보호관찰 (아는 경찰-배상훈, 김은배) KBS 210519 방송",
+				"url": "https://www.youtube.com/watch?v=qgaC7dscdaY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=97",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10234,
+				"title": "손정민 씨 아버지, 새 CCTV 영상 공개 | 김진의 돌직구 쇼 746 회",
+				"url": "https://www.youtube.com/watch?v=mVkG4Hlfq_c&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=3",
+				"weights": 0.14948864158516978
+			},
+			{
+				"id": 10557,
+				"title": "[단독 영상] 손정민씨 실종 당일, CCTV에 찍힌 친구 모습",
+				"url": "https://www.youtube.com/watch?v=5dQVNo13-Fg&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=184",
+				"weights": 0.13989411044312627
+			}
+		]
+	},
+	"10237": {
+		"rank": 5,
+		"name": "에스파",
+		"weights": 0.9900362516627557,
+		"n_key": [
+			{
+				"id": 10418,
+				"name": "원더케이",
+				"weights": 0.11270209922155631
+			},
+			{
+				"id": 10417,
+				"name": "IDDP",
+				"weights": 0.11270209922155631
+			},
+			{
+				"id": 10281,
+				"name": "소녀시대",
+				"weights": 0.11182758905380315
+			},
+			{
+				"id": 10238,
+				"name": "aespa",
+				"weights": 0.9894869992973365
+			}
+		],
+		"n_content": [
+			{
+				"id": 10236,
+				"title": "aespa 에스파 'Next Level' MV",
+				"url": "https://www.youtube.com/watch?v=4TWR90KJl84&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=103",
+				"weights": 0.33298290413276604
+			},
+			{
+				"id": 10266,
+				"title": "[BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=9xBSLI7EsTg&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=9",
+				"weights": 0.1554176600905722
+			},
+			{
+				"id": 10447,
+				"title": "(Teaser) [BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=ESh2SQDho_o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=155",
+				"weights": 0.14157355092820587
+			},
+			{
+				"id": 10379,
+				"title": "에스파 'NEXT LEVEL' 뮤비를 보는 남녀 댄서의 반응 차이 | aespa ‘NEXT LEVEL' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=pt5RiSKfRC4&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=135",
+				"weights": 0.13553244823585212
+			},
+			{
+				"id": 10416,
+				"title": "에스파 세계관 흑막은 누구? 원더케이는 윈터 흑막설에 치킨 걸었음 | 에스파(aespa)_Next Level | 아이돌등판 | IDDP",
+				"url": "https://www.youtube.com/watch?v=8rNmPbOTAis&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=46",
+				"weights": 0.11270209922155631
+			},
+			{
+				"id": 10280,
+				"title": "[방송선공개] 멋쁨폭발! 에스파의 소녀시대 ‘소원을 말해봐’ 커버 무대♬",
+				"url": "https://www.youtube.com/watch?v=fCnQgb4DChA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=13",
+				"weights": 0.11182758905380315
+			}
+		]
+	},
+	"10238": {
+		"rank": 6,
+		"name": "aespa",
+		"weights": 0.9894869992973365,
+		"n_key": [
+			{
+				"id": 10314,
+				"name": "SHINee",
+				"weights": 0.1121155344015498
+			},
+			{
+				"id": 10237,
+				"name": "에스파",
+				"weights": 0.9900362516627557
+			}
+		],
+		"n_content": [
+			{
+				"id": 10236,
+				"title": "aespa 에스파 'Next Level' MV",
+				"url": "https://www.youtube.com/watch?v=4TWR90KJl84&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=103",
+				"weights": 0.33298290413276604
+			},
+			{
+				"id": 10266,
+				"title": "[BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=9xBSLI7EsTg&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=9",
+				"weights": 0.1554176600905722
+			},
+			{
+				"id": 10447,
+				"title": "(Teaser) [BE ORIGINAL] aespa(에스파) 'Next Level' (4K)",
+				"url": "https://www.youtube.com/watch?v=ESh2SQDho_o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=155",
+				"weights": 0.14157355092820587
+			},
+			{
+				"id": 10379,
+				"title": "에스파 'NEXT LEVEL' 뮤비를 보는 남녀 댄서의 반응 차이 | aespa ‘NEXT LEVEL' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=pt5RiSKfRC4&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=135",
+				"weights": 0.13553244823585212
+			},
+			{
+				"id": 10313,
+				"title": "SHINee TAEMIN Reaction | aespa 'Next Level' MV",
+				"url": "https://www.youtube.com/watch?v=kxnkvTSJJhA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=21",
+				"weights": 0.1121155344015498
+			},
+			{
+				"id": 10394,
+				"title": "SUPER JUNIOR LEETEUK Reaction | aespa ‘Next Level’ MV",
+				"url": "https://www.youtube.com/watch?v=UGrpwyQH8UI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=40",
+				"weights": 0.1118649015083905
+			}
+		]
+	},
+	"10129": {
+		"rank": 7,
+		"name": "정민",
+		"weights": 0.9158450905288549,
+		"n_key": [
+			{
+				"id": 10021,
+				"name": "손정민",
+				"weights": 1.9177314922439703
+			},
+			{
+				"id": 10235,
+				"name": "김진의",
+				"weights": 0.2304925345827415
+			}
+		],
+		"n_content": [
+			{
+				"id": 10128,
+				"title": "정민씨 父 “폰 종료 1시9분 웬 말? 이렇게 보도될 수 있구나”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004644532&rankingType=RANKING",
+				"weights": 0.4255715798173061
+			},
+			{
+				"id": 10151,
+				"title": "\"사람 운명 알 수 없나\" 고(故) 정민씨 사건 한달 父의 토로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004644451&rankingType=RANKING",
+				"weights": 0.21920621937956808
+			},
+			{
+				"id": 10600,
+				"title": "[故손정민 사건] '한강 입수자' 목격담, 정민군 맞나? (f.손정민父)",
+				"url": "https://www.youtube.com/watch?v=jj1xRMYS9LM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=94",
+				"weights": 0.19006339833440897
+			},
+			{
+				"id": 10425,
+				"title": "부친이 공개한 정민 씨 휴대전화 사용내역 | 김진의 돌직구 쇼 743 회",
+				"url": "https://www.youtube.com/watch?v=Uh5Vu5KkFWo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=148",
+				"weights": 0.08100389299757171
+			}
+		]
+	},
+	"10030": {
+		"rank": 8,
+		"name": "삼성",
+		"weights": 0.8108731802983623,
+		"n_key": [
+			{
+				"id": 10625,
+				"name": "비밀노",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10060,
+				"name": "현대차",
+				"weights": 0.23611099145918119
+			},
+			{
+				"id": 10624,
+				"name": "염블리",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10623,
+				"name": "머니올라",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10622,
+				"name": "염승환",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10029,
+				"name": "LG",
+				"weights": 0.5107232196179818
+			}
+		],
+		"n_content": [
+			{
+				"id": 10049,
+				"title": "삼성·LG, 글로벌 TV 시장 역대 최대 점유율 기록",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222970&rankingType=RANKING",
+				"weights": 0.17487445416344005
+			},
+			{
+				"id": 10179,
+				"title": "“TV는 한국이지”…삼성·LG 1분기 세계시장 ‘평정’",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960299&rankingType=RANKING",
+				"weights": 0.17249520431473345
+			},
+			{
+				"id": 10043,
+				"title": "\"점유율 1등 지켜라\"...중저가폰 더 촘촘히 박는 삼성",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222905&rankingType=RANKING",
+				"weights": 0.1649011109054652
+			},
+			{
+				"id": 10028,
+				"title": "삼성·LG 스마트 TV가 광고판으로…OTT 경쟁 격화",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222993&rankingType=RANKING",
+				"weights": 0.16335356113980834
+			},
+			{
+				"id": 10621,
+				"title": "[머니올라 225화/염블리의 비밀노트] 한미 정상회담 큰 그림 보인다... 삼성ㆍ현대차가 뜨는 이유는?(염승환 부장)",
+				"url": "https://www.youtube.com/watch?v=Lg-qvMfBgvU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=197",
+				"weights": 0.13524884977491525
+			}
+		]
+	},
+	"10089": {
+		"rank": 9,
+		"name": "정부",
+		"weights": 0.6653373909305429,
+		"n_key": [
+			{
+				"id": 10090,
+				"name": "관평원",
+				"weights": 0.1995507261274525
+			}
+		],
+		"n_content": [
+			{
+				"id": 10121,
+				"title": "\"여행 금지\" 美조치에 발칵뒤집힌 日정부...日여론은 되레 '반색'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004644985&rankingType=RANKING",
+				"weights": 0.29063099690741834
+			},
+			{
+				"id": 10088,
+				"title": "[단독]정부 “관평원 직원 세종시 아파트 특공 일괄취소 가능”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209271&rankingType=RANKING",
+				"weights": 0.1995507261274525
+			},
+			{
+				"id": 10105,
+				"title": "정부, 소부장 특화단지 및 으뜸기업 맞춤형 지원방안 등 확정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223018&rankingType=RANKING",
+				"weights": 0.1751556678956721
+			}
+		]
+	},
+	"10048": {
+		"rank": 10,
+		"name": "민주당",
+		"weights": 0.6366097455711734,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 10047,
+				"title": "[단독]“말만 잘 하고 무능한 중년남”…민주당 자체 분석 보고서",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209288&rankingType=RANKING",
+				"weights": 0.290598174348654
+			},
+			{
+				"id": 10196,
+				"title": "[단독]민주당, ‘정치지형 변화 보고서’ 공유…“‘내로남불’ ‘무능’ 이미지 늘어”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209263&rankingType=RANKING",
+				"weights": 0.1741171340986041
+			},
+			{
+				"id": 10130,
+				"title": "[여랑야랑]민주당의 야권 후보 분석 보고서 / 한-미 대통령 중 ‘대단한 책략가’는 누구?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209289&rankingType=RANKING",
+				"weights": 0.1718944371239153
+			}
+		]
+	},
+	"10113": {
+		"rank": 11,
+		"name": "이준석",
+		"weights": 0.6265018574453992,
+		"n_key": [
+			{
+				"id": 10181,
+				"name": "민주",
+				"weights": 0.17476464400309633
+			},
+			{
+				"id": 10115,
+				"name": "장유유서",
+				"weights": 0.4517372134423029
+			},
+			{
+				"id": 10114,
+				"name": "정세균",
+				"weights": 0.4517372134423029
+			}
+		],
+		"n_content": [
+			{
+				"id": 10112,
+				"title": "'이준석 장유유서' 논란 커지자..정세균 \"오해 있었다\" 해명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004645175&rankingType=RANKING",
+				"weights": 0.23836911915825518
+			},
+			{
+				"id": 10209,
+				"title": "[여심야심] 72살 정세균, 36살 이준석에게 “장유유서” 했다가…",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050468&rankingType=RANKING",
+				"weights": 0.21336809428404774
+			},
+			{
+				"id": 10180,
+				"title": "주요 정당 ‘30대 당 대표’ 있었나…민주, 이준석 두고 시끌벅적?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209276&rankingType=RANKING",
+				"weights": 0.17476464400309633
+			}
+		]
+	},
+	"10053": {
+		"rank": 12,
+		"name": "애플",
+		"weights": 0.600283402157783,
+		"n_key": [
+			{
+				"id": 10517,
+				"name": "아이폰",
+				"weights": 0.12145994767243463
+			},
+			{
+				"id": 10516,
+				"name": "변승주",
+				"weights": 0.12145994767243463
+			},
+			{
+				"id": 10075,
+				"name": "에픽",
+				"weights": 0.17685316960126232
+			}
+		],
+		"n_content": [
+			{
+				"id": 10052,
+				"title": "애플, iOS 14.6 공개 \"에어태그 지원 향상\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222892&rankingType=RANKING",
+				"weights": 0.1808970816437883
+			},
+			{
+				"id": 10074,
+				"title": "애플·에픽, 앱스토어 소송 종료…최종 승자는?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222978&rankingType=RANKING",
+				"weights": 0.17685316960126232
+			},
+			{
+				"id": 10515,
+				"title": "실제로 작동하는 천만원짜리 초거대 아이폰 만들기 with 공대생 변승주 (애플한테 고소 당하면 영상 내릴게요ㅜㅜㅋㅋ)",
+				"url": "https://www.youtube.com/watch?v=tClBD1DHICc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=75",
+				"weights": 0.12145994767243463
+			},
+			{
+				"id": 10274,
+				"title": "포장에 미쳐버린 신상 애플 아이맥 M1 퍼플 언빡싱 (1분 요약)",
+				"url": "https://www.youtube.com/watch?v=YRLOwdH06_o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=12",
+				"weights": 0.12107320324029779
+			}
+		]
+	},
+	"10063": {
+		"rank": 13,
+		"name": "경찰",
+		"weights": 0.5524573183618162,
+		"n_key": [
+			{
+				"id": 10620,
+				"name": "김은배",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10619,
+				"name": "배상훈",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10618,
+				"name": "허민우",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10021,
+				"name": "손정민",
+				"weights": 1.9177314922439703
+			}
+		],
+		"n_content": [
+			{
+				"id": 10195,
+				"title": "“손정민 양말, 강물 속 흙 성분과 유사”…“경찰 수사 못 믿겠다”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050599&rankingType=RANKING",
+				"weights": 0.2983760300000001
+			},
+			{
+				"id": 10617,
+				"title": "[시사본부] 故 손정민 씨 친구 입장문 발표, 경찰 “한강 입수자” 증언 확보/‘노래주점 살인’ 허민우, 전화로만 보호관찰 (아는 경찰-배상훈, 김은배) KBS 210519 방송",
+				"url": "https://www.youtube.com/watch?v=qgaC7dscdaY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=97",
+				"weights": 0.15119978611481472
+			},
+			{
+				"id": 10062,
+				"title": "11분간 응급조치 없어…경찰 “매뉴얼 따라 지혈” 해명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209285&rankingType=RANKING",
+				"weights": 0.10288150224700142
+			}
+		]
+	},
+	"10029": {
+		"rank": 14,
+		"name": "LG",
+		"weights": 0.5107232196179818,
+		"n_key": [
+			{
+				"id": 10030,
+				"name": "삼성",
+				"weights": 0.8108731802983623
+			}
+		],
+		"n_content": [
+			{
+				"id": 10049,
+				"title": "삼성·LG, 글로벌 TV 시장 역대 최대 점유율 기록",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222970&rankingType=RANKING",
+				"weights": 0.17487445416344005
+			},
+			{
+				"id": 10179,
+				"title": "“TV는 한국이지”…삼성·LG 1분기 세계시장 ‘평정’",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960299&rankingType=RANKING",
+				"weights": 0.17249520431473345
+			},
+			{
+				"id": 10028,
+				"title": "삼성·LG 스마트 TV가 광고판으로…OTT 경쟁 격화",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222993&rankingType=RANKING",
+				"weights": 0.16335356113980834
+			}
+		]
+	},
+	"10376": {
+		"rank": 15,
+		"name": "송중기",
+		"weights": 0.5040229230590122,
+		"n_key": [
+			{
+				"id": 10590,
+				"name": "HAPP",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10589,
+				"name": "EN",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10434,
+				"name": "헤이즈",
+				"weights": 0.4571892890801799
+			},
+			{
+				"id": 10385,
+				"name": "유재석",
+				"weights": 0.3130817729157759
+			},
+			{
+				"id": 10384,
+				"name": "장도연",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10383,
+				"name": "백상예술대상",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10378,
+				"name": "넷플릭스",
+				"weights": 0.09581098977187863
+			},
+			{
+				"id": 10377,
+				"name": "빈센조",
+				"weights": 0.09581098977187863
+			}
+		],
+		"n_content": [
+			{
+				"id": 10382,
+				"title": "(ENG) 유재석, 송중기, 장도연... 어우 다 말하기도 입 아픈 별들의 잔치, 백상예술대상 후보 초대돼서 직접 다녀왔습니다⭐/ [문명특급 EP.190]",
+				"url": "https://www.youtube.com/watch?v=f4cso_qEuFY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=136",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10433,
+				"title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기)",
+				"url": "https://www.youtube.com/watch?v=AJPLgrfBiBo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=52",
+				"weights": 0.12991456359906073
+			},
+			{
+				"id": 10588,
+				"title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기) Behind The Scenes",
+				"url": "https://www.youtube.com/watch?v=01n__FZ2Tm8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=92",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10375,
+				"title": "송중기 생각 보다 세게 나온 명장면은? ‘빈센조’ 작감배 모두 모인 뒷 이야기 | 빈센조 Vincenzo | 넷플릭스 [ENG SUB]",
+				"url": "https://www.youtube.com/watch?v=rp5DUMdR3og&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=35",
+				"weights": 0.09581098977187863
+			}
+		]
+	},
+	"10065": {
+		"rank": 16,
+		"name": "카카오",
+		"weights": 0.4995817118920596,
+		"n_key": [
+			{
+				"id": 10085,
+				"name": "한은",
+				"weights": 0.17800490627492976
+			},
+			{
+				"id": 10084,
+				"name": "네이버",
+				"weights": 0.49847910020096386
+			}
+		],
+		"n_content": [
+			{
+				"id": 10083,
+				"title": "네이버·카카오, 한은 디지털화폐 쟁탈전… 50억 연구에 뛰어든다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696856&rankingType=RANKING",
+				"weights": 0.17800490627492976
+			},
+			{
+				"id": 10104,
+				"title": "잔여 백신 스마트폰 예약…네이버·카카오로 ‘노쇼 백신’ 서비스",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209277&rankingType=RANKING",
+				"weights": 0.17691375675565535
+			},
+			{
+				"id": 10064,
+				"title": "카카오 블록체인 클레이튼에서 누구나 쉽게 NFT 만든다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222917&rankingType=RANKING",
+				"weights": 0.1446630488614745
+			}
+		]
+	},
+	"10084": {
+		"rank": 17,
+		"name": "네이버",
+		"weights": 0.49847910020096386,
+		"n_key": [
+			{
+				"id": 10101,
+				"name": "코로나19",
+				"weights": 0.14356043717037875
+			},
+			{
+				"id": 10085,
+				"name": "한은",
+				"weights": 0.17800490627492976
+			},
+			{
+				"id": 10065,
+				"name": "카카오",
+				"weights": 0.4995817118920596
+			}
+		],
+		"n_content": [
+			{
+				"id": 10083,
+				"title": "네이버·카카오, 한은 디지털화폐 쟁탈전… 50억 연구에 뛰어든다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696856&rankingType=RANKING",
+				"weights": 0.17800490627492976
+			},
+			{
+				"id": 10104,
+				"title": "잔여 백신 스마트폰 예약…네이버·카카오로 ‘노쇼 백신’ 서비스",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209277&rankingType=RANKING",
+				"weights": 0.17691375675565535
+			},
+			{
+				"id": 10100,
+				"title": "네이버·카카오톡, 코로나19 잔여 백신 당일 예약 서비스 제공",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222952&rankingType=RANKING",
+				"weights": 0.14356043717037875
+			}
+		]
+	},
+	"10434": {
+		"rank": 18,
+		"name": "헤이즈",
+		"weights": 0.4571892890801799,
+		"n_key": [
+			{
+				"id": 10590,
+				"name": "HAPP",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10589,
+				"name": "EN",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10559,
+				"name": "이홍기",
+				"weights": 0.09466914393779685
+			},
+			{
+				"id": 10439,
+				"name": "워크맨",
+				"weights": 0.14040293167065615
+			},
+			{
+				"id": 10438,
+				"name": "장성규",
+				"weights": 0.10686607789590748
+			},
+			{
+				"id": 10376,
+				"name": "송중기",
+				"weights": 0.5040229230590122
+			}
+		],
+		"n_content": [
+			{
+				"id": 10433,
+				"title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기)",
+				"url": "https://www.youtube.com/watch?v=AJPLgrfBiBo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=52",
+				"weights": 0.12991456359906073
+			},
+			{
+				"id": 10588,
+				"title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기) Behind The Scenes",
+				"url": "https://www.youtube.com/watch?v=01n__FZ2Tm8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=92",
+				"weights": 0.12573950364741485
+			},
+			{
+				"id": 10437,
+				"title": "☔비도 오고 그래서 떡업일치한 헤이즈와 비와서 떡실신한 장성규🤧 | 떡집 알바 리뷰 | 워크맨 ep.102",
+				"url": "https://www.youtube.com/watch?v=4BsHzcrzW1c&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=53",
+				"weights": 0.10686607789590748
+			},
+			{
+				"id": 10558,
+				"title": "[골라봐야지]헤이즈(Heize)X이홍기(Lee Hong Ki) 드디어 만났다!! 꿀조합으로 듣는 '비도 오고 그래서'♬(feat.듀엣 모음)｜JTBC 210522 방송 외",
+				"url": "https://www.youtube.com/watch?v=89BwyiJvdI8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=85",
+				"weights": 0.09466914393779685
+			}
+		]
+	},
+	"10115": {
+		"rank": 19,
+		"name": "장유유서",
+		"weights": 0.4517372134423029,
+		"n_key": [
+			{
+				"id": 10114,
+				"name": "정세균",
+				"weights": 0.4517372134423029
+			},
+			{
+				"id": 10113,
+				"name": "이준석",
+				"weights": 0.6265018574453992
+			}
+		],
+		"n_content": [
+			{
+				"id": 10112,
+				"title": "'이준석 장유유서' 논란 커지자..정세균 \"오해 있었다\" 해명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004645175&rankingType=RANKING",
+				"weights": 0.23836911915825518
+			},
+			{
+				"id": 10209,
+				"title": "[여심야심] 72살 정세균, 36살 이준석에게 “장유유서” 했다가…",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050468&rankingType=RANKING",
+				"weights": 0.21336809428404774
+			}
+		]
+	},
+	"10114": {
+		"rank": 20,
+		"name": "정세균",
+		"weights": 0.4517372134423029,
+		"n_key": [
+			{
+				"id": 10115,
+				"name": "장유유서",
+				"weights": 0.4517372134423029
+			},
+			{
+				"id": 10113,
+				"name": "이준석",
+				"weights": 0.6265018574453992
+			}
+		],
+		"n_content": [
+			{
+				"id": 10112,
+				"title": "'이준석 장유유서' 논란 커지자..정세균 \"오해 있었다\" 해명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004645175&rankingType=RANKING",
+				"weights": 0.23836911915825518
+			},
+			{
+				"id": 10209,
+				"title": "[여심야심] 72살 정세균, 36살 이준석에게 “장유유서” 했다가…",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050468&rankingType=RANKING",
+				"weights": 0.21336809428404774
+			}
+		]
+	},
+	"10103": {
+		"rank": 21,
+		"name": "철구",
+		"weights": 0.40813809905762327,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 10102,
+				"title": "“불륜\" \"낙태” “성매매” BJ 철구 부부 논란..물의 일으킨 인터넷 방송인들 규제되나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004644634&rankingType=RANKING",
+				"weights": 0.40813809905762327
+			}
+		]
+	},
+	"10278": {
+		"rank": 22,
+		"name": "태민",
+		"weights": 0.3802306547014348,
+		"n_key": [
+			{
+				"id": 10318,
+				"name": "TAEMIN",
+				"weights": 0.2607575329354054
+			},
+			{
+				"id": 10279,
+				"name": "TAEMI",
+				"weights": 0.11947312176602945
+			},
+			{
+				"id": 10277,
+				"name": "Advice",
+				"weights": 0.3802306547014348
+			},
+			{
+				"id": 10276,
+				"name": "MINHO",
+				"weights": 0.11947312176602945
+			}
+		],
+		"n_content": [
+			{
+				"id": 10317,
+				"title": "TAEMIN 태민 'Advice' MV",
+				"url": "https://www.youtube.com/watch?v=sQg4VCB3bYw&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=122",
+				"weights": 0.14128077892381147
+			},
+			{
+				"id": 10392,
+				"title": "TAEMIN 태민 'Advice' @Beyond LIVE - TAEMIN : N.G.D.A (Stage Ver.)",
+				"url": "https://www.youtube.com/watch?v=uamEPyaJGXA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=139",
+				"weights": 0.11947675401159392
+			},
+			{
+				"id": 10275,
+				"title": "TAEMIN 태민 ‘Advice’ MV Reaction with MINHO",
+				"url": "https://www.youtube.com/watch?v=60k3yHd0yv8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=112",
+				"weights": 0.11947312176602945
+			}
+		]
+	},
+	"10277": {
+		"rank": 23,
+		"name": "Advice",
+		"weights": 0.3802306547014348,
+		"n_key": [
+			{
+				"id": 10318,
+				"name": "TAEMIN",
+				"weights": 0.2607575329354054
+			},
+			{
+				"id": 10279,
+				"name": "TAEMI",
+				"weights": 0.11947312176602945
+			},
+			{
+				"id": 10278,
+				"name": "태민",
+				"weights": 0.3802306547014348
+			},
+			{
+				"id": 10276,
+				"name": "MINHO",
+				"weights": 0.11947312176602945
+			}
+		],
+		"n_content": [
+			{
+				"id": 10317,
+				"title": "TAEMIN 태민 'Advice' MV",
+				"url": "https://www.youtube.com/watch?v=sQg4VCB3bYw&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=122",
+				"weights": 0.14128077892381147
+			},
+			{
+				"id": 10392,
+				"title": "TAEMIN 태민 'Advice' @Beyond LIVE - TAEMIN : N.G.D.A (Stage Ver.)",
+				"url": "https://www.youtube.com/watch?v=uamEPyaJGXA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=139",
+				"weights": 0.11947675401159392
+			},
+			{
+				"id": 10275,
+				"title": "TAEMIN 태민 ‘Advice’ MV Reaction with MINHO",
+				"url": "https://www.youtube.com/watch?v=60k3yHd0yv8&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=112",
+				"weights": 0.11947312176602945
+			}
+		]
+	},
+	"10110": {
+		"rank": 24,
+		"name": "지적장애",
+		"weights": 0.37145649065097075,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 10109,
+				"title": "\"전남친과 성관계 못하게\" 지적장애 여친 몸에 구멍 내 자물쇠 채운 예술가",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004644430&rankingType=RANKING",
+				"weights": 0.37145649065097075
+			}
+		]
+	},
+	"10162": {
+		"rank": 25,
+		"name": "바이든",
+		"weights": 0.3711529704152853,
+		"n_key": [
+			{
+				"id": 10126,
+				"name": "박해린",
+				"weights": 0.14512779783475754
+			},
+			{
+				"id": 10164,
+				"name": "이지효",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10163,
+				"name": "아미",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			}
+		],
+		"n_content": [
+			{
+				"id": 10161,
+				"title": "78세 바이든도 아미였어?…BTS 출격에 엔터주 담는 외국인, 왜? [이지효의 플러스 PICK]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960296&rankingType=RANKING",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10183,
+				"title": "文-바이든도 마스크 벗었다…사상 최대실적 예고된 종목은 [박해린의 뉴스&마켓]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960302&rankingType=RANKING",
+				"weights": 0.09287436563462267
+			}
+		]
+	},
+	"10316": {
+		"rank": 26,
+		"name": "임영웅",
+		"weights": 0.36406923503933897,
+		"n_key": [
+			{
+				"id": 10569,
+				"name": "장민호",
+				"weights": 0.11896707572407157
+			}
+		],
+		"n_content": [
+			{
+				"id": 10410,
+				"title": "임영웅 I'm Not The Only One #Shorts",
+				"url": "https://www.youtube.com/watch?v=IZG5d1kpB5s&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=144",
+				"weights": 0.12417331241876178
+			},
+			{
+				"id": 10315,
+				"title": "[임영웅] 롤링스톤 코리아 창간호의 비하인드 (ENG)",
+				"url": "https://www.youtube.com/watch?v=pZ2TuT7IW5A&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=22",
+				"weights": 0.12092884689650565
+			},
+			{
+				"id": 10568,
+				"title": "[임영웅CUT🎬] ❤️가장 좋아하는 형아❤️ 장민호가 임영웅 조용히 불러낸 사연은?!｜77억의 사랑｜JTBC 200427 방송",
+				"url": "https://www.youtube.com/watch?v=wcfj70UfwdA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=187",
+				"weights": 0.11896707572407157
+			}
+		]
+	},
+	"10259": {
+		"rank": 27,
+		"name": "홍진경",
+		"weights": 0.3563845587838519,
+		"n_key": [
+			{
+				"id": 10567,
+				"name": "유퀴즈",
+				"weights": 0.11939117167919489
+			},
+			{
+				"id": 10566,
+				"name": "유퀴즈온더블",
+				"weights": 0.11939117167919489
+			},
+			{
+				"id": 10565,
+				"name": "한국사",
+				"weights": 0.11939117167919489
+			},
+			{
+				"id": 10261,
+				"name": "공부왕찐천재",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10260,
+				"name": "역사만화",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10258,
+				"name": "라엘",
+				"weights": 0.23699338710465695
+			}
+		],
+		"n_content": [
+			{
+				"id": 10564,
+				"title": "[#인기급상승] 요즘 제일 웃긴 공부왕찐천재 홍진경 X 유퀴즈 한국사 콜라보ㅋㅋㅋ 엄청난 오답에 웃다가 오열하는 큰 자기🤣 | #유퀴즈온더블럭 #디글",
+				"url": "https://www.youtube.com/watch?v=wns96aukNEQ&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=87",
+				"weights": 0.11939117167919489
+			},
+			{
+				"id": 10257,
+				"title": "공부하는 대신 엄마에게 조건 제시하는 홍진경 딸 (라엘이 역사만화 2부) [공부왕찐천재]",
+				"url": "https://www.youtube.com/watch?v=YFbp-tHURoE&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=8",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10400,
+				"title": "[#디제이픽] \"엄마 급발진 하지 마\" 예능인 홍진경 잡는 딸 라엘이🤣 모전여전 홍진경X라엘 티키타카 모음 | #유퀴즈온더블럭 #디글",
+				"url": "https://www.youtube.com/watch?v=pYoRJ7wK8yc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=141",
+				"weights": 0.1184042258542297
+			}
+		]
+	},
+	"10385": {
+		"rank": 28,
+		"name": "유재석",
+		"weights": 0.3130817729157759,
+		"n_key": [
+			{
+				"id": 10575,
+				"name": "유퀴즈온더블럭",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10574,
+				"name": "갓구운클립",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10573,
+				"name": "이종혁",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10572,
+				"name": "10준수",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10571,
+				"name": "준수",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10505,
+				"name": "백상",
+				"weights": 0.07963532155007462
+			},
+			{
+				"id": 10384,
+				"name": "장도연",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10383,
+				"name": "백상예술대상",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10376,
+				"name": "송중기",
+				"weights": 0.5040229230590122
+			}
+		],
+		"n_content": [
+			{
+				"id": 10382,
+				"title": "(ENG) 유재석, 송중기, 장도연... 어우 다 말하기도 입 아픈 별들의 잔치, 백상예술대상 후보 초대돼서 직접 다녀왔습니다⭐/ [문명특급 EP.190]",
+				"url": "https://www.youtube.com/watch?v=f4cso_qEuFY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=136",
+				"weights": 0.15255786604065802
+			},
+			{
+				"id": 10570,
+				"title": "[#유퀴즈온더블럭] 솔직함 가득한 10준수 때문에 뒷목잡는 이종혁ㅋㅋ🌈 준수 너무 웃겨서 유재석 잇몸 마르는 중🤣 | #갓구운클립 #Diggle",
+				"url": "https://www.youtube.com/watch?v=jTL5ePrPt3Q&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=88",
+				"weights": 0.08088858532504326
+			},
+			{
+				"id": 10504,
+				"title": "[57회 백상] TV부문 대상 - 유재석 | JTBC 210513 방송",
+				"url": "https://www.youtube.com/watch?v=F53wbRAHduY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=171",
+				"weights": 0.07963532155007462
+			}
+		]
+	},
+	"10255": {
+		"rank": 29,
+		"name": "BUTTER",
+		"weights": 0.3100755207328326,
+		"n_key": [
+			{
+				"id": 10256,
+				"name": "NewsenTV",
+				"weights": 0.15588925338234805
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			},
+			{
+				"id": 10228,
+				"name": "방탄소년단",
+				"weights": 2.760015130083011
+			}
+		],
+		"n_content": [
+			{
+				"id": 10254,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=107",
+				"weights": 0.15588925338234805
+			},
+			{
+				"id": 10404,
+				"title": "[ENG] 작곡가가 리뷰하는 '방탄소년단(BTS) - BUTTER' reviewed by the korean composer / [미친감성] 리액션 [cc]",
+				"url": "https://www.youtube.com/watch?v=WGCbP6gp3kc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=43",
+				"weights": 0.15418626735048455
+			}
+		]
+	},
+	"10094": {
+		"rank": 30,
+		"name": "도쿄올림픽",
+		"weights": 0.29409988552209065,
+		"n_key": [
+			{
+				"id": 10093,
+				"name": "스가",
+				"weights": 0.13002732924745034
+			}
+		],
+		"n_content": [
+			{
+				"id": 10123,
+				"title": "도쿄올림픽 '엑스맨'된 미국, 선수단 안 보내나  [美, 日 여행금지 파장]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004645139&rankingType=RANKING",
+				"weights": 0.1640725562746403
+			},
+			{
+				"id": 10092,
+				"title": "미국 여행금지 권고에 ‘도쿄올림픽 취소’ 명분 찾은 스가?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000697318&rankingType=RANKING",
+				"weights": 0.13002732924745034
+			}
+		]
+	},
+	"10132": {
+		"rank": 31,
+		"name": "벤츠",
+		"weights": 0.29222072460138704,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 10210,
+				"title": "60대 인부 덮친 만취 벤츠 운전자 구속...\"도망 우려\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085163&rankingType=RANKING",
+				"weights": 0.1540882682596555
+			},
+			{
+				"id": 10131,
+				"title": "60대 인부 덮친 '만취 벤츠' 운전자 구속…\"도주 우려\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960306&rankingType=RANKING",
+				"weights": 0.13813245634173155
+			}
+		]
+	},
+	"10205": {
+		"rank": 32,
+		"name": "윤석열",
+		"weights": 0.27973156987824443,
+		"n_key": [
+			{
+				"id": 10223,
+				"name": "대선",
+				"weights": 0.132247627697804
+			},
+			{
+				"id": 10222,
+				"name": "김동연",
+				"weights": 0.132247627697804
+			},
+			{
+				"id": 10204,
+				"name": "김웅",
+				"weights": 0.14748394218044042
+			},
+			{
+				"id": 10203,
+				"name": "김종인",
+				"weights": 0.14748394218044042
+			}
+		],
+		"n_content": [
+			{
+				"id": 10202,
+				"title": "김웅 “윤석열, 반드시 국민의힘 온다… 김종인, 내게 ‘자신만의 정치하라’”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=262&aid=0000014488&rankingType=RANKING",
+				"weights": 0.14748394218044042
+			},
+			{
+				"id": 10221,
+				"title": "‘탄핵 내전’ 국민의힘, 野 대선 윤석열·김동연 빅매치?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=262&aid=0000014489&rankingType=RANKING",
+				"weights": 0.132247627697804
+			}
+		]
+	},
+	"10163": {
+		"rank": 33,
+		"name": "아미",
+		"weights": 0.27827860478066263,
+		"n_key": [
+			{
+				"id": 10164,
+				"name": "이지효",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			},
+			{
+				"id": 10162,
+				"name": "바이든",
+				"weights": 0.3711529704152853
+			}
+		],
+		"n_content": [
+			{
+				"id": 10161,
+				"title": "78세 바이든도 아미였어?…BTS 출격에 엔터주 담는 외국인, 왜? [이지효의 플러스 PICK]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960296&rankingType=RANKING",
+				"weights": 0.27827860478066263
+			}
+		]
+	},
+	"10164": {
+		"rank": 34,
+		"name": "이지효",
+		"weights": 0.27827860478066263,
+		"n_key": [
+			{
+				"id": 10163,
+				"name": "아미",
+				"weights": 0.27827860478066263
+			},
+			{
+				"id": 10073,
+				"name": "BTS",
+				"weights": 3.6307815592768016
+			},
+			{
+				"id": 10162,
+				"name": "바이든",
+				"weights": 0.3711529704152853
+			}
+		],
+		"n_content": [
+			{
+				"id": 10161,
+				"title": "78세 바이든도 아미였어?…BTS 출격에 엔터주 담는 외국인, 왜? [이지효의 플러스 PICK]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960296&rankingType=RANKING",
+				"weights": 0.27827860478066263
+			}
+		]
+	},
+	"10107": {
+		"rank": 35,
+		"name": "머스크",
+		"weights": 0.26680258126955125,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 10143,
+				"title": "머스크에 울고 웃는 가상자산...하루만에 시총 35% 회복",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004645023&rankingType=RANKING",
+				"weights": 0.1379131164753786
+			},
+			{
+				"id": 10106,
+				"title": "머스크 트윗에 비트코인 또 반등…하루새 17% 올라",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223008&rankingType=RANKING",
+				"weights": 0.12888946479417265
+			}
+		]
+	},
+	"10318": {
+		"rank": 36,
+		"name": "TAEMIN",
+		"weights": 0.2607575329354054,
+		"n_key": [
+			{
+				"id": 10277,
+				"name": "Advice",
+				"weights": 0.3802306547014348
+			},
+			{
+				"id": 10278,
+				"name": "태민",
+				"weights": 0.3802306547014348
+			}
+		],
+		"n_content": [
+			{
+				"id": 10317,
+				"title": "TAEMIN 태민 'Advice' MV",
+				"url": "https://www.youtube.com/watch?v=sQg4VCB3bYw&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=122",
+				"weights": 0.14128077892381147
+			},
+			{
+				"id": 10392,
+				"title": "TAEMIN 태민 'Advice' @Beyond LIVE - TAEMIN : N.G.D.A (Stage Ver.)",
+				"url": "https://www.youtube.com/watch?v=uamEPyaJGXA&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=139",
+				"weights": 0.11947675401159392
+			}
+		]
+	},
+	"10258": {
+		"rank": 37,
+		"name": "라엘",
+		"weights": 0.23699338710465695,
+		"n_key": [
+			{
+				"id": 10261,
+				"name": "공부왕찐천재",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10260,
+				"name": "역사만화",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10259,
+				"name": "홍진경",
+				"weights": 0.3563845587838519
+			}
+		],
+		"n_content": [
+			{
+				"id": 10257,
+				"title": "공부하는 대신 엄마에게 조건 제시하는 홍진경 딸 (라엘이 역사만화 2부) [공부왕찐천재]",
+				"url": "https://www.youtube.com/watch?v=YFbp-tHURoE&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=8",
+				"weights": 0.11858916125042726
+			},
+			{
+				"id": 10400,
+				"title": "[#디제이픽] \"엄마 급발진 하지 마\" 예능인 홍진경 잡는 딸 라엘이🤣 모전여전 홍진경X라엘 티키타카 모음 | #유퀴즈온더블럭 #디글",
+				"url": "https://www.youtube.com/watch?v=pYoRJ7wK8yc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=141",
+				"weights": 0.1184042258542297
+			}
+		]
+	},
+	"10060": {
+		"rank": 38,
+		"name": "현대차",
+		"weights": 0.23611099145918119,
+		"n_key": [
+			{
+				"id": 10625,
+				"name": "비밀노",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10030,
+				"name": "삼성",
+				"weights": 0.8108731802983623
+			},
+			{
+				"id": 10624,
+				"name": "염블리",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10623,
+				"name": "머니올라",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10622,
+				"name": "염승환",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10061,
+				"name": "현대모비스",
+				"weights": 0.10086214168426592
+			},
+			{
+				"id": 10059,
+				"name": "기아",
+				"weights": 0.13763903559513835
+			}
+		],
+		"n_content": [
+			{
+				"id": 10621,
+				"title": "[머니올라 225화/염블리의 비밀노트] 한미 정상회담 큰 그림 보인다... 삼성ㆍ현대차가 뜨는 이유는?(염승환 부장)",
+				"url": "https://www.youtube.com/watch?v=Lg-qvMfBgvU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=197",
+				"weights": 0.13524884977491525
+			},
+			{
+				"id": 10058,
+				"title": "\"또 스탑\" 현대차·기아·현대모비스, 車반도체 부족에 국내외 공장 멈춘다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696833&rankingType=RANKING",
+				"weights": 0.10086214168426592
+			}
+		]
+	},
+	"10235": {
+		"rank": 39,
+		"name": "김진의",
+		"weights": 0.2304925345827415,
+		"n_key": [
+			{
+				"id": 10129,
+				"name": "정민",
+				"weights": 0.9158450905288549
+			},
+			{
+				"id": 10021,
+				"name": "손정민",
+				"weights": 1.9177314922439703
+			}
+		],
+		"n_content": [
+			{
+				"id": 10234,
+				"title": "손정민 씨 아버지, 새 CCTV 영상 공개 | 김진의 돌직구 쇼 746 회",
+				"url": "https://www.youtube.com/watch?v=mVkG4Hlfq_c&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=3",
+				"weights": 0.14948864158516978
+			},
+			{
+				"id": 10425,
+				"title": "부친이 공개한 정민 씨 휴대전화 사용내역 | 김진의 돌직구 쇼 743 회",
+				"url": "https://www.youtube.com/watch?v=Uh5Vu5KkFWo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=148",
+				"weights": 0.08100389299757171
+			}
+		]
+	},
+	"10189": {
+		"rank": 40,
+		"name": "전기차",
+		"weights": 0.20135622313731102,
+		"n_key": [
+			{
+				"id": 10190,
+				"name": "BMW",
+				"weights": 0.20135622313731102
+			}
+		],
+		"n_content": [
+			{
+				"id": 10188,
+				"title": "한라산에 BMW 전기차 무더기 방치…왜?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050472&rankingType=RANKING",
+				"weights": 0.20135622313731102
+			}
+		]
+	},
+	"10190": {
+		"rank": 41,
+		"name": "BMW",
+		"weights": 0.20135622313731102,
+		"n_key": [
+			{
+				"id": 10189,
+				"name": "전기차",
+				"weights": 0.20135622313731102
+			}
+		],
+		"n_content": [
+			{
+				"id": 10188,
+				"title": "한라산에 BMW 전기차 무더기 방치…왜?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011050472&rankingType=RANKING",
+				"weights": 0.20135622313731102
+			}
+		]
+	},
+	"10090": {
+		"rank": 42,
+		"name": "관평원",
+		"weights": 0.1995507261274525,
+		"n_key": [
+			{
+				"id": 10089,
+				"name": "정부",
+				"weights": 0.6653373909305429
+			}
+		],
+		"n_content": [
+			{
+				"id": 10088,
+				"title": "[단독]정부 “관평원 직원 세종시 아파트 특공 일괄취소 가능”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209271&rankingType=RANKING",
+				"weights": 0.1995507261274525
+			}
+		]
+	},
+	"10085": {
+		"rank": 43,
+		"name": "한은",
+		"weights": 0.17800490627492976,
+		"n_key": [
+			{
+				"id": 10084,
+				"name": "네이버",
+				"weights": 0.49847910020096386
+			},
+			{
+				"id": 10065,
+				"name": "카카오",
+				"weights": 0.4995817118920596
+			}
+		],
+		"n_content": [
+			{
+				"id": 10083,
+				"title": "네이버·카카오, 한은 디지털화폐 쟁탈전… 50억 연구에 뛰어든다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000696856&rankingType=RANKING",
+				"weights": 0.17800490627492976
+			}
+		]
+	},
+	"10075": {
+		"rank": 44,
+		"name": "에픽",
+		"weights": 0.17685316960126232,
+		"n_key": [
+			{
+				"id": 10053,
+				"name": "애플",
+				"weights": 0.600283402157783
+			}
+		],
+		"n_content": [
+			{
+				"id": 10074,
+				"title": "애플·에픽, 앱스토어 소송 종료…최종 승자는?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002222978&rankingType=RANKING",
+				"weights": 0.17685316960126232
+			}
+		]
+	},
+	"10181": {
+		"rank": 45,
+		"name": "민주",
+		"weights": 0.17476464400309633,
+		"n_key": [
+			{
+				"id": 10113,
+				"name": "이준석",
+				"weights": 0.6265018574453992
+			}
+		],
+		"n_content": [
+			{
+				"id": 10180,
+				"title": "주요 정당 ‘30대 당 대표’ 있었나…민주, 이준석 두고 시끌벅적?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209276&rankingType=RANKING",
+				"weights": 0.17476464400309633
+			}
+		]
+	},
+	"10547": {
+		"rank": 46,
+		"name": "감스트",
+		"weights": 0.17345183872849498,
+		"n_key": [
+			{
+				"id": 10548,
+				"name": "릴카",
+				"weights": 0.08747025962472253
+			}
+		],
+		"n_content": [
+			{
+				"id": 10546,
+				"title": "감스트 머리 밀고 릴카 만났는데 반응이..",
+				"url": "https://www.youtube.com/watch?v=od2Jz8dQA-U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=182",
+				"weights": 0.08747025962472253
+			},
+			{
+				"id": 10628,
+				"title": "감스트 배그 가르치다 교양 OFF",
+				"url": "https://www.youtube.com/watch?v=WIjPUFOq5vM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=198",
+				"weights": 0.08598157910377245
+			}
+		]
+	},
+	"10329": {
+		"rank": 47,
+		"name": "김하성",
+		"weights": 0.17286106191533365,
+		"n_key": [
+			{
+				"id": 10553,
+				"name": "믈브튜브",
+				"weights": 0.08652994899317047
+			},
+			{
+				"id": 10552,
+				"name": "MLB",
+				"weights": 0.08652994899317047
+			},
+			{
+				"id": 10551,
+				"name": "SPOTV",
+				"weights": 0.08652994899317047
+			},
+			{
+				"id": 10330,
+				"name": "Ha",
+				"weights": 0.08633111292216318
+			},
+			{
+				"id": 10328,
+				"name": "Kim",
+				"weights": 0.08633111292216318
+			}
+		],
+		"n_content": [
+			{
+				"id": 10550,
+				"title": "그만 잘해 김하성!!! 노스텝 홈 송구, 믿기 어려운 투수 수비 등 5월 2주차 MLB 수비 명장면 | #믈브튜브 x SPOTV",
+				"url": "https://www.youtube.com/watch?v=zvLtK-wlnqI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=183",
+				"weights": 0.08652994899317047
+			},
+			{
+				"id": 10327,
+				"title": "Ha-Seong Kim defensive highlights | 김하성 수비 하이라이트",
+				"url": "https://www.youtube.com/watch?v=zGlN_ULl1Ko&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=125",
+				"weights": 0.08633111292216318
+			}
+		]
+	},
+	"10345": {
+		"rank": 48,
+		"name": "비긴어게인",
+		"weights": 0.17284341887076338,
+		"n_key": [
+			{
+				"id": 10369,
+				"name": "LYn",
+				"weights": 0.08626478275006587
+			},
+			{
+				"id": 10346,
+				"name": "이무진",
+				"weights": 0.08657863612069751
+			}
+		],
+		"n_content": [
+			{
+				"id": 10344,
+				"title": "천상의 하모니란 이런 것! 린(LYn)X이무진(Lee Mujin)의 '두 사람'♬ | 비긴어게인 오픈마이크",
+				"url": "https://www.youtube.com/watch?v=VBS6o29bJns&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=128",
+				"weights": 0.08657863612069751
+			},
+			{
+				"id": 10368,
+				"title": "데뷔 20년 만에 첫 버스킹🎤 린(LYn)의 역대급 무대 '나를 사랑하지 않는 그대에게'♬ | 비긴어게인 오픈마이크",
+				"url": "https://www.youtube.com/watch?v=ScF8KH164xY&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=133",
+				"weights": 0.08626478275006587
+			}
+		]
+	},
+	"10348": {
+		"rank": 49,
+		"name": "박준형",
+		"weights": 0.17230756055241334,
+		"n_key": [
+			{
+				"id": 10525,
+				"name": "가오가이",
+				"weights": 0.0860426757078352
+			}
+		],
+		"n_content": [
+			{
+				"id": 10347,
+				"title": "머니게임 3번 박준형의 마지막 최종 리뷰 | 입장 및 해명",
+				"url": "https://www.youtube.com/watch?v=hszr6pc5Fjo&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=28",
+				"weights": 0.08626488484457813
+			},
+			{
+				"id": 10524,
+				"title": "가오가이의 랩 레슨 (머니게임 박준형님과 함께 했습니다)",
+				"url": "https://www.youtube.com/watch?v=71wfPzeWXXE&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=77",
+				"weights": 0.0860426757078352
+			}
+		]
+	},
+	"10250": {
+		"rank": 50,
+		"name": "오마이걸",
+		"weights": 0.17209644534913343,
+		"n_key": [
+			{
+				"id": 10605,
+				"name": "RandomPlayDan",
+				"weights": 0.08591197264318882
+			},
+			{
+				"id": 10604,
+				"name": "랜덤플레이댄스FULL",
+				"weights": 0.08591197264318882
+			},
+			{
+				"id": 10252,
+				"name": "아이유",
+				"weights": 0.08618447270594462
+			},
+			{
+				"id": 10251,
+				"name": "주간미콘",
+				"weights": 0.08618447270594462
+			},
+			{
+				"id": 10249,
+				"name": "full",
+				"weights": 0.08618447270594462
+			}
+		],
+		"n_content": [
+			{
+				"id": 10248,
+				"title": "[주간미콘] 오마이걸이 부르는 아이유의 ‘이 지금’♬ full ver. l EP.512",
+				"url": "https://www.youtube.com/watch?v=9hJSBd720-E&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=106",
+				"weights": 0.08618447270594462
+			},
+			{
+				"id": 10603,
+				"title": "[랜덤플레이댄스FULL] 오늘도 옴망진창?! 난리도 이런 난리가 없는 오마이걸의 랜플댄 l 오마이걸(OH MY GIRL) l RandomPlayDance",
+				"url": "https://www.youtube.com/watch?v=Dy3iDL-nRjk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=95",
+				"weights": 0.08591197264318882
+			}
+		]
+	}
+}

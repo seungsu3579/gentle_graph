@@ -1,0 +1,5591 @@
+{
+	"196803": {
+		"rank": 1,
+		"name": "이준석",
+		"weights": 11.46951106287532,
+		"n_key": [
+			{
+				"id": 199776,
+				"name": "김웅도",
+				"weights": 0.18215916778322133
+			},
+			{
+				"id": 197308,
+				"name": "후보",
+				"weights": 0.8095688626691603
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			},
+			{
+				"id": 199594,
+				"name": "뉴스앤이슈",
+				"weights": 0.13353713532772699
+			},
+			{
+				"id": 199571,
+				"name": "황교안",
+				"weights": 0.14810966675232434
+			},
+			{
+				"id": 199570,
+				"name": "총선",
+				"weights": 0.14810966675232434
+			},
+			{
+				"id": 199558,
+				"name": "대표",
+				"weights": 0.16319288286316005
+			},
+			{
+				"id": 197277,
+				"name": "신인",
+				"weights": 0.40059038574137146
+			},
+			{
+				"id": 196750,
+				"name": "국민",
+				"weights": 1.2498070202521396
+			},
+			{
+				"id": 199195,
+				"name": "박근혜",
+				"weights": 0.27648306783617094
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 197726,
+				"name": "민주당",
+				"weights": 0.6984271823506377
+			},
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198744,
+				"name": "예선",
+				"weights": 0.27505396185881026
+			},
+			{
+				"id": 197938,
+				"name": "홍준표",
+				"weights": 0.5255836919358976
+			},
+			{
+				"id": 198550,
+				"name": "원내대표",
+				"weights": 0.14317883608142587
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 198538,
+				"name": "형님",
+				"weights": 0.3054783427784652
+			},
+			{
+				"id": 198520,
+				"name": "당원",
+				"weights": 0.31207648649787906
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 198207,
+				"name": "임미리",
+				"weights": 0.20139958240256395
+			},
+			{
+				"id": 198206,
+				"name": "정청래",
+				"weights": 0.20139958240256395
+			},
+			{
+				"id": 198175,
+				"name": "야고부",
+				"weights": 0.13234745892001315
+			},
+			{
+				"id": 197749,
+				"name": "이낙연",
+				"weights": 0.9912049686658195
+			},
+			{
+				"id": 198000,
+				"name": "김동연",
+				"weights": 0.27671488356831064
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 197766,
+				"name": "예비경선",
+				"weights": 0.6065221981571836
+			},
+			{
+				"id": 197860,
+				"name": "신진",
+				"weights": 0.1303089138745989
+			},
+			{
+				"id": 197918,
+				"name": "유승민",
+				"weights": 0.39956852810028537
+			},
+			{
+				"id": 197919,
+				"name": "송영길",
+				"weights": 0.38654284855078347
+			},
+			{
+				"id": 197920,
+				"name": "여랑야",
+				"weights": 0.17717315009862794
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			},
+			{
+				"id": 197933,
+				"name": "중진",
+				"weights": 0.2957290220248412
+			},
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			},
+			{
+				"id": 197446,
+				"name": "최재형",
+				"weights": 0.6445338320926673
+			},
+			{
+				"id": 196724,
+				"name": "윤석열",
+				"weights": 1.6823215970139873
+			}
+		],
+		"n_content": [
+			{
+				"id": 199024,
+				"title": "'당심'마저 빨아들인 이준석 돌풍…당권까지는 첩첩산중",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422739&rankingType=RANKING",
+				"weights": 0.3125401976627622
+			},
+			{
+				"id": 199308,
+				"title": "이준석 돌풍 셌다, 41% 압도적 1위 본선행…2위 나경원 29%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105191&rankingType=RANKING",
+				"weights": 0.2995465772129557
+			},
+			{
+				"id": 199377,
+				"title": "이준석, 여론조사 51%로 압도… 당원조사선 나경원이 1위",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616798&rankingType=RANKING",
+				"weights": 0.27088622556051684
+			},
+			{
+				"id": 199391,
+				"title": "이준석, 1위로 국민의힘 당대표 본경선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616779&rankingType=RANKING",
+				"weights": 0.24706677657778342
+			},
+			{
+				"id": 199628,
+				"title": "이준석 \"劉 대통령후보로 못 띄운 유승민계가 존재하겠나\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=029&aid=0002676662&rankingType=RANKING",
+				"weights": 0.22239537800165743
+			},
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 198205,
+				"title": "정청래 \"이준석 당 대표되면 국힘 사라질 수도\" 주장에 임미리 \"공포에서 나온 말\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916057&rankingType=RANKING",
+				"weights": 0.20139958240256395
+			}
+		]
+	},
+	"196733": {
+		"rank": 2,
+		"name": "손정민",
+		"weights": 7.772168443966705,
+		"n_key": [
+			{
+				"id": 197418,
+				"name": "부친",
+				"weights": 0.3900771337215169
+			},
+			{
+				"id": 199212,
+				"name": "저널리즘",
+				"weights": 0.11002568488629089
+			},
+			{
+				"id": 199211,
+				"name": "1708",
+				"weights": 0.11002568488629089
+			},
+			{
+				"id": 199210,
+				"name": "이선호",
+				"weights": 0.11002568488629089
+			},
+			{
+				"id": 199209,
+				"name": "460",
+				"weights": 0.11002568488629089
+			},
+			{
+				"id": 198940,
+				"name": "피의자",
+				"weights": 0.164732649351361
+			},
+			{
+				"id": 198469,
+				"name": "목격자",
+				"weights": 0.35329485183627085
+			},
+			{
+				"id": 198588,
+				"name": "충북경찰",
+				"weights": 0.10598504965013948
+			},
+			{
+				"id": 198515,
+				"name": "변호인",
+				"weights": 0.902980859035424
+			},
+			{
+				"id": 198429,
+				"name": "정민아",
+				"weights": 0.13545733060684503
+			},
+			{
+				"id": 198279,
+				"name": "대전경찰청장",
+				"weights": 0.212906729224562
+			},
+			{
+				"id": 198202,
+				"name": "스노클링",
+				"weights": 0.21486228871764915
+			},
+			{
+				"id": 196730,
+				"name": "청장",
+				"weights": 0.5983537746714882
+			},
+			{
+				"id": 196685,
+				"name": "경찰",
+				"weights": 7.220339004606356
+			},
+			{
+				"id": 196736,
+				"name": "김창룡",
+				"weights": 0.5446240945979561
+			},
+			{
+				"id": 196738,
+				"name": "아버지",
+				"weights": 0.6564394313240691
+			},
+			{
+				"id": 196739,
+				"name": "김진의",
+				"weights": 0.19161201116155951
+			},
+			{
+				"id": 196810,
+				"name": "서울경찰청",
+				"weights": 3.040339250801117
+			},
+			{
+				"id": 196812,
+				"name": "택시",
+				"weights": 0.8975009048484556
+			},
+			{
+				"id": 196821,
+				"name": "시민",
+				"weights": 0.7634662631969608
+			},
+			{
+				"id": 196990,
+				"name": "입수자",
+				"weights": 0.6354470327438149
+			},
+			{
+				"id": 196807,
+				"name": "정민",
+				"weights": 3.526948917323379
+			},
+			{
+				"id": 197007,
+				"name": "김은배",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 197010,
+				"name": "허민우",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 197012,
+				"name": "살인",
+				"weights": 0.21522981488712717
+			},
+			{
+				"id": 197015,
+				"name": "배상훈",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 197080,
+				"name": "뉴스A",
+				"weights": 0.11934397327376967
+			},
+			{
+				"id": 196654,
+				"name": "경찰청장",
+				"weights": 0.5816750500829321
+			}
+		],
+		"n_content": [
+			{
+				"id": 197678,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.v.daum.net/v/20210528051703254",
+				"weights": 0.409943878218564
+			},
+			{
+				"id": 197407,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://v.daum.net/v/20210528051703254",
+				"weights": 0.4095972838451033
+			},
+			{
+				"id": 199417,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496752&rankingType=RANKING",
+				"weights": 0.3754841597989319
+			},
+			{
+				"id": 198198,
+				"title": "손정민父 “친구의 유죄 바라는 거 아냐, 진실 원할뿐”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442897&rankingType=RANKING",
+				"weights": 0.36642520128807293
+			},
+			{
+				"id": 199273,
+				"title": "손정민 부친 \"서울경찰청, 우리 미워하고 친구 변호인만 사랑해\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267478&rankingType=RANKING",
+				"weights": 0.31958890150593333
+			},
+			{
+				"id": 198763,
+				"title": "故 손정민 父 \"친구, 신발만 버린 줄 알았더니…또 다른 사실 알게 됐다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=277&aid=0004910258&rankingType=RANKING",
+				"weights": 0.29126432543222674
+			},
+			{
+				"id": 197685,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://news.v.daum.net/v/20210528085450587",
+				"weights": 0.26965913686634335
+			}
+		]
+	},
+	"196685": {
+		"rank": 3,
+		"name": "경찰",
+		"weights": 7.220339004606356,
+		"n_key": [
+			{
+				"id": 199078,
+				"name": "사원",
+				"weights": 0.2851600079496086
+			},
+			{
+				"id": 198940,
+				"name": "피의자",
+				"weights": 0.164732649351361
+			},
+			{
+				"id": 196654,
+				"name": "경찰청장",
+				"weights": 0.5816750500829321
+			},
+			{
+				"id": 197808,
+				"name": "네이버",
+				"weights": 5.880424357241987
+			},
+			{
+				"id": 198515,
+				"name": "변호인",
+				"weights": 0.902980859035424
+			},
+			{
+				"id": 198503,
+				"name": "절도범",
+				"weights": 0.17162884520244198
+			},
+			{
+				"id": 198469,
+				"name": "목격자",
+				"weights": 0.35329485183627085
+			},
+			{
+				"id": 198464,
+				"name": "손현",
+				"weights": 0.43136731370540427
+			},
+			{
+				"id": 198202,
+				"name": "스노클링",
+				"weights": 0.21486228871764915
+			},
+			{
+				"id": 196684,
+				"name": "간부",
+				"weights": 1.8057400683897025
+			},
+			{
+				"id": 196687,
+				"name": "동료",
+				"weights": 1.7434950582346378
+			},
+			{
+				"id": 196689,
+				"name": "강도",
+				"weights": 0.3698262266810072
+			},
+			{
+				"id": 196691,
+				"name": "흑인",
+				"weights": 0.3698262266810072
+			},
+			{
+				"id": 196730,
+				"name": "청장",
+				"weights": 0.5983537746714882
+			},
+			{
+				"id": 196733,
+				"name": "손정민",
+				"weights": 7.772168443966705
+			},
+			{
+				"id": 196736,
+				"name": "김창룡",
+				"weights": 0.5446240945979561
+			},
+			{
+				"id": 196821,
+				"name": "시민",
+				"weights": 0.7634662631969608
+			},
+			{
+				"id": 197007,
+				"name": "김은배",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 197010,
+				"name": "허민우",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 197012,
+				"name": "살인",
+				"weights": 0.21522981488712717
+			},
+			{
+				"id": 196990,
+				"name": "입수자",
+				"weights": 0.6354470327438149
+			},
+			{
+				"id": 197015,
+				"name": "배상훈",
+				"weights": 0.164164609503433
+			},
+			{
+				"id": 196807,
+				"name": "정민",
+				"weights": 3.526948917323379
+			},
+			{
+				"id": 197890,
+				"name": "폭로자",
+				"weights": 0.1129558537352362
+			},
+			{
+				"id": 197891,
+				"name": "성폭력",
+				"weights": 0.1129558537352362
+			},
+			{
+				"id": 197892,
+				"name": "기성용",
+				"weights": 0.1129558537352362
+			},
+			{
+				"id": 197900,
+				"name": "음주운전",
+				"weights": 0.5055871468960623
+			}
+		],
+		"n_content": [
+			{
+				"id": 198463,
+				"title": "손현씨 \"경찰, 정민이 물놀이 영상 누구한테 받았나…내 이럴 줄\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005377873&rankingType=RANKING",
+				"weights": 0.43136731370540427
+			},
+			{
+				"id": 197865,
+				"title": "정민씨父 \"경찰, '정민이 물놀이 영상' 누구한테 받았나..이럴 줄 알았다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646819&rankingType=RANKING",
+				"weights": 0.33510838951330046
+			},
+			{
+				"id": 198688,
+				"title": "손정민 父, 어릴적 사진 올리며 \"경찰 발표 이럴까봐\" 의혹 제기",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580059&rankingType=RANKING",
+				"weights": 0.2267758844750177
+			},
+			{
+				"id": 199392,
+				"title": "네이버 직원, 극단적 선택…경찰 \"직장 내 괴롭힘 추정\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553401&rankingType=RANKING",
+				"weights": 0.2262377672783236
+			},
+			{
+				"id": 197705,
+				"title": "손정민씨 숨진 채 발견된지 한달..경찰 눈치보기, 시민 항의 봇물",
+				"url": "https://news.v.daum.net/v/20210528113218219",
+				"weights": 0.22094183172098877
+			},
+			{
+				"id": 196815,
+				"title": "손정민씨 숨진 채 발견된지 한달..경찰 눈치보기, 시민 항의 봇물",
+				"url": "https://v.daum.net/v/20210528113218219",
+				"weights": 0.2204631220163298
+			},
+			{
+				"id": 198201,
+				"title": "\"손정민씨 물놀이 영상 입수\" 경찰 발표에 父 \"이럴까봐 입장문서 스노클링 얘기해\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916062&rankingType=RANKING",
+				"weights": 0.21486228871764915
+			}
+		]
+	},
+	"197808": {
+		"rank": 4,
+		"name": "네이버",
+		"weights": 5.880424357241987,
+		"n_key": [
+			{
+				"id": 197904,
+				"name": "AI",
+				"weights": 0.40878969744867044
+			},
+			{
+				"id": 196640,
+				"name": "BTS",
+				"weights": 3.9192090409031732
+			},
+			{
+				"id": 197872,
+				"name": "카카오",
+				"weights": 1.0305439911004595
+			},
+			{
+				"id": 197898,
+				"name": "접종자",
+				"weights": 0.3105893626977888
+			},
+			{
+				"id": 197946,
+				"name": "IT",
+				"weights": 0.11109728009090325
+			},
+			{
+				"id": 198403,
+				"name": "상사",
+				"weights": 0.8402218617682997
+			},
+			{
+				"id": 196685,
+				"name": "경찰",
+				"weights": 7.220339004606356
+			},
+			{
+				"id": 196687,
+				"name": "동료",
+				"weights": 1.7434950582346378
+			},
+			{
+				"id": 196682,
+				"name": "예약자",
+				"weights": 1.1138874100548493
+			},
+			{
+				"id": 199078,
+				"name": "사원",
+				"weights": 0.2851600079496086
+			},
+			{
+				"id": 197735,
+				"name": "GS리테일",
+				"weights": 0.26106368567695665
+			},
+			{
+				"id": 197949,
+				"name": "쿠팡",
+				"weights": 0.4137878764156726
+			}
+		],
+		"n_content": [
+			{
+				"id": 199294,
+				"title": "네이버 직원 메모 남기고 극단선택···\"상사 갑질\" 글 확산",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105194&rankingType=RANKING",
+				"weights": 0.3038670112532056
+			},
+			{
+				"id": 199352,
+				"title": "네이버 직원 극단 선택… “그 상사 ‘엎드려 뻗쳐’ 유명” 글 확산",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616813&rankingType=RANKING",
+				"weights": 0.3015948305593608
+			},
+			{
+				"id": 199392,
+				"title": "네이버 직원, 극단적 선택…경찰 \"직장 내 괴롭힘 추정\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553401&rankingType=RANKING",
+				"weights": 0.2262377672783236
+			},
+			{
+				"id": 197867,
+				"title": "네이버 직원 숨진 채 발견···쪽지엔 “직장 내 괴롭힘, 업무 스트레스”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647064&rankingType=RANKING",
+				"weights": 0.20304653686587767
+			},
+			{
+				"id": 198491,
+				"title": "네이버 직원 극단 선택…직장내 갑질 암시 메모 남겨",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800774&rankingType=RANKING",
+				"weights": 0.1977288084392747
+			},
+			{
+				"id": 199336,
+				"title": "40대 네이버 직원 극단 선택…경찰 ‘직장 내 괴롭힘’ 조사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=016&aid=0001841121&rankingType=RANKING",
+				"weights": 0.17844432386058745
+			},
+			{
+				"id": 198644,
+				"title": "네이버 직원 숨진 채 발견…경찰 ‘직장 내 괴롭힘’ 조사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076822&rankingType=RANKING",
+				"weights": 0.1593420622990227
+			}
+		]
+	},
+	"196781": {
+		"rank": 5,
+		"name": "나경원",
+		"weights": 4.759159793337132,
+		"n_key": [
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 197449,
+				"name": "검찰",
+				"weights": 1.0591342892765383
+			},
+			{
+				"id": 197446,
+				"name": "최재형",
+				"weights": 0.6445338320926673
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197933,
+				"name": "중진",
+				"weights": 0.2957290220248412
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			}
+		],
+		"n_content": [
+			{
+				"id": 199308,
+				"title": "이준석 돌풍 셌다, 41% 압도적 1위 본선행…2위 나경원 29%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105191&rankingType=RANKING",
+				"weights": 0.2995465772129557
+			},
+			{
+				"id": 199377,
+				"title": "이준석, 여론조사 51%로 압도… 당원조사선 나경원이 1위",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616798&rankingType=RANKING",
+				"weights": 0.27088622556051684
+			},
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 197456,
+				"title": "이준석 '1위'로 본선..나경원·주호영·홍문표·조경태 생존(종합)",
+				"url": "https://v.daum.net/v/20210528095929144",
+				"weights": 0.19097049755709167
+			},
+			{
+				"id": 199293,
+				"title": "이준석 득표율 41% 1위 본선행…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267488&rankingType=RANKING",
+				"weights": 0.18590026406899726
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 197992,
+				"title": "이준석, 1위로 본선 진출…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052694&rankingType=RANKING",
+				"weights": 0.17090209799617395
+			}
+		]
+	},
+	"196668": {
+		"rank": 6,
+		"name": "정부",
+		"weights": 4.640984918181698,
+		"n_key": [
+			{
+				"id": 199668,
+				"name": "김현미",
+				"weights": 0.19223386606731535
+			},
+			{
+				"id": 199717,
+				"name": "툰베리",
+				"weights": 0.12859131846851893
+			},
+			{
+				"id": 199716,
+				"name": "인사",
+				"weights": 0.12859131846851893
+			},
+			{
+				"id": 199715,
+				"name": "페인트",
+				"weights": 0.12859131846851893
+			},
+			{
+				"id": 197786,
+				"name": "오세훈",
+				"weights": 0.4965632066550958
+			},
+			{
+				"id": 198912,
+				"name": "보험설계사",
+				"weights": 0.11826324315558581
+			},
+			{
+				"id": 199065,
+				"name": "김진표",
+				"weights": 0.17590787684238823
+			},
+			{
+				"id": 197741,
+				"name": "종부세",
+				"weights": 0.3977361270067722
+			},
+			{
+				"id": 199343,
+				"name": "KDI",
+				"weights": 0.2196945852329199
+			},
+			{
+				"id": 199344,
+				"name": "홍장표",
+				"weights": 0.2196945852329199
+			},
+			{
+				"id": 199342,
+				"name": "소주성",
+				"weights": 0.29822039041235593
+			},
+			{
+				"id": 199411,
+				"name": "피플앤데이터",
+				"weights": 0.1200889059894213
+			},
+			{
+				"id": 197844,
+				"name": "수장",
+				"weights": 0.31019010209766307
+			},
+			{
+				"id": 199410,
+				"name": "설계자",
+				"weights": 0.19861471116885732
+			},
+			{
+				"id": 196667,
+				"name": "도쿄올림픽",
+				"weights": 2.700203526647986
+			},
+			{
+				"id": 196722,
+				"name": "한국",
+				"weights": 0.6178334721120078
+			},
+			{
+				"id": 196741,
+				"name": "확진자",
+				"weights": 1.7182888453611587
+			},
+			{
+				"id": 196713,
+				"name": "임대사업자",
+				"weights": 1.3303411254965183
+			},
+			{
+				"id": 197918,
+				"name": "유승민",
+				"weights": 0.39956852810028537
+			},
+			{
+				"id": 197919,
+				"name": "송영길",
+				"weights": 0.38654284855078347
+			},
+			{
+				"id": 197920,
+				"name": "여랑야",
+				"weights": 0.17717315009862794
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 198148,
+				"name": "바이든",
+				"weights": 2.124312576179945
+			},
+			{
+				"id": 198259,
+				"name": "임대인",
+				"weights": 0.12608357541166829
+			},
+			{
+				"id": 198648,
+				"name": "강경화",
+				"weights": 0.16314789139739228
+			},
+			{
+				"id": 198740,
+				"name": "주택임대사업자",
+				"weights": 0.1132249897594601
+			},
+			{
+				"id": 197726,
+				"name": "민주당",
+				"weights": 0.6984271823506377
+			},
+			{
+				"id": 198776,
+				"name": "문재인",
+				"weights": 0.10179982353967479
+			},
+			{
+				"id": 197838,
+				"name": "소통수석",
+				"weights": 2.1280994741411
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			}
+		],
+		"n_content": [
+			{
+				"id": 197677,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://news.v.daum.net/v/20210528115943224",
+				"weights": 0.41263433064058724
+			},
+			{
+				"id": 196666,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://v.daum.net/v/20210528115943224",
+				"weights": 0.3873175441680162
+			},
+			{
+				"id": 199034,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422674&rankingType=RANKING",
+				"weights": 0.25007141308766373
+			},
+			{
+				"id": 197682,
+				"title": "\"文정부, 손바닥 뒤집듯 정책 뒤집어\"..30만 임대사업자 벼랑끝",
+				"url": "https://news.v.daum.net/v/20210527174501669",
+				"weights": 0.24937969397289994
+			},
+			{
+				"id": 198525,
+				"title": "\"文정부, 손바닥 뒤집듯 정책 뒤집어\"…30만 임대사업자 벼랑끝",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800487&rankingType=RANKING",
+				"weights": 0.2346504578218203
+			},
+			{
+				"id": 197689,
+				"title": "일본 정부, '확진자 폭증' 대만에 AZ백신 공여 검토",
+				"url": "https://news.v.daum.net/v/20210528110112903",
+				"weights": 0.22278717847767066
+			},
+			{
+				"id": 196740,
+				"title": "일본 정부, '확진자 폭증' 대만에 AZ백신 공여 검토",
+				"url": "https://v.daum.net/v/20210528110112903",
+				"weights": 0.22135665547566308
+			}
+		]
+	},
+	"197462": {
+		"rank": 7,
+		"name": "본선",
+		"weights": 4.381200586726794,
+		"n_key": [
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 197766,
+				"name": "예비경선",
+				"weights": 0.6065221981571836
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 198744,
+				"name": "예선",
+				"weights": 0.27505396185881026
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 199594,
+				"name": "뉴스앤이슈",
+				"weights": 0.13353713532772699
+			}
+		],
+		"n_content": [
+			{
+				"id": 199308,
+				"title": "이준석 돌풍 셌다, 41% 압도적 1위 본선행…2위 나경원 29%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105191&rankingType=RANKING",
+				"weights": 0.2995465772129557
+			},
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 197456,
+				"title": "이준석 '1위'로 본선..나경원·주호영·홍문표·조경태 생존(종합)",
+				"url": "https://v.daum.net/v/20210528095929144",
+				"weights": 0.19097049755709167
+			},
+			{
+				"id": 199293,
+				"title": "이준석 득표율 41% 1위 본선행…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267488&rankingType=RANKING",
+				"weights": 0.18590026406899726
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 199702,
+				"title": "이준석, 1위로 본선행…\"네거티브 없이 승부하겠다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329426&rankingType=RANKING",
+				"weights": 0.17228660873201448
+			},
+			{
+				"id": 197992,
+				"title": "이준석, 1위로 본선 진출…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052694&rankingType=RANKING",
+				"weights": 0.17090209799617395
+			}
+		]
+	},
+	"196778": {
+		"rank": 8,
+		"name": "주호영",
+		"weights": 4.003356579647111,
+		"n_key": [
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197933,
+				"name": "중진",
+				"weights": 0.2957290220248412
+			},
+			{
+				"id": 197308,
+				"name": "후보",
+				"weights": 0.8095688626691603
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			}
+		],
+		"n_content": [
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 197456,
+				"title": "이준석 '1위'로 본선..나경원·주호영·홍문표·조경태 생존(종합)",
+				"url": "https://v.daum.net/v/20210528095929144",
+				"weights": 0.19097049755709167
+			},
+			{
+				"id": 199293,
+				"title": "이준석 득표율 41% 1위 본선행…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267488&rankingType=RANKING",
+				"weights": 0.18590026406899726
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 197992,
+				"title": "이준석, 1위로 본선 진출…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052694&rankingType=RANKING",
+				"weights": 0.17090209799617395
+			},
+			{
+				"id": 198606,
+				"title": "이준석 1위 돌풍…나경원 주호영 홍문표 조경태 본선行",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897072&rankingType=RANKING",
+				"weights": 0.1617662854059243
+			},
+			{
+				"id": 199623,
+				"title": "이준석 1위로 ‘본선행’…나경원·주호영·홍문표·조경태 5자 대결",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=028&aid=0002546291&rankingType=RANKING",
+				"weights": 0.15786005758324545
+			}
+		]
+	},
+	"197530": {
+		"rank": 9,
+		"name": "대통령",
+		"weights": 3.9987908439905486,
+		"n_key": [
+			{
+				"id": 199688,
+				"name": "갤럽",
+				"weights": 0.10211465414503777
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197918,
+				"name": "유승민",
+				"weights": 0.39956852810028537
+			},
+			{
+				"id": 197308,
+				"name": "후보",
+				"weights": 0.8095688626691603
+			},
+			{
+				"id": 197954,
+				"name": "수석",
+				"weights": 0.16748115521197546
+			},
+			{
+				"id": 198476,
+				"name": "옐런",
+				"weights": 0.13784942358003588
+			},
+			{
+				"id": 199305,
+				"name": "정상회담",
+				"weights": 0.15196576756972857
+			},
+			{
+				"id": 199304,
+				"name": "팰로시",
+				"weights": 0.15196576756972857
+			},
+			{
+				"id": 198133,
+				"name": "남영숙",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 198132,
+				"name": "경제보좌관",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 199115,
+				"name": "총수",
+				"weights": 0.10454746090633003
+			},
+			{
+				"id": 198148,
+				"name": "바이든",
+				"weights": 2.124312576179945
+			},
+			{
+				"id": 199023,
+				"name": "정무수석",
+				"weights": 0.2529283379574181
+			},
+			{
+				"id": 196738,
+				"name": "아버지",
+				"weights": 0.6564394313240691
+			},
+			{
+				"id": 198677,
+				"name": "알아사드",
+				"weights": 0.4259785764650937
+			},
+			{
+				"id": 197528,
+				"name": "박사",
+				"weights": 0.42945735192323253
+			},
+			{
+				"id": 196921,
+				"name": "오은영",
+				"weights": 1.0181021694260552
+			},
+			{
+				"id": 197523,
+				"name": "유희열",
+				"weights": 0.33361441673723946
+			},
+			{
+				"id": 197703,
+				"name": "김오수",
+				"weights": 0.4605615734431574
+			},
+			{
+				"id": 197869,
+				"name": "후보자",
+				"weights": 0.1146661005283759
+			},
+			{
+				"id": 197870,
+				"name": "검찰총장",
+				"weights": 0.1146661005283759
+			},
+			{
+				"id": 197902,
+				"name": "국민소통수석",
+				"weights": 1.3267540402699998
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			},
+			{
+				"id": 197838,
+				"name": "소통수석",
+				"weights": 2.1280994741411
+			},
+			{
+				"id": 197837,
+				"name": "청와대",
+				"weights": 1.3346818177568671
+			},
+			{
+				"id": 197839,
+				"name": "참모",
+				"weights": 0.4691331991313282
+			},
+			{
+				"id": 198070,
+				"name": "민정비서관",
+				"weights": 0.1023785377086129
+			},
+			{
+				"id": 198071,
+				"name": "이광철",
+				"weights": 0.1023785377086129
+			},
+			{
+				"id": 198095,
+				"name": "이철희",
+				"weights": 0.43514592554500997
+			},
+			{
+				"id": 198008,
+				"name": "김기현",
+				"weights": 0.8637716382316327
+			},
+			{
+				"id": 198142,
+				"name": "한미정상회담",
+				"weights": 0.32520190086617307
+			},
+			{
+				"id": 197726,
+				"name": "민주당",
+				"weights": 0.6984271823506377
+			},
+			{
+				"id": 198209,
+				"name": "비서관",
+				"weights": 0.4656524434355203
+			}
+		],
+		"n_content": [
+			{
+				"id": 199628,
+				"title": "이준석 \"劉 대통령후보로 못 띄운 유승민계가 존재하겠나\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=029&aid=0002676662&rankingType=RANKING",
+				"weights": 0.22239537800165743
+			},
+			{
+				"id": 197529,
+				"title": "오은영 박사, 유희열 필기하게 만든 육아 대통령 '대화의 희열3' [어제TV]",
+				"url": "https://v.daum.net/v/20210528061037975",
+				"weights": 0.17486912395788048
+			},
+			{
+				"id": 197998,
+				"title": "문 대통령, 청와대 국민소통수석에 박수현 초대 대변인 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052786&rankingType=RANKING",
+				"weights": 0.15245111193867464
+			},
+			{
+				"id": 198208,
+				"title": "문 대통령, 청와대 소통수석에 박수현 전 의원 내정…비서관 인사 단행",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442968&rankingType=RANKING",
+				"weights": 0.15210474484063985
+			},
+			{
+				"id": 199303,
+				"title": "팰로시 의장이 문 대통령에게 뛰어온 이유는? 정상회담 뒷이야기",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267487&rankingType=RANKING",
+				"weights": 0.15196576756972857
+			},
+			{
+				"id": 199551,
+				"title": "문 대통령, 靑 수석·비서관 인사...소통수석에 박수현",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593848&rankingType=RANKING",
+				"weights": 0.14907721947272407
+			},
+			{
+				"id": 198230,
+				"title": "[속보]文대통령, 靑 참모진 교체...소통수석에 박수현 전 대변인",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916026&rankingType=RANKING",
+				"weights": 0.13983056584766348
+			}
+		]
+	},
+	"196640": {
+		"rank": 10,
+		"name": "BTS",
+		"weights": 3.9192090409031732,
+		"n_key": [
+			{
+				"id": 196882,
+				"name": "영어",
+				"weights": 0.26991748599005216
+			},
+			{
+				"id": 196973,
+				"name": "프렌즈",
+				"weights": 0.32714894423955965
+			},
+			{
+				"id": 198274,
+				"name": "EDM",
+				"weights": 0.11263808693080186
+			},
+			{
+				"id": 196639,
+				"name": "BUTTER",
+				"weights": 2.4723510361097762
+			},
+			{
+				"id": 196679,
+				"name": "방탄소년단",
+				"weights": 2.9269494809421808
+			},
+			{
+				"id": 196754,
+				"name": "코로나",
+				"weights": 0.8953287469142476
+			},
+			{
+				"id": 196755,
+				"name": "라디오DJ",
+				"weights": 0.31738078342197756
+			},
+			{
+				"id": 196758,
+				"name": "BBMAS",
+				"weights": 0.1086243096532459
+			},
+			{
+				"id": 196763,
+				"name": "MCDONALD",
+				"weights": 0.26317332508810726
+			},
+			{
+				"id": 196872,
+				"name": "버터",
+				"weights": 0.6205483835313139
+			},
+			{
+				"id": 197074,
+				"name": "NEWSENTV",
+				"weights": 0.10922370748812453
+			},
+			{
+				"id": 197134,
+				"name": "DJ",
+				"weights": 0.10743297454149003
+			},
+			{
+				"id": 197214,
+				"name": "RM",
+				"weights": 0.24190941079159
+			},
+			{
+				"id": 196716,
+				"name": "사이다",
+				"weights": 0.19190776347008565
+			},
+			{
+				"id": 197215,
+				"name": "저스틴비버",
+				"weights": 0.10798868984848599
+			},
+			{
+				"id": 197288,
+				"name": "BBMA",
+				"weights": 0.10449651192964132
+			},
+			{
+				"id": 197808,
+				"name": "네이버",
+				"weights": 5.880424357241987
+			}
+		],
+		"n_content": [
+			{
+				"id": 196952,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=28",
+				"weights": 0.7607944397018788
+			},
+			{
+				"id": 196845,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=120",
+				"weights": 0.31581273110582064
+			},
+			{
+				"id": 196721,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.2077811250545118
+			},
+			{
+				"id": 196686,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.17633283694906943
+			},
+			{
+				"id": 197731,
+				"title": "'BTS=코로나?' 역대급 막말 독일 라디오DJ 근황 결국..",
+				"url": "https://news.v.daum.net/v/20210528140247900",
+				"weights": 0.16413405681440416
+			},
+			{
+				"id": 196753,
+				"title": "'BTS=코로나?' 역대급 막말 독일 라디오DJ 근황 결국..",
+				"url": "https://v.daum.net/v/20210528140247900",
+				"weights": 0.1532467266075734
+			},
+			{
+				"id": 197807,
+				"title": "네이버 브이라이브, BTS호재로 팬덤 앱 시장 1위",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=092&aid=0002223291&rankingType=RANKING",
+				"weights": 0.1506279833247298
+			}
+		]
+	},
+	"196746": {
+		"rank": 11,
+		"name": "박수현",
+		"weights": 3.8140608447519853,
+		"n_key": [
+			{
+				"id": 197954,
+				"name": "수석",
+				"weights": 0.16748115521197546
+			},
+			{
+				"id": 196748,
+				"name": "민심수석",
+				"weights": 0.35920733034088764
+			},
+			{
+				"id": 196750,
+				"name": "국민",
+				"weights": 1.2498070202521396
+			},
+			{
+				"id": 197837,
+				"name": "청와대",
+				"weights": 1.3346818177568671
+			},
+			{
+				"id": 197838,
+				"name": "소통수석",
+				"weights": 2.1280994741411
+			},
+			{
+				"id": 197839,
+				"name": "참모",
+				"weights": 0.4691331991313282
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			},
+			{
+				"id": 197902,
+				"name": "국민소통수석",
+				"weights": 1.3267540402699998
+			},
+			{
+				"id": 198130,
+				"name": "시민사회수석",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 198131,
+				"name": "방정균",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 198132,
+				"name": "경제보좌관",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 198133,
+				"name": "남영숙",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 198209,
+				"name": "비서관",
+				"weights": 0.4656524434355203
+			},
+			{
+				"id": 198234,
+				"name": "참모진",
+				"weights": 0.10783714511668586
+			},
+			{
+				"id": 198625,
+				"name": "정만호",
+				"weights": 0.2526546631414519
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			}
+		],
+		"n_content": [
+			{
+				"id": 197708,
+				"title": "靑돌아온 박수현 \"민심수석 각오로 靑-국민 가교역할 최선\"",
+				"url": "https://news.v.daum.net/v/20210528120429389",
+				"weights": 0.18077452921488482
+			},
+			{
+				"id": 196745,
+				"title": "靑돌아온 박수현 \"민심수석 각오로 靑-국민 가교역할 최선\"",
+				"url": "https://v.daum.net/v/20210528120429389",
+				"weights": 0.17843280112600282
+			},
+			{
+				"id": 197998,
+				"title": "문 대통령, 청와대 국민소통수석에 박수현 초대 대변인 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052786&rankingType=RANKING",
+				"weights": 0.15245111193867464
+			},
+			{
+				"id": 198208,
+				"title": "문 대통령, 청와대 소통수석에 박수현 전 의원 내정…비서관 인사 단행",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442968&rankingType=RANKING",
+				"weights": 0.15210474484063985
+			},
+			{
+				"id": 199551,
+				"title": "문 대통령, 靑 수석·비서관 인사...소통수석에 박수현",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593848&rankingType=RANKING",
+				"weights": 0.14907721947272407
+			},
+			{
+				"id": 199051,
+				"title": "정만호 靑국민소통수석 교체…후임에 박수현 前대변인(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422742&rankingType=RANKING",
+				"weights": 0.14676447348124422
+			},
+			{
+				"id": 198230,
+				"title": "[속보]文대통령, 靑 참모진 교체...소통수석에 박수현 전 대변인",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916026&rankingType=RANKING",
+				"weights": 0.13983056584766348
+			}
+		]
+	},
+	"196672": {
+		"rank": 12,
+		"name": "삼성",
+		"weights": 3.698393560624973,
+		"n_key": [
+			{
+				"id": 199637,
+				"name": "샤오미폰",
+				"weights": 0.11816060444878204
+			},
+			{
+				"id": 197757,
+				"name": "SK하이닉스",
+				"weights": 0.3951853753475013
+			},
+			{
+				"id": 199470,
+				"name": "인텔",
+				"weights": 0.11360914660403436
+			},
+			{
+				"id": 199260,
+				"name": "이재용",
+				"weights": 0.32531766075475693
+			},
+			{
+				"id": 199419,
+				"name": "유저",
+				"weights": 0.12736888982266165
+			},
+			{
+				"id": 199404,
+				"name": "폴더블폰",
+				"weights": 0.10620036689416423
+			},
+			{
+				"id": 196673,
+				"name": "LG폰",
+				"weights": 0.732359901098228
+			},
+			{
+				"id": 196674,
+				"name": "고객",
+				"weights": 0.6670391147123245
+			},
+			{
+				"id": 196675,
+				"name": "LG",
+				"weights": 2.3814939572230878
+			},
+			{
+				"id": 196676,
+				"name": "애플",
+				"weights": 3.033037657398644
+			},
+			{
+				"id": 197247,
+				"name": "KIA",
+				"weights": 0.1376845231078795
+			},
+			{
+				"id": 197248,
+				"name": "NC",
+				"weights": 0.1376845231078795
+			},
+			{
+				"id": 197251,
+				"name": "KT",
+				"weights": 0.3124363595242913
+			},
+			{
+				"id": 197253,
+				"name": "키움",
+				"weights": 0.15368608127161365
+			},
+			{
+				"id": 197784,
+				"name": "다이슨",
+				"weights": 0.10874175174420869
+			},
+			{
+				"id": 197789,
+				"name": "갤럭시Z플립3",
+				"weights": 0.12694222524989499
+			},
+			{
+				"id": 197863,
+				"name": "퇴직연금",
+				"weights": 0.1296537668416186
+			},
+			{
+				"id": 197904,
+				"name": "AI",
+				"weights": 0.40878969744867044
+			},
+			{
+				"id": 198077,
+				"name": "구글",
+				"weights": 0.23632339986951112
+			},
+			{
+				"id": 199195,
+				"name": "박근혜",
+				"weights": 0.27648306783617094
+			},
+			{
+				"id": 199225,
+				"name": "김종인",
+				"weights": 0.12992344179807175
+			},
+			{
+				"id": 197973,
+				"name": "화이자",
+				"weights": 0.7421022998950257
+			},
+			{
+				"id": 198369,
+				"name": "애플워치",
+				"weights": 0.21229721676618257
+			}
+		],
+		"n_content": [
+			{
+				"id": 197715,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.v.daum.net/v/20210528123302954",
+				"weights": 0.19394265997963953
+			},
+			{
+				"id": 196671,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://v.daum.net/v/20210528123302954",
+				"weights": 0.19016698793123182
+			},
+			{
+				"id": 196837,
+				"title": "콧대높던 애플도 \"15만원 드립니다\"..사업 철수한 LG폰 중고보상 삼성-애플 맞대결",
+				"url": "https://v.daum.net/v/20210528103929952",
+				"weights": 0.1642121371673211
+			},
+			{
+				"id": 199397,
+				"title": "LG 존재감 이정도였나…애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553461&rankingType=RANKING",
+				"weights": 0.16384550134009757
+			},
+			{
+				"id": 198614,
+				"title": "“LG폰 가져오면 15만원 더”…삼성·애플, 빈자리 쟁탈전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=081&aid=0003189836&rankingType=RANKING",
+				"weights": 0.14126983110346367
+			},
+			{
+				"id": 199782,
+				"title": "'이재용 사면론' 커지자 입 꽉 다문 삼성…\"할 말 없다\" 속내는",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=008&aid=0004593654&rankingType=RANKING",
+				"weights": 0.14077690057409825
+			},
+			{
+				"id": 197246,
+				"title": "NC에 당한 KIA, 키움에 분풀이..키움은 삼성, 삼성은 kt 난타",
+				"url": "https://v.daum.net/v/20210528110009837",
+				"weights": 0.1376845231078795
+			}
+		]
+	},
+	"196780": {
+		"rank": 13,
+		"name": "홍문표",
+		"weights": 3.6223505994292124,
+		"n_key": [
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			}
+		],
+		"n_content": [
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 197456,
+				"title": "이준석 '1위'로 본선..나경원·주호영·홍문표·조경태 생존(종합)",
+				"url": "https://v.daum.net/v/20210528095929144",
+				"weights": 0.19097049755709167
+			},
+			{
+				"id": 199293,
+				"title": "이준석 득표율 41% 1위 본선행…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267488&rankingType=RANKING",
+				"weights": 0.18590026406899726
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 197992,
+				"title": "이준석, 1위로 본선 진출…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052694&rankingType=RANKING",
+				"weights": 0.17090209799617395
+			},
+			{
+				"id": 198606,
+				"title": "이준석 1위 돌풍…나경원 주호영 홍문표 조경태 본선行",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897072&rankingType=RANKING",
+				"weights": 0.1617662854059243
+			},
+			{
+				"id": 199623,
+				"title": "이준석 1위로 ‘본선행’…나경원·주호영·홍문표·조경태 5자 대결",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=028&aid=0002546291&rankingType=RANKING",
+				"weights": 0.15786005758324545
+			}
+		]
+	},
+	"196807": {
+		"rank": 14,
+		"name": "정민",
+		"weights": 3.526948917323379,
+		"n_key": [
+			{
+				"id": 198515,
+				"name": "변호인",
+				"weights": 0.902980859035424
+			},
+			{
+				"id": 198469,
+				"name": "목격자",
+				"weights": 0.35329485183627085
+			},
+			{
+				"id": 198464,
+				"name": "손현",
+				"weights": 0.43136731370540427
+			},
+			{
+				"id": 198216,
+				"name": "티셔츠",
+				"weights": 0.18090294277684815
+			},
+			{
+				"id": 196738,
+				"name": "아버지",
+				"weights": 0.6564394313240691
+			},
+			{
+				"id": 196685,
+				"name": "경찰",
+				"weights": 7.220339004606356
+			},
+			{
+				"id": 197418,
+				"name": "부친",
+				"weights": 0.3900771337215169
+			},
+			{
+				"id": 196739,
+				"name": "김진의",
+				"weights": 0.19161201116155951
+			},
+			{
+				"id": 196810,
+				"name": "서울경찰청",
+				"weights": 3.040339250801117
+			},
+			{
+				"id": 196733,
+				"name": "손정민",
+				"weights": 7.772168443966705
+			},
+			{
+				"id": 196990,
+				"name": "입수자",
+				"weights": 0.6354470327438149
+			}
+		],
+		"n_content": [
+			{
+				"id": 198463,
+				"title": "손현씨 \"경찰, 정민이 물놀이 영상 누구한테 받았나…내 이럴 줄\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005377873&rankingType=RANKING",
+				"weights": 0.43136731370540427
+			},
+			{
+				"id": 197678,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.v.daum.net/v/20210528051703254",
+				"weights": 0.409943878218564
+			},
+			{
+				"id": 197407,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://v.daum.net/v/20210528051703254",
+				"weights": 0.4095972838451033
+			},
+			{
+				"id": 199417,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496752&rankingType=RANKING",
+				"weights": 0.3754841597989319
+			},
+			{
+				"id": 197865,
+				"title": "정민씨父 \"경찰, '정민이 물놀이 영상' 누구한테 받았나..이럴 줄 알았다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646819&rankingType=RANKING",
+				"weights": 0.33510838951330046
+			},
+			{
+				"id": 198468,
+				"title": "'한강입수男 목격자 왜 뒤늦게'…'정민씨 사건' 경찰 Q&A로 풀어보니",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378680&rankingType=RANKING",
+				"weights": 0.20647848021840765
+			},
+			{
+				"id": 198215,
+				"title": "\"정민이 친구, 신발만 버린 줄 알았는데 티셔츠까지 버렸단 사실도 알게 됐다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003915852&rankingType=RANKING",
+				"weights": 0.18090294277684815
+			}
+		]
+	},
+	"197457": {
+		"rank": 15,
+		"name": "조경태",
+		"weights": 3.2483439916025576,
+		"n_key": [
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			}
+		],
+		"n_content": [
+			{
+				"id": 199081,
+				"title": "이준석, 1위 반란…나경원 주호영 홍문표 조경태 본선行(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422015&rankingType=RANKING",
+				"weights": 0.20643354026391275
+			},
+			{
+				"id": 197456,
+				"title": "이준석 '1위'로 본선..나경원·주호영·홍문표·조경태 생존(종합)",
+				"url": "https://v.daum.net/v/20210528095929144",
+				"weights": 0.19097049755709167
+			},
+			{
+				"id": 199293,
+				"title": "이준석 득표율 41% 1위 본선행…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267488&rankingType=RANKING",
+				"weights": 0.18590026406899726
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 197992,
+				"title": "이준석, 1위로 본선 진출…나경원·주호영·홍문표·조경태 순",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052694&rankingType=RANKING",
+				"weights": 0.17090209799617395
+			},
+			{
+				"id": 198606,
+				"title": "이준석 1위 돌풍…나경원 주호영 홍문표 조경태 본선行",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897072&rankingType=RANKING",
+				"weights": 0.1617662854059243
+			},
+			{
+				"id": 199623,
+				"title": "이준석 1위로 ‘본선행’…나경원·주호영·홍문표·조경태 5자 대결",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=028&aid=0002546291&rankingType=RANKING",
+				"weights": 0.15786005758324545
+			}
+		]
+	},
+	"196810": {
+		"rank": 16,
+		"name": "서울경찰청",
+		"weights": 3.040339250801117,
+		"n_key": [
+			{
+				"id": 198515,
+				"name": "변호인",
+				"weights": 0.902980859035424
+			},
+			{
+				"id": 197418,
+				"name": "부친",
+				"weights": 0.3900771337215169
+			},
+			{
+				"id": 196738,
+				"name": "아버지",
+				"weights": 0.6564394313240691
+			},
+			{
+				"id": 196807,
+				"name": "정민",
+				"weights": 3.526948917323379
+			},
+			{
+				"id": 196812,
+				"name": "택시",
+				"weights": 0.8975009048484556
+			},
+			{
+				"id": 196733,
+				"name": "손정민",
+				"weights": 7.772168443966705
+			}
+		],
+		"n_content": [
+			{
+				"id": 197678,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.v.daum.net/v/20210528051703254",
+				"weights": 0.409943878218564
+			},
+			{
+				"id": 197407,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://v.daum.net/v/20210528051703254",
+				"weights": 0.4095972838451033
+			},
+			{
+				"id": 199417,
+				"title": "故손정민 父 \"서울경찰청, 정민이와 나를 미워한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496752&rankingType=RANKING",
+				"weights": 0.3754841597989319
+			},
+			{
+				"id": 199273,
+				"title": "손정민 부친 \"서울경찰청, 우리 미워하고 친구 변호인만 사랑해\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267478&rankingType=RANKING",
+				"weights": 0.31958890150593333
+			},
+			{
+				"id": 197685,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://news.v.daum.net/v/20210528085450587",
+				"weights": 0.26965913686634335
+			},
+			{
+				"id": 196809,
+				"title": "故 손정민 父 \"서울경찰청, 나와 아들 미워한다..택시 좌석 발표 기막혀\"",
+				"url": "https://v.daum.net/v/20210528085450587",
+				"weights": 0.26694656472741973
+			},
+			{
+				"id": 199311,
+				"title": "손정민父 \"서울경찰청, 우리 미워하고 친구 변호인만 사랑한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105181&rankingType=RANKING",
+				"weights": 0.2572003261087172
+			}
+		]
+	},
+	"196676": {
+		"rank": 17,
+		"name": "애플",
+		"weights": 3.033037657398644,
+		"n_key": [
+			{
+				"id": 199637,
+				"name": "샤오미폰",
+				"weights": 0.11816060444878204
+			},
+			{
+				"id": 197501,
+				"name": "아마존",
+				"weights": 0.28383094843548906
+			},
+			{
+				"id": 199421,
+				"name": "포드",
+				"weights": 0.10380271711443385
+			},
+			{
+				"id": 196672,
+				"name": "삼성",
+				"weights": 3.698393560624973
+			},
+			{
+				"id": 196673,
+				"name": "LG폰",
+				"weights": 0.732359901098228
+			},
+			{
+				"id": 196674,
+				"name": "고객",
+				"weights": 0.6670391147123245
+			},
+			{
+				"id": 196675,
+				"name": "LG",
+				"weights": 2.3814939572230878
+			},
+			{
+				"id": 196749,
+				"name": "공대생",
+				"weights": 0.09971338891408706
+			},
+			{
+				"id": 196751,
+				"name": "아이폰",
+				"weights": 0.09971338891408706
+			},
+			{
+				"id": 196752,
+				"name": "변승주",
+				"weights": 0.09971338891408706
+			},
+			{
+				"id": 197814,
+				"name": "암호화폐",
+				"weights": 0.24797390726016533
+			},
+			{
+				"id": 197815,
+				"name": "경력자",
+				"weights": 0.09375954368684354
+			},
+			{
+				"id": 198077,
+				"name": "구글",
+				"weights": 0.23632339986951112
+			},
+			{
+				"id": 198369,
+				"name": "애플워치",
+				"weights": 0.21229721676618257
+			},
+			{
+				"id": 196775,
+				"name": "비트코인",
+				"weights": 1.653221804781864
+			},
+			{
+				"id": 199275,
+				"name": "아이폰13",
+				"weights": 0.09271264840544194
+			},
+			{
+				"id": 199276,
+				"name": "TSMC",
+				"weights": 0.09271264840544194
+			},
+			{
+				"id": 199419,
+				"name": "유저",
+				"weights": 0.12736888982266165
+			}
+		],
+		"n_content": [
+			{
+				"id": 197715,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.v.daum.net/v/20210528123302954",
+				"weights": 0.19394265997963953
+			},
+			{
+				"id": 196671,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://v.daum.net/v/20210528123302954",
+				"weights": 0.19016698793123182
+			},
+			{
+				"id": 196837,
+				"title": "콧대높던 애플도 \"15만원 드립니다\"..사업 철수한 LG폰 중고보상 삼성-애플 맞대결",
+				"url": "https://v.daum.net/v/20210528103929952",
+				"weights": 0.1642121371673211
+			},
+			{
+				"id": 199397,
+				"title": "LG 존재감 이정도였나…애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553461&rankingType=RANKING",
+				"weights": 0.16384550134009757
+			},
+			{
+				"id": 198614,
+				"title": "“LG폰 가져오면 15만원 더”…삼성·애플, 빈자리 쟁탈전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=081&aid=0003189836&rankingType=RANKING",
+				"weights": 0.14126983110346367
+			},
+			{
+				"id": 198358,
+				"title": "“LG폰 받고 15만원 쏜다” 삼성에게 뺏길라, 칼 꺼낸 애플",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=138&aid=0002104140&rankingType=RANKING",
+				"weights": 0.13372228096276778
+			},
+			{
+				"id": 199418,
+				"title": "\"LG폰 유저 모셔라\"…삼성 공세에 애플도 15만원 지급 '맞불'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553466&rankingType=RANKING",
+				"weights": 0.12736888982266165
+			}
+		]
+	},
+	"196679": {
+		"rank": 18,
+		"name": "방탄소년단",
+		"weights": 2.9269494809421808,
+		"n_key": [
+			{
+				"id": 199764,
+				"name": "기네스",
+				"weights": 0.1005579246431855
+			},
+			{
+				"id": 197612,
+				"name": "중국",
+				"weights": 0.09471198895553276
+			},
+			{
+				"id": 197134,
+				"name": "DJ",
+				"weights": 0.10743297454149003
+			},
+			{
+				"id": 197074,
+				"name": "NEWSENTV",
+				"weights": 0.10922370748812453
+			},
+			{
+				"id": 197025,
+				"name": "TAENNIS",
+				"weights": 0.09750928563739644
+			},
+			{
+				"id": 196973,
+				"name": "프렌즈",
+				"weights": 0.32714894423955965
+			},
+			{
+				"id": 196872,
+				"name": "버터",
+				"weights": 0.6205483835313139
+			},
+			{
+				"id": 196640,
+				"name": "BTS",
+				"weights": 3.9192090409031732
+			},
+			{
+				"id": 196639,
+				"name": "BUTTER",
+				"weights": 2.4723510361097762
+			}
+		],
+		"n_content": [
+			{
+				"id": 196952,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=28",
+				"weights": 0.7607944397018788
+			},
+			{
+				"id": 196845,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=120",
+				"weights": 0.31581273110582064
+			},
+			{
+				"id": 196721,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.2077811250545118
+			},
+			{
+				"id": 196686,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.17633283694906943
+			},
+			{
+				"id": 197526,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=93",
+				"weights": 0.12896410250701312
+			},
+			{
+				"id": 197066,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=144",
+				"weights": 0.10922370748812453
+			},
+			{
+				"id": 196677,
+				"title": "방탄소년단 'Butter 뮤비를 보는 남녀 댄서의 반응 차이 | BTS ‘Butter' MV REACTION",
+				"url": "https://www.youtube.com/watch?v=rPosuDRNJrc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=104",
+				"weights": 0.10830146899631579
+			}
+		]
+	},
+	"196667": {
+		"rank": 19,
+		"name": "도쿄올림픽",
+		"weights": 2.700203526647986,
+		"n_key": [
+			{
+				"id": 199070,
+				"name": "EU",
+				"weights": 0.11064004027694374
+			},
+			{
+				"id": 199029,
+				"name": "이에리사",
+				"weights": 0.08577140004093789
+			},
+			{
+				"id": 197749,
+				"name": "이낙연",
+				"weights": 0.9912049686658195
+			},
+			{
+				"id": 196647,
+				"name": "올림픽",
+				"weights": 1.9455031001029979
+			},
+			{
+				"id": 197748,
+				"name": "정세균",
+				"weights": 0.6478715202723611
+			},
+			{
+				"id": 197358,
+				"name": "조코비치",
+				"weights": 0.23120787796548398
+			},
+			{
+				"id": 197219,
+				"name": "야구",
+				"weights": 0.22380782309847924
+			},
+			{
+				"id": 197154,
+				"name": "하시모토",
+				"weights": 0.12489572315477687
+			},
+			{
+				"id": 197151,
+				"name": "서경덕",
+				"weights": 0.49977428604938495
+			},
+			{
+				"id": 196722,
+				"name": "한국",
+				"weights": 0.6178334721120078
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			}
+		],
+		"n_content": [
+			{
+				"id": 197677,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://news.v.daum.net/v/20210528115943224",
+				"weights": 0.41263433064058724
+			},
+			{
+				"id": 196666,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://v.daum.net/v/20210528115943224",
+				"weights": 0.3873175441680162
+			},
+			{
+				"id": 199034,
+				"title": "'도쿄올림픽 지도서 독도 삭제' 요구에 日정부 \"수용 불가\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422674&rankingType=RANKING",
+				"weights": 0.25007141308766373
+			},
+			{
+				"id": 197691,
+				"title": "日 정부 \"도쿄올림픽 지도 '독도 삭제' 한국 측 요구 수용 불가\"",
+				"url": "https://news.v.daum.net/v/20210528133615130",
+				"weights": 0.19793157944577539
+			},
+			{
+				"id": 196720,
+				"title": "日 정부 \"도쿄올림픽 지도 '독도 삭제' 한국 측 요구 수용 불가\"",
+				"url": "https://v.daum.net/v/20210528133615130",
+				"weights": 0.19005965914063472
+			},
+			{
+				"id": 199316,
+				"title": "‘도쿄올림픽 지도서 독도 삭제’ 韓요구에 日정부 “수용 불가”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105232&rankingType=RANKING",
+				"weights": 0.16863181444697567
+			},
+			{
+				"id": 197747,
+				"title": "이낙연·정세균 “도쿄올림픽 지도에 독도 삭제 안하면 올림픽 보이콧”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209405&rankingType=RANKING",
+				"weights": 0.1421998938371814
+			}
+		]
+	},
+	"197772": {
+		"rank": 20,
+		"name": "이용구",
+		"weights": 2.690163380511001,
+		"n_key": [
+			{
+				"id": 199130,
+				"name": "법무",
+				"weights": 0.1240594941346998
+			},
+			{
+				"id": 197722,
+				"name": "박범계",
+				"weights": 0.7988439393746977
+			},
+			{
+				"id": 197449,
+				"name": "검찰",
+				"weights": 1.0591342892765383
+			},
+			{
+				"id": 198255,
+				"name": "경찰서",
+				"weights": 0.10290821257769968
+			},
+			{
+				"id": 196812,
+				"name": "택시",
+				"weights": 0.8975009048484556
+			},
+			{
+				"id": 197983,
+				"name": "법무차관",
+				"weights": 0.43449302240124243
+			},
+			{
+				"id": 197775,
+				"name": "일꾼",
+				"weights": 0.5622354578985723
+			},
+			{
+				"id": 197435,
+				"name": "법무부",
+				"weights": 1.323352137799141
+			},
+			{
+				"id": 197774,
+				"name": "택시기사",
+				"weights": 2.0272814816063387
+			},
+			{
+				"id": 197773,
+				"name": "차관",
+				"weights": 1.3990946486696383
+			}
+		],
+		"n_content": [
+			{
+				"id": 199539,
+				"title": "'택시기사 폭행 논란' 이용구 사의 표명...6개월만 불명예 퇴진",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593840&rankingType=RANKING",
+				"weights": 0.13373049213583574
+			},
+			{
+				"id": 198671,
+				"title": "‘택시기사 폭행 혐의’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076793&rankingType=RANKING",
+				"weights": 0.13279629445388347
+			},
+			{
+				"id": 199091,
+				"title": "檢인사 앞두고…'택시기사 폭행' 이용구 사의 표명(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422115&rankingType=RANKING",
+				"weights": 0.13085137285189072
+			},
+			{
+				"id": 197771,
+				"title": "‘택시기사 폭행’ 이용구 법무부 차관 사의…“새 일꾼 필요”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209407&rankingType=RANKING",
+				"weights": 0.1292821593498362
+			},
+			{
+				"id": 198224,
+				"title": "이용구 폭행 다음날 서초서 방문했다…“택시 유실물 찾으러”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442937&rankingType=RANKING",
+				"weights": 0.1286752732556318
+			},
+			{
+				"id": 199129,
+				"title": "박범계 ‘인사적체’ 언급 다음날… 사의 표명한 이용구 “법무·검찰, 새 일꾼 필요”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=022&aid=0003585302&rankingType=RANKING",
+				"weights": 0.1240594941346998
+			},
+			{
+				"id": 199725,
+				"title": "'택시기사 폭행 의혹' 이용구 법무차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329404&rankingType=RANKING",
+				"weights": 0.12133376833660746
+			}
+		]
+	},
+	"197442": {
+		"rank": 21,
+		"name": "국민의힘",
+		"weights": 2.5626559038460837,
+		"n_key": [
+			{
+				"id": 199558,
+				"name": "대표",
+				"weights": 0.16319288286316005
+			},
+			{
+				"id": 197277,
+				"name": "신인",
+				"weights": 0.40059038574137146
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 197933,
+				"name": "중진",
+				"weights": 0.2957290220248412
+			},
+			{
+				"id": 197472,
+				"name": "당대표",
+				"weights": 2.1751093975032525
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 198154,
+				"name": "책임당원",
+				"weights": 0.08431248966146616
+			},
+			{
+				"id": 197938,
+				"name": "홍준표",
+				"weights": 0.5255836919358976
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 198744,
+				"name": "예선",
+				"weights": 0.27505396185881026
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 198988,
+				"name": "경선",
+				"weights": 0.093133777570454
+			},
+			{
+				"id": 197766,
+				"name": "예비경선",
+				"weights": 0.6065221981571836
+			}
+		],
+		"n_content": [
+			{
+				"id": 199391,
+				"title": "이준석, 1위로 국민의힘 당대표 본경선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616779&rankingType=RANKING",
+				"weights": 0.24706677657778342
+			},
+			{
+				"id": 197441,
+				"title": "이준석, 국민의힘 대표 될까?",
+				"url": "https://v.daum.net/v/20210528113802500",
+				"weights": 0.1756566229580978
+			},
+			{
+				"id": 199557,
+				"title": "국민의힘 당 대표 예비경선, 이준석 1위...나머지 신인은 대거 탈락",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593839&rankingType=RANKING",
+				"weights": 0.16319288286316005
+			},
+			{
+				"id": 198586,
+				"title": "국민의힘 당권 레이스 대진표 확정…이준석 '선두'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897128&rankingType=RANKING",
+				"weights": 0.16054895153422255
+			},
+			{
+				"id": 198716,
+				"title": "[속보]이준석·나경원·주호영·홍문표·조경태, 국민의힘 전대 본경선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076787&rankingType=RANKING",
+				"weights": 0.15140880491766223
+			},
+			{
+				"id": 197932,
+				"title": "국민의힘 '이준석 돌풍' 건재…나경원·주호영 등 중진들 '고심'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085778&rankingType=RANKING",
+				"weights": 0.1460615299422628
+			},
+			{
+				"id": 198997,
+				"title": "[영상]1위로 본선 오른 이준석, 국민의힘 당권 경선판 흔드나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=079&aid=0003509325&rankingType=RANKING",
+				"weights": 0.1451198143141138
+			}
+		]
+	},
+	"196639": {
+		"rank": 22,
+		"name": "BUTTER",
+		"weights": 2.4723510361097762,
+		"n_key": [
+			{
+				"id": 197134,
+				"name": "DJ",
+				"weights": 0.10743297454149003
+			},
+			{
+				"id": 197074,
+				"name": "NEWSENTV",
+				"weights": 0.10922370748812453
+			},
+			{
+				"id": 196872,
+				"name": "버터",
+				"weights": 0.6205483835313139
+			},
+			{
+				"id": 196679,
+				"name": "방탄소년단",
+				"weights": 2.9269494809421808
+			},
+			{
+				"id": 196640,
+				"name": "BTS",
+				"weights": 3.9192090409031732
+			}
+		],
+		"n_content": [
+			{
+				"id": 196952,
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"url": "https://www.youtube.com/watch?v=WMweEpGlu_U&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=28",
+				"weights": 0.7607944397018788
+			},
+			{
+				"id": 196845,
+				"title": "BTS (방탄소년단) 'Butter' Official Teaser",
+				"url": "https://www.youtube.com/watch?v=OOMxU9f1FBU&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=120",
+				"weights": 0.31581273110582064
+			},
+			{
+				"id": 196721,
+				"title": "BTS (방탄소년단) 'Butter' @ Billboard Music Awards",
+				"url": "https://www.youtube.com/watch?v=T7lhGz6Bfik&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=7",
+				"weights": 0.2077811250545118
+			},
+			{
+				"id": 196686,
+				"title": "[CHOREOGRAPHY] BTS (방탄소년단) 'Butter' Dance Practice",
+				"url": "https://www.youtube.com/watch?v=ujf3iJoWgrM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=4",
+				"weights": 0.17633283694906943
+			},
+			{
+				"id": 197526,
+				"title": "BTS (방탄소년단) Global Press Conference 'Butter' (+ENG/JPN)",
+				"url": "https://www.youtube.com/watch?v=g9K0GD4fHFI&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=93",
+				"weights": 0.12896410250701312
+			},
+			{
+				"id": 196638,
+				"title": "BTS \"Butter\" - The Late Show with Stephen Colbert",
+				"url": "https://www.youtube.com/watch?v=3kRl7gkXdXM&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=2",
+				"weights": 0.12882579619537293
+			},
+			{
+				"id": 197066,
+				"title": "방탄소년단(BTS), 'BUTTER' 부드럽게 스며드는 매력(기자간담회)#NewsenTV 'Release Press Conference' Photo Time",
+				"url": "https://www.youtube.com/watch?v=7E7QcpuKWzk&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=144",
+				"weights": 0.10922370748812453
+			}
+		]
+	},
+	"196675": {
+		"rank": 23,
+		"name": "LG",
+		"weights": 2.3814939572230878,
+		"n_key": [
+			{
+				"id": 197823,
+				"name": "LX",
+				"weights": 0.11032142982013501
+			},
+			{
+				"id": 197784,
+				"name": "다이슨",
+				"weights": 0.10874175174420869
+			},
+			{
+				"id": 197631,
+				"name": "홍창기",
+				"weights": 0.22306714676347902
+			},
+			{
+				"id": 197226,
+				"name": "롯데",
+				"weights": 0.32780113289111523
+			},
+			{
+				"id": 197224,
+				"name": "배트",
+				"weights": 0.10119284405806603
+			},
+			{
+				"id": 197223,
+				"name": "마차",
+				"weights": 0.10119284405806603
+			},
+			{
+				"id": 197222,
+				"name": "라모스",
+				"weights": 0.10119284405806603
+			},
+			{
+				"id": 197221,
+				"name": "바나나",
+				"weights": 0.10119284405806603
+			},
+			{
+				"id": 197213,
+				"name": "뎁스",
+				"weights": 0.10167578516269492
+			},
+			{
+				"id": 196676,
+				"name": "애플",
+				"weights": 3.033037657398644
+			},
+			{
+				"id": 196674,
+				"name": "고객",
+				"weights": 0.6670391147123245
+			},
+			{
+				"id": 196673,
+				"name": "LG폰",
+				"weights": 0.732359901098228
+			},
+			{
+				"id": 196672,
+				"name": "삼성",
+				"weights": 3.698393560624973
+			}
+		],
+		"n_content": [
+			{
+				"id": 197715,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.v.daum.net/v/20210528123302954",
+				"weights": 0.19394265997963953
+			},
+			{
+				"id": 196671,
+				"title": "LG 존재감 이정도였나..애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://v.daum.net/v/20210528123302954",
+				"weights": 0.19016698793123182
+			},
+			{
+				"id": 196837,
+				"title": "콧대높던 애플도 \"15만원 드립니다\"..사업 철수한 LG폰 중고보상 삼성-애플 맞대결",
+				"url": "https://v.daum.net/v/20210528103929952",
+				"weights": 0.1642121371673211
+			},
+			{
+				"id": 199397,
+				"title": "LG 존재감 이정도였나…애플·삼성, '파격 혜택'으로 LG폰 고객 맞는다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553461&rankingType=RANKING",
+				"weights": 0.16384550134009757
+			},
+			{
+				"id": 198614,
+				"title": "“LG폰 가져오면 15만원 더”…삼성·애플, 빈자리 쟁탈전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=081&aid=0003189836&rankingType=RANKING",
+				"weights": 0.14126983110346367
+			},
+			{
+				"id": 198358,
+				"title": "“LG폰 받고 15만원 쏜다” 삼성에게 뺏길라, 칼 꺼낸 애플",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=138&aid=0002104140&rankingType=RANKING",
+				"weights": 0.13372228096276778
+			},
+			{
+				"id": 199753,
+				"title": "삼성 견제 나선 애플…\"LG폰 반납시 중고보상\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487244&rankingType=RANKING",
+				"weights": 0.12458202695635574
+			}
+		]
+	},
+	"196709": {
+		"rank": 24,
+		"name": "변호사",
+		"weights": 2.351428864113518,
+		"n_key": [
+			{
+				"id": 199627,
+				"name": "법원",
+				"weights": 0.09321507504462236
+			},
+			{
+				"id": 198794,
+				"name": "검사",
+				"weights": 0.3099545472999086
+			},
+			{
+				"id": 199364,
+				"name": "김종민",
+				"weights": 0.2894692838709976
+			},
+			{
+				"id": 199363,
+				"name": "이성윤",
+				"weights": 0.4019265557883516
+			},
+			{
+				"id": 199318,
+				"name": "재물손괴죄",
+				"weights": 0.1427625501383488
+			},
+			{
+				"id": 198223,
+				"name": "공수처",
+				"weights": 0.40589629294114515
+			},
+			{
+				"id": 198248,
+				"name": "승무원",
+				"weights": 0.24690935186304191
+			},
+			{
+				"id": 196766,
+				"name": "부인",
+				"weights": 0.5631879667214998
+			},
+			{
+				"id": 198272,
+				"name": "재물손괴",
+				"weights": 0.38408470378018844
+			},
+			{
+				"id": 197569,
+				"name": "의사",
+				"weights": 0.2487163321270273
+			},
+			{
+				"id": 197900,
+				"name": "음주운전",
+				"weights": 0.5055871468960623
+			},
+			{
+				"id": 196707,
+				"name": "벌금형",
+				"weights": 1.078972167262828
+			}
+		],
+		"n_content": [
+			{
+				"id": 199362,
+				"title": "김종민 변호사 “양아치 文정권, 사표 낼 검사는 이성윤”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616819&rankingType=RANKING",
+				"weights": 0.2894692838709976
+			},
+			{
+				"id": 199314,
+				"title": "미대→승무원→변호사…공수처 넘버3는 '유퀴즈' 그 스펙왕",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105148&rankingType=RANKING",
+				"weights": 0.22727978413086794
+			},
+			{
+				"id": 198974,
+				"title": "\"밥먹으며 전화하냐\" 아내 반찬에 침뱉은 변호사 벌금형",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=079&aid=0003509329&rankingType=RANKING",
+				"weights": 0.16238877102631644
+			},
+			{
+				"id": 197707,
+				"title": "밥 먹으며 전화통화 한다고..아내 반찬에 침 뱉은 변호사 벌금형",
+				"url": "https://news.v.daum.net/v/20210528124631132",
+				"weights": 0.1516679552489602
+			},
+			{
+				"id": 196706,
+				"title": "밥 먹으며 전화통화 한다고..아내 반찬에 침 뱉은 변호사 벌금형",
+				"url": "https://v.daum.net/v/20210528124631132",
+				"weights": 0.14426928381164927
+			},
+			{
+				"id": 199317,
+				"title": "\"왜 먹으며 통화해\" 아내 음식에 침뱉은 변호사 재물손괴죄",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105216&rankingType=RANKING",
+				"weights": 0.1427625501383488
+			},
+			{
+				"id": 198524,
+				"title": "\"식사중에 통화하냐\"…부인 먹던 밥에 침뱉은 변호사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=003&aid=0010520908&rankingType=RANKING",
+				"weights": 0.1223316322238361
+			}
+		]
+	},
+	"197432": {
+		"rank": 25,
+		"name": "남양유업",
+		"weights": 2.1779213292689596,
+		"n_key": [
+			{
+				"id": 198996,
+				"name": "불가리스",
+				"weights": 0.09437744189821876
+			},
+			{
+				"id": 198995,
+				"name": "사모펀드",
+				"weights": 0.09437744189821876
+			},
+			{
+				"id": 198105,
+				"name": "웅진식품",
+				"weights": 0.09412593097473611
+			},
+			{
+				"id": 198104,
+				"name": "한앤코",
+				"weights": 0.32951314948473476
+			},
+			{
+				"id": 197752,
+				"name": "한앤컴퍼니",
+				"weights": 0.4723918537032765
+			},
+			{
+				"id": 197751,
+				"name": "주인",
+				"weights": 0.5431853309753969
+			},
+			{
+				"id": 197488,
+				"name": "홍원식",
+				"weights": 0.30549055152613785
+			},
+			{
+				"id": 197433,
+				"name": "오너",
+				"weights": 0.5221819660003133
+			}
+		],
+		"n_content": [
+			{
+				"id": 198485,
+				"title": "[단독] 불가리스 논란 남양유업 결국 팔린다…한앤코 3107억원 인수",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800363&rankingType=RANKING",
+				"weights": 0.23538721850999866
+			},
+			{
+				"id": 199281,
+				"title": "주인 바뀌자 '날개 단' 남양유업…매각 다음날 상한가 직행",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267481&rankingType=RANKING",
+				"weights": 0.17276773341950236
+			},
+			{
+				"id": 199589,
+				"title": "'밀어내기'도 버틴 남양유업, '불가리스 논란'으로 결국 매각",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121608&rankingType=RANKING",
+				"weights": 0.1403915606591195
+			},
+			{
+				"id": 199533,
+				"title": "[앵커리포트] '눈물의 기자회견' 3주 만에 통매각...남양유업 미래는?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593857&rankingType=RANKING",
+				"weights": 0.13019895213191388
+			},
+			{
+				"id": 197431,
+				"title": "남양유업, 57년 오너경영 마침표..\"어쩌다\"",
+				"url": "https://v.daum.net/v/20210528073828968",
+				"weights": 0.12490369870672978
+			},
+			{
+				"id": 199442,
+				"title": "'불가리스 후폭풍'에 결국…남양유업, 3100억에 팔렸다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553105&rankingType=RANKING",
+				"weights": 0.11385448122501958
+			},
+			{
+				"id": 197487,
+				"title": "남양유업, 57년만에 막 내린 오너경영..홍원식 회장 왜 그리 급했나",
+				"url": "https://v.daum.net/v/20210528112101714",
+				"weights": 0.10988522721631538
+			}
+		]
+	},
+	"197472": {
+		"rank": 26,
+		"name": "당대표",
+		"weights": 2.1751093975032525,
+		"n_key": [
+			{
+				"id": 198988,
+				"name": "경선",
+				"weights": 0.093133777570454
+			},
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 198914,
+				"name": "김은혜",
+				"weights": 0.48209874116878415
+			},
+			{
+				"id": 196848,
+				"name": "국힘",
+				"weights": 0.5813695315628277
+			},
+			{
+				"id": 198744,
+				"name": "예선",
+				"weights": 0.27505396185881026
+			},
+			{
+				"id": 198444,
+				"name": "본경선",
+				"weights": 0.7726347511993296
+			},
+			{
+				"id": 197442,
+				"name": "국민의힘",
+				"weights": 2.5626559038460837
+			},
+			{
+				"id": 197766,
+				"name": "예비경선",
+				"weights": 0.6065221981571836
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 196781,
+				"name": "나경원",
+				"weights": 4.759159793337132
+			},
+			{
+				"id": 197462,
+				"name": "본선",
+				"weights": 4.381200586726794
+			},
+			{
+				"id": 196780,
+				"name": "홍문표",
+				"weights": 3.6223505994292124
+			},
+			{
+				"id": 196778,
+				"name": "주호영",
+				"weights": 4.003356579647111
+			},
+			{
+				"id": 197457,
+				"name": "조경태",
+				"weights": 3.2483439916025576
+			}
+		],
+		"n_content": [
+			{
+				"id": 199391,
+				"title": "이준석, 1위로 국민의힘 당대표 본경선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616779&rankingType=RANKING",
+				"weights": 0.24706677657778342
+			},
+			{
+				"id": 197469,
+				"title": "나경원·이준석·조경태·주호영·홍문표..野 당대표 본선 진출",
+				"url": "https://v.daum.net/v/20210528091300422",
+				"weights": 0.18181120136986595
+			},
+			{
+				"id": 198700,
+				"title": "野 당대표 본선행 5인 확정…이준석 예비경선 1위 `돌풍`(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=018&aid=0004941077&rankingType=RANKING",
+				"weights": 0.15293626807222094
+			},
+			{
+				"id": 199785,
+				"title": "이준석, 1위로 본선 안착…'30대 당대표' 현실화될까",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=008&aid=0004593805&rankingType=RANKING",
+				"weights": 0.1519213078471768
+			},
+			{
+				"id": 198757,
+				"title": "[속보] 이준석 나경원 주호영 등 5명...국힘 당대표 본선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580033&rankingType=RANKING",
+				"weights": 0.14385618694914643
+			},
+			{
+				"id": 197765,
+				"title": "이준석 예비경선 1위 돌풍…野 당대표 본선행 5인 확정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209413&rankingType=RANKING",
+				"weights": 0.14348950996351503
+			},
+			{
+				"id": 198011,
+				"title": "[속보] 이준석·나경원·주호영·조경태·홍문표, 국민의힘 당대표 본선 진출",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085735&rankingType=RANKING",
+				"weights": 0.14223088385890875
+			}
+		]
+	},
+	"197838": {
+		"rank": 27,
+		"name": "소통수석",
+		"weights": 2.1280994741411,
+		"n_key": [
+			{
+				"id": 197954,
+				"name": "수석",
+				"weights": 0.16748115521197546
+			},
+			{
+				"id": 196750,
+				"name": "국민",
+				"weights": 1.2498070202521396
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			},
+			{
+				"id": 198234,
+				"name": "참모진",
+				"weights": 0.10783714511668586
+			},
+			{
+				"id": 198209,
+				"name": "비서관",
+				"weights": 0.4656524434355203
+			},
+			{
+				"id": 198133,
+				"name": "남영숙",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 198132,
+				"name": "경제보좌관",
+				"weights": 0.39160616101195234
+			},
+			{
+				"id": 198131,
+				"name": "방정균",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 198130,
+				"name": "시민사회수석",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			},
+			{
+				"id": 197839,
+				"name": "참모",
+				"weights": 0.4691331991313282
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			},
+			{
+				"id": 197837,
+				"name": "청와대",
+				"weights": 1.3346818177568671
+			}
+		],
+		"n_content": [
+			{
+				"id": 198208,
+				"title": "문 대통령, 청와대 소통수석에 박수현 전 의원 내정…비서관 인사 단행",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442968&rankingType=RANKING",
+				"weights": 0.15210474484063985
+			},
+			{
+				"id": 199551,
+				"title": "문 대통령, 靑 수석·비서관 인사...소통수석에 박수현",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593848&rankingType=RANKING",
+				"weights": 0.14907721947272407
+			},
+			{
+				"id": 198230,
+				"title": "[속보]文대통령, 靑 참모진 교체...소통수석에 박수현 전 대변인",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003916026&rankingType=RANKING",
+				"weights": 0.13983056584766348
+			},
+			{
+				"id": 199010,
+				"title": "文정부 첫 대변인 박수현 소통수석으로 컴백…'안정성 추구'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=079&aid=0003509345&rankingType=RANKING",
+				"weights": 0.1368223973258532
+			},
+			{
+				"id": 199437,
+				"title": "문대통령, 청와대 개편 단행…'초대 대변인' 박수현 소통수석으로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496939&rankingType=RANKING",
+				"weights": 0.1287173868499875
+			},
+			{
+				"id": 199691,
+				"title": "[현장연결] 문대통령, 靑 비서진 인사…소통수석에 박수현",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487226&rankingType=RANKING",
+				"weights": 0.12716040693307207
+			},
+			{
+				"id": 199740,
+				"title": "문대통령, 靑 수석급 3명 교체…소통수석에 박수현",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487238&rankingType=RANKING",
+				"weights": 0.12111760605337935
+			}
+		]
+	},
+	"198148": {
+		"rank": 28,
+		"name": "바이든",
+		"weights": 2.124312576179945,
+		"n_key": [
+			{
+				"id": 199560,
+				"name": "공화당",
+				"weights": 0.0847804918825062
+			},
+			{
+				"id": 196754,
+				"name": "코로나",
+				"weights": 0.8953287469142476
+			},
+			{
+				"id": 198476,
+				"name": "옐런",
+				"weights": 0.13784942358003588
+			},
+			{
+				"id": 198095,
+				"name": "이철희",
+				"weights": 0.43514592554500997
+			},
+			{
+				"id": 199068,
+				"name": "초콜릿",
+				"weights": 0.11056052633344254
+			},
+			{
+				"id": 196903,
+				"name": "할아버지",
+				"weights": 0.34799699556839186
+			},
+			{
+				"id": 199023,
+				"name": "정무수석",
+				"weights": 0.2529283379574181
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			},
+			{
+				"id": 198008,
+				"name": "김기현",
+				"weights": 0.8637716382316327
+			},
+			{
+				"id": 198783,
+				"name": "아이스크림",
+				"weights": 0.5802050914799741
+			},
+			{
+				"id": 197936,
+				"name": "이더리움",
+				"weights": 0.19619179110547955
+			},
+			{
+				"id": 196775,
+				"name": "비트코인",
+				"weights": 1.653221804781864
+			},
+			{
+				"id": 198557,
+				"name": "행정부",
+				"weights": 0.21768238243667942
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			}
+		],
+		"n_content": [
+			{
+				"id": 199030,
+				"title": "아이스크림 사먹으러 온 백발 할아버지…알고보니 바이든",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012421735&rankingType=RANKING",
+				"weights": 0.2905867670813173
+			},
+			{
+				"id": 199123,
+				"title": "文 대통령이 김기현 ‘툭툭’?…이철희 “바이든 비판에 상당히 난처해서”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=022&aid=0003585244&rankingType=RANKING",
+				"weights": 0.13153465906472836
+			},
+			{
+				"id": 199120,
+				"title": "김기현 “文대통령, ‘바이든 비난’ 제지하려 팔 툭툭? 靑정무수석 말귀 못 알아들어”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=022&aid=0003585305&rankingType=RANKING",
+				"weights": 0.12808042435692532
+			},
+			{
+				"id": 198147,
+				"title": "6700조원…윤곽 드러낸 美 바이든표 ‘큰 정부’ 예산안",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607240&rankingType=RANKING",
+				"weights": 0.12666666043292066
+			},
+			{
+				"id": 199022,
+				"title": "문 대통령에 제지 당했던 김기현 \"내가 바이든 깠다고? 靑 정무수석 말귀 못 알아들어\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=586&aid=0000024853&rankingType=RANKING",
+				"weights": 0.12484791360049274
+			},
+			{
+				"id": 199483,
+				"title": "옐런 “인플레는 일시적”…바이든 대통령, 초대형 예산안 임박",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=374&aid=0000245798&rankingType=RANKING",
+				"weights": 0.12138733648938371
+			},
+			{
+				"id": 199534,
+				"title": "바이든도 '코로나 기원설'로 중국 압박...\"美 보고서 발표 예정\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=002&aid=0002191317&rankingType=RANKING",
+				"weights": 0.11979663515826738
+			}
+		]
+	},
+	"197774": {
+		"rank": 29,
+		"name": "택시기사",
+		"weights": 2.0272814816063387,
+		"n_key": [
+			{
+				"id": 197983,
+				"name": "법무차관",
+				"weights": 0.43449302240124243
+			},
+			{
+				"id": 198255,
+				"name": "경찰서",
+				"weights": 0.10290821257769968
+			},
+			{
+				"id": 197775,
+				"name": "일꾼",
+				"weights": 0.5622354578985723
+			},
+			{
+				"id": 197435,
+				"name": "법무부",
+				"weights": 1.323352137799141
+			},
+			{
+				"id": 197773,
+				"name": "차관",
+				"weights": 1.3990946486696383
+			},
+			{
+				"id": 197772,
+				"name": "이용구",
+				"weights": 2.690163380511001
+			}
+		],
+		"n_content": [
+			{
+				"id": 199539,
+				"title": "'택시기사 폭행 논란' 이용구 사의 표명...6개월만 불명예 퇴진",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593840&rankingType=RANKING",
+				"weights": 0.13373049213583574
+			},
+			{
+				"id": 198671,
+				"title": "‘택시기사 폭행 혐의’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076793&rankingType=RANKING",
+				"weights": 0.13279629445388347
+			},
+			{
+				"id": 199091,
+				"title": "檢인사 앞두고…'택시기사 폭행' 이용구 사의 표명(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422115&rankingType=RANKING",
+				"weights": 0.13085137285189072
+			},
+			{
+				"id": 197771,
+				"title": "‘택시기사 폭행’ 이용구 법무부 차관 사의…“새 일꾼 필요”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209407&rankingType=RANKING",
+				"weights": 0.1292821593498362
+			},
+			{
+				"id": 199725,
+				"title": "'택시기사 폭행 의혹' 이용구 법무차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329404&rankingType=RANKING",
+				"weights": 0.12133376833660746
+			},
+			{
+				"id": 199072,
+				"title": "‘사의 표명’ 이용구 법무차관, 택시기사 폭행 다음날 서초서 찾았다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=022&aid=0003585282&rankingType=RANKING",
+				"weights": 0.11729919407787871
+			},
+			{
+				"id": 199708,
+				"title": "'택시기사 폭행' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487223&rankingType=RANKING",
+				"weights": 0.1131152107428273
+			}
+		]
+	},
+	"196647": {
+		"rank": 30,
+		"name": "올림픽",
+		"weights": 1.9455031001029979,
+		"n_key": [
+			{
+				"id": 199002,
+				"name": "스가",
+				"weights": 0.09771867515278654
+			},
+			{
+				"id": 198489,
+				"name": "간큰",
+				"weights": 0.18385213586994253
+			},
+			{
+				"id": 196741,
+				"name": "확진자",
+				"weights": 1.7182888453611587
+			},
+			{
+				"id": 198268,
+				"name": "조직위",
+				"weights": 0.08979344591516783
+			},
+			{
+				"id": 197151,
+				"name": "서경덕",
+				"weights": 0.49977428604938495
+			},
+			{
+				"id": 197749,
+				"name": "이낙연",
+				"weights": 0.9912049686658195
+			},
+			{
+				"id": 196667,
+				"name": "도쿄올림픽",
+				"weights": 2.700203526647986
+			},
+			{
+				"id": 197748,
+				"name": "정세균",
+				"weights": 0.6478715202723611
+			},
+			{
+				"id": 197712,
+				"name": "정의용",
+				"weights": 0.6431515916546015
+			},
+			{
+				"id": 196646,
+				"name": "IOC",
+				"weights": 0.4528627882402695
+			}
+		],
+		"n_content": [
+			{
+				"id": 197926,
+				"title": "日 올림픽 지도 '독도 표기' 강행...정세균 \"불참 고려해야\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646478&rankingType=RANKING",
+				"weights": 0.20484440934276463
+			},
+			{
+				"id": 197698,
+				"title": "올림픽 취소로 日 배상금 떠안나..日언론 \"IOC와 불평등 계약\"",
+				"url": "https://news.v.daum.net/v/20210528134233295",
+				"weights": 0.18627689255035434
+			},
+			{
+				"id": 198488,
+				"title": "확진자 5천명 쏟아지는데…600만원짜리 올림픽 패키지 만든 '간큰' 여행사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800746&rankingType=RANKING",
+				"weights": 0.18385213586994253
+			},
+			{
+				"id": 196644,
+				"title": "올림픽 취소로 日 배상금 떠안나..日언론 \"IOC와 불평등 계약\"",
+				"url": "https://v.daum.net/v/20210528134233295",
+				"weights": 0.1664793221349168
+			},
+			{
+				"id": 197711,
+				"title": "정의용 \"日올림픽 지도 '독도 표기' 결코 용납 않겠다\"",
+				"url": "https://news.v.daum.net/v/20210528105449588",
+				"weights": 0.15407321556629547
+			},
+			{
+				"id": 197747,
+				"title": "이낙연·정세균 “도쿄올림픽 지도에 독도 삭제 안하면 올림픽 보이콧”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209405&rankingType=RANKING",
+				"weights": 0.1421998938371814
+			},
+			{
+				"id": 199596,
+				"title": "\"日 올림픽 지도 독도 표기 최대한 강력 대응\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121621&rankingType=RANKING",
+				"weights": 0.11509899327938632
+			}
+		]
+	},
+	"196684": {
+		"rank": 31,
+		"name": "간부",
+		"weights": 1.8057400683897025,
+		"n_key": [
+			{
+				"id": 198503,
+				"name": "절도범",
+				"weights": 0.17162884520244198
+			},
+			{
+				"id": 197900,
+				"name": "음주운전",
+				"weights": 0.5055871468960623
+			},
+			{
+				"id": 196687,
+				"name": "동료",
+				"weights": 1.7434950582346378
+			},
+			{
+				"id": 196685,
+				"name": "경찰",
+				"weights": 7.220339004606356
+			}
+		],
+		"n_content": [
+			{
+				"id": 197706,
+				"title": "동료 축의금 지구대서 '슬쩍'..50대 경찰 간부 직위해제(종합)",
+				"url": "https://news.v.daum.net/v/20210528140657056",
+				"weights": 0.17686651952296467
+			},
+			{
+				"id": 198502,
+				"title": "결혼식 축의금 절도범 잡고 보니…동료 경찰 간부였다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800740&rankingType=RANKING",
+				"weights": 0.17162884520244198
+			},
+			{
+				"id": 196683,
+				"title": "동료 축의금 지구대서 '슬쩍'..50대 경찰 간부 직위해제(종합)",
+				"url": "https://v.daum.net/v/20210528140657056",
+				"weights": 0.16937856770923465
+			},
+			{
+				"id": 199071,
+				"title": "'어긋난 부정'…아들 음주운전 사건 눈 감은 경찰 간부 해임",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422842&rankingType=RANKING",
+				"weights": 0.1360600653289833
+			},
+			{
+				"id": 199382,
+				"title": "동료 경찰 결혼 축의금 봉투 3개 슬쩍… 지구대 50대 간부 직위해제",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616823&rankingType=RANKING",
+				"weights": 0.13359713544206195
+			},
+			{
+				"id": 198846,
+				"title": "경찰 간부, 동료 경찰관 결혼 축의금 봉투 '슬쩍'…'직위해제' 조치",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=082&aid=0001094336&rankingType=RANKING",
+				"weights": 0.13153696253935734
+			},
+			{
+				"id": 198667,
+				"title": "동료 경찰 결혼 축의금 훔친 간부 경찰관 직위해제",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076809&rankingType=RANKING",
+				"weights": 0.11691861868567975
+			}
+		]
+	},
+	"197794": {
+		"rank": 32,
+		"name": "코로나19",
+		"weights": 1.7931718885830237,
+		"n_key": [
+			{
+				"id": 199752,
+				"name": "백신특허권",
+				"weights": 0.08530349878662095
+			},
+			{
+				"id": 198860,
+				"name": "부산시",
+				"weights": 0.34199321657998344
+			},
+			{
+				"id": 196741,
+				"name": "확진자",
+				"weights": 1.7182888453611587
+			},
+			{
+				"id": 197795,
+				"name": "신규",
+				"weights": 0.0974774494082702
+			}
+		],
+		"n_content": [
+			{
+				"id": 197968,
+				"title": "코로나19 확산 제주, 다음 주부터 ‘거리두기 2단계 격상’",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052836&rankingType=RANKING",
+				"weights": 0.1294850287889354
+			},
+			{
+				"id": 199554,
+				"title": "\"코로나19 백신 접종 감사\" 시청에 100만 원 두고 간 남성",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=052&aid=0001593833&rankingType=RANKING",
+				"weights": 0.1158385940042671
+			},
+			{
+				"id": 199795,
+				"title": "[지자체NOW]제주, 코로나19 누적 확진자 1000명 넘어…거리두기 2단계 격상",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=008&aid=0004593855&rankingType=RANKING",
+				"weights": 0.09917543887354462
+			},
+			{
+				"id": 198696,
+				"title": "[속보]코로나19 확진자 사흘 만에 500명대··· 확산 위험 여전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076794&rankingType=RANKING",
+				"weights": 0.0981896611140581
+			},
+			{
+				"id": 197793,
+				"title": "코로나19 어제 신규확진자 587명…백신 하루 최다 71만1194명 접종",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209408&rankingType=RANKING",
+				"weights": 0.0974774494082702
+			},
+			{
+				"id": 198022,
+				"title": "[글로벌 돋보기] 반려동물도 코로나19 백신접종?…러시아는 접종 시작",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052540&rankingType=RANKING",
+				"weights": 0.09611122654694701
+			},
+			{
+				"id": 199677,
+				"title": "[속보] 코로나19 신규 확진자 587명…사흘 만에 500명대",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=028&aid=0002546293&rankingType=RANKING",
+				"weights": 0.09428719873289719
+			}
+		]
+	},
+	"196670": {
+		"rank": 33,
+		"name": "운전자",
+		"weights": 1.7664087339765475,
+		"n_key": [
+			{
+				"id": 199458,
+				"name": "소방당국",
+				"weights": 0.09050674408256663
+			},
+			{
+				"id": 197777,
+				"name": "테슬라",
+				"weights": 0.422425870906874
+			},
+			{
+				"id": 199231,
+				"name": "오토파일럿",
+				"weights": 0.08936458866946406
+			},
+			{
+				"id": 198015,
+				"name": "징역형",
+				"weights": 0.08430920333144215
+			},
+			{
+				"id": 198014,
+				"name": "트럭",
+				"weights": 0.08430920333144215
+			},
+			{
+				"id": 198013,
+				"name": "집행유예",
+				"weights": 0.1238424405654129
+			},
+			{
+				"id": 197961,
+				"name": "인천대교",
+				"weights": 0.7589368062544694
+			},
+			{
+				"id": 197960,
+				"name": "해경",
+				"weights": 0.48223165613559393
+			},
+			{
+				"id": 197399,
+				"name": "리어카",
+				"weights": 0.0892234394155672
+			},
+			{
+				"id": 196897,
+				"name": "이용규",
+				"weights": 0.1179732819141994
+			},
+			{
+				"id": 196896,
+				"name": "유하나",
+				"weights": 0.1179732819141994
+			}
+		],
+		"n_content": [
+			{
+				"id": 199297,
+				"title": "[단독]대기업 부회장의 보복운전…車 내린 운전자도 박았다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105236&rankingType=RANKING",
+				"weights": 0.25422856738372523
+			},
+			{
+				"id": 197693,
+				"title": "[단독]대기업 부회장의 보복운전..車 내린 운전자도 박았다",
+				"url": "https://news.v.daum.net/v/20210528131513634",
+				"weights": 0.20045831491470176
+			},
+			{
+				"id": 198555,
+				"title": "\"갓길에 차만 서 있다\"…인천대교 위 사라진 운전자",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897101&rankingType=RANKING",
+				"weights": 0.1893274165194238
+			},
+			{
+				"id": 196669,
+				"title": "[단독]대기업 부회장의 보복운전..車 내린 운전자도 박았다",
+				"url": "https://v.daum.net/v/20210528131513634",
+				"weights": 0.18500764865834557
+			},
+			{
+				"id": 199587,
+				"title": "인천대교에 차 세운 30대 운전자 실종…해경 수색중",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121603&rankingType=RANKING",
+				"weights": 0.15159823968270777
+			},
+			{
+				"id": 197959,
+				"title": "인천대교 세워진 차량서 30대 운전자 사라져…해경 수색",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052724&rankingType=RANKING",
+				"weights": 0.14455557843777556
+			},
+			{
+				"id": 196895,
+				"title": "'이용규♥︎' 유하나, 과속 운전자에 분노 \"아들 등교 중 차에 치일 뻔한 순간 몇 번씩 경험\"[전문]",
+				"url": "https://v.daum.net/v/20210528111715561",
+				"weights": 0.10488016534883243
+			}
+		]
+	},
+	"196687": {
+		"rank": 34,
+		"name": "동료",
+		"weights": 1.7434950582346378,
+		"n_key": [
+			{
+				"id": 197018,
+				"name": "성추행",
+				"weights": 0.3759768120390268
+			},
+			{
+				"id": 196707,
+				"name": "벌금형",
+				"weights": 1.078972167262828
+			},
+			{
+				"id": 197160,
+				"name": "출연자",
+				"weights": 0.10724944493189299
+			},
+			{
+				"id": 197808,
+				"name": "네이버",
+				"weights": 5.880424357241987
+			},
+			{
+				"id": 198654,
+				"name": "철도기지",
+				"weights": 0.07440088979737594
+			},
+			{
+				"id": 198653,
+				"name": "월드피플",
+				"weights": 0.07440088979737594
+			},
+			{
+				"id": 198574,
+				"name": "절도",
+				"weights": 0.1644234837164021
+			},
+			{
+				"id": 198503,
+				"name": "절도범",
+				"weights": 0.17162884520244198
+			},
+			{
+				"id": 196685,
+				"name": "경찰",
+				"weights": 7.220339004606356
+			},
+			{
+				"id": 196684,
+				"name": "간부",
+				"weights": 1.8057400683897025
+			}
+		],
+		"n_content": [
+			{
+				"id": 197706,
+				"title": "동료 축의금 지구대서 '슬쩍'..50대 경찰 간부 직위해제(종합)",
+				"url": "https://news.v.daum.net/v/20210528140657056",
+				"weights": 0.17686651952296467
+			},
+			{
+				"id": 198502,
+				"title": "결혼식 축의금 절도범 잡고 보니…동료 경찰 간부였다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800740&rankingType=RANKING",
+				"weights": 0.17162884520244198
+			},
+			{
+				"id": 196683,
+				"title": "동료 축의금 지구대서 '슬쩍'..50대 경찰 간부 직위해제(종합)",
+				"url": "https://v.daum.net/v/20210528140657056",
+				"weights": 0.16937856770923465
+			},
+			{
+				"id": 199382,
+				"title": "동료 경찰 결혼 축의금 봉투 3개 슬쩍… 지구대 50대 간부 직위해제",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616823&rankingType=RANKING",
+				"weights": 0.13359713544206195
+			},
+			{
+				"id": 198846,
+				"title": "경찰 간부, 동료 경찰관 결혼 축의금 봉투 '슬쩍'…'직위해제' 조치",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=082&aid=0001094336&rankingType=RANKING",
+				"weights": 0.13153696253935734
+			},
+			{
+				"id": 198695,
+				"title": "‘극단적 선택’ 네이버 직원 동료 “빈소서 들은 말, 예상 뛰어 넘어”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=018&aid=0004941198&rankingType=RANKING",
+				"weights": 0.12833721357000594
+			},
+			{
+				"id": 198667,
+				"title": "동료 경찰 결혼 축의금 훔친 간부 경찰관 직위해제",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076809&rankingType=RANKING",
+				"weights": 0.11691861868567975
+			}
+		]
+	},
+	"196741": {
+		"rank": 35,
+		"name": "확진자",
+		"weights": 1.7182888453611587,
+		"n_key": [
+			{
+				"id": 198901,
+				"name": "종업원",
+				"weights": 0.08591608672594982
+			},
+			{
+				"id": 198900,
+				"name": "N차",
+				"weights": 0.08591608672594982
+			},
+			{
+				"id": 198712,
+				"name": "이용자",
+				"weights": 0.107599956836652
+			},
+			{
+				"id": 196647,
+				"name": "올림픽",
+				"weights": 1.9455031001029979
+			},
+			{
+				"id": 198489,
+				"name": "간큰",
+				"weights": 0.18385213586994253
+			},
+			{
+				"id": 197795,
+				"name": "신규",
+				"weights": 0.0974774494082702
+			},
+			{
+				"id": 197794,
+				"name": "코로나19",
+				"weights": 1.7931718885830237
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			}
+		],
+		"n_content": [
+			{
+				"id": 197689,
+				"title": "일본 정부, '확진자 폭증' 대만에 AZ백신 공여 검토",
+				"url": "https://news.v.daum.net/v/20210528110112903",
+				"weights": 0.22278717847767066
+			},
+			{
+				"id": 196740,
+				"title": "일본 정부, '확진자 폭증' 대만에 AZ백신 공여 검토",
+				"url": "https://v.daum.net/v/20210528110112903",
+				"weights": 0.22135665547566308
+			},
+			{
+				"id": 198488,
+				"title": "확진자 5천명 쏟아지는데…600만원짜리 올림픽 패키지 만든 '간큰' 여행사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800746&rankingType=RANKING",
+				"weights": 0.18385213586994253
+			},
+			{
+				"id": 199795,
+				"title": "[지자체NOW]제주, 코로나19 누적 확진자 1000명 넘어…거리두기 2단계 격상",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=008&aid=0004593855&rankingType=RANKING",
+				"weights": 0.09917543887354462
+			},
+			{
+				"id": 198696,
+				"title": "[속보]코로나19 확진자 사흘 만에 500명대··· 확산 위험 여전",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076794&rankingType=RANKING",
+				"weights": 0.0981896611140581
+			},
+			{
+				"id": 197793,
+				"title": "코로나19 어제 신규확진자 587명…백신 하루 최다 71만1194명 접종",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209408&rankingType=RANKING",
+				"weights": 0.0974774494082702
+			},
+			{
+				"id": 199677,
+				"title": "[속보] 코로나19 신규 확진자 587명…사흘 만에 500명대",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=028&aid=0002546293&rankingType=RANKING",
+				"weights": 0.09428719873289719
+			}
+		]
+	},
+	"196724": {
+		"rank": 36,
+		"name": "윤석열",
+		"weights": 1.6823215970139873,
+		"n_key": [
+			{
+				"id": 199747,
+				"name": "창업자",
+				"weights": 0.08377400931564531
+			},
+			{
+				"id": 199746,
+				"name": "블록체인",
+				"weights": 0.08377400931564531
+			},
+			{
+				"id": 197919,
+				"name": "송영길",
+				"weights": 0.38654284855078347
+			},
+			{
+				"id": 199575,
+				"name": "황출새",
+				"weights": 0.0835764900050089
+			},
+			{
+				"id": 199574,
+				"name": "조해진",
+				"weights": 0.0835764900050089
+			},
+			{
+				"id": 199573,
+				"name": "전재수",
+				"weights": 0.0835764900050089
+			},
+			{
+				"id": 197308,
+				"name": "후보",
+				"weights": 0.8095688626691603
+			},
+			{
+				"id": 197996,
+				"name": "이재명",
+				"weights": 0.6526567899726609
+			},
+			{
+				"id": 197436,
+				"name": "고검장",
+				"weights": 0.4330617193518187
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197446,
+				"name": "최재형",
+				"weights": 0.6445338320926673
+			},
+			{
+				"id": 196750,
+				"name": "국민",
+				"weights": 1.2498070202521396
+			},
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			},
+			{
+				"id": 198000,
+				"name": "김동연",
+				"weights": 0.27671488356831064
+			}
+		],
+		"n_content": [
+			{
+				"id": 199306,
+				"title": "코딩 회사 찾아간 윤석열, 2030 보자마자 \"들으러 왔습니다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105221&rankingType=RANKING",
+				"weights": 0.23140732878355036
+			},
+			{
+				"id": 199720,
+				"title": "[단독] 윤석열, 송영길 '尹파일'에 \"약점 있으면 시작도 안했을 것\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329371&rankingType=RANKING",
+				"weights": 0.2093696984521555
+			},
+			{
+				"id": 198048,
+				"title": "이준석 “윤석열·김동연·최재형 합류 대선 승리 토대 만들 것”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=021&aid=0002472620&rankingType=RANKING",
+				"weights": 0.1902443145603636
+			},
+			{
+				"id": 199445,
+				"title": "외풍 막은 ‘리틀 윤석열’ 檢고검장 대거 밀려나나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=020&aid=0003360452&rankingType=RANKING",
+				"weights": 0.15366499271127604
+			},
+			{
+				"id": 197695,
+				"title": "코딩 회사 찾아간 윤석열, 2030 보자마자 \"들으러 왔습니다\"",
+				"url": "https://news.v.daum.net/v/20210528115048967",
+				"weights": 0.14460006943304282
+			},
+			{
+				"id": 196723,
+				"title": "코딩 회사 찾아간 윤석열, 2030 보자마자 \"들으러 왔습니다\"",
+				"url": "https://v.daum.net/v/20210528115048967",
+				"weights": 0.13969061347333583
+			},
+			{
+				"id": 199566,
+				"title": "차기 대선후보 적합도…1위 이재명 26%, 2위 윤석열 22%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=002&aid=0002191195&rankingType=RANKING",
+				"weights": 0.10687968962942786
+			}
+		]
+	},
+	"196775": {
+		"rank": 37,
+		"name": "비트코인",
+		"weights": 1.653221804781864,
+		"n_key": [
+			{
+				"id": 199334,
+				"name": "JP모건자산운용",
+				"weights": 0.13672625375670938
+			},
+			{
+				"id": 199333,
+				"name": "투자자",
+				"weights": 0.15113076149882082
+			},
+			{
+				"id": 196676,
+				"name": "애플",
+				"weights": 3.033037657398644
+			},
+			{
+				"id": 198148,
+				"name": "바이든",
+				"weights": 2.124312576179945
+			},
+			{
+				"id": 198557,
+				"name": "행정부",
+				"weights": 0.21768238243667942
+			},
+			{
+				"id": 198365,
+				"name": "코인투자자",
+				"weights": 0.08458538736095123
+			},
+			{
+				"id": 198364,
+				"name": "페북",
+				"weights": 0.08458538736095123
+			},
+			{
+				"id": 197936,
+				"name": "이더리움",
+				"weights": 0.19619179110547955
+			},
+			{
+				"id": 197931,
+				"name": "글로벌포스트",
+				"weights": 0.08947462386253617
+			},
+			{
+				"id": 196832,
+				"name": "JP모간",
+				"weights": 0.1569879282539828
+			}
+		],
+		"n_content": [
+			{
+				"id": 197739,
+				"title": "\"호재도 악재도 없어\"… 비트코인, 박스권에 갇혔나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698358&rankingType=RANKING",
+				"weights": 0.14037673796059083
+			},
+			{
+				"id": 199332,
+				"title": "“비트코인 등 가상자산 투자자, 가치 제로 대비해야” JP모건자산운용 [인더머니]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=016&aid=0001840939&rankingType=RANKING",
+				"weights": 0.13672625375670938
+			},
+			{
+				"id": 198474,
+				"title": "비트코인이 실패할 수밖에 없는 이유 5가지",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378809&rankingType=RANKING",
+				"weights": 0.13513902800996108
+			},
+			{
+				"id": 197720,
+				"title": "비트코인이 실패할 수밖에 없는 이유 5가지",
+				"url": "https://news.v.daum.net/v/20210528130038299",
+				"weights": 0.13358151249060696
+			},
+			{
+				"id": 196774,
+				"title": "비트코인이 실패할 수밖에 없는 이유 5가지",
+				"url": "https://v.daum.net/v/20210528130038299",
+				"weights": 0.12861460268824343
+			},
+			{
+				"id": 198825,
+				"title": "[비트코인 지금] 계속되는 박스권…애플 가상화폐 시장 진출 준비?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=277&aid=0004910275&rankingType=RANKING",
+				"weights": 0.11816383020945366
+			},
+			{
+				"id": 199387,
+				"title": "‘비트코인 1개=1억원’ 정녕 꿈이었나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616595&rankingType=RANKING",
+				"weights": 0.11313865445443372
+			}
+		]
+	},
+	"196826": {
+		"rank": 38,
+		"name": "집단성폭행",
+		"weights": 1.6299325890614302,
+		"n_key": [],
+		"n_content": [
+			{
+				"id": 199291,
+				"title": "공중화장실서 집단성폭행 당한 女, 나체 상태로 묶여있던 곳",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=025&aid=0003105145&rankingType=RANKING",
+				"weights": 0.459318202845877
+			},
+			{
+				"id": 196825,
+				"title": "공중화장실서 집단성폭행 당한 女, 나체 상태로 묶여있던 곳",
+				"url": "https://v.daum.net/v/20210528010716530",
+				"weights": 0.41776906830150723
+			},
+			{
+				"id": 197861,
+				"title": "공중화장실 갔다 집단성폭행 당한 여성..나체로 전봇대 매달린 채 발견",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004646854&rankingType=RANKING",
+				"weights": 0.3609104256240932
+			},
+			{
+				"id": 198618,
+				"title": "공중화장실 갔다가…집단성폭행 후 전봇대에 묶인 인도 여성",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=081&aid=0003189592&rankingType=RANKING",
+				"weights": 0.2398836622683059
+			},
+			{
+				"id": 197518,
+				"title": "인도 공중화장실서 여성 집단성폭행..전봇대에 나체로 매달아",
+				"url": "https://v.daum.net/v/20210528064716270",
+				"weights": 0.1520512300216469
+			}
+		]
+	},
+	"196633": {
+		"rank": 39,
+		"name": "당첨자",
+		"weights": 1.559951213772508,
+		"n_key": [
+			{
+				"id": 196634,
+				"name": "뉴스데스크",
+				"weights": 0.15144947772886067
+			},
+			{
+				"id": 196632,
+				"name": "농협",
+				"weights": 1.0853928729792257
+			},
+			{
+				"id": 196631,
+				"name": "로또",
+				"weights": 0.8046476768194747
+			}
+		],
+		"n_content": [
+			{
+				"id": 199584,
+				"title": "로또 1등 당첨자 농협 갔더니…\"비밀번호 불러달라\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121476&rankingType=RANKING",
+				"weights": 0.48398222926824463
+			},
+			{
+				"id": 196630,
+				"title": "로또 1등 당첨자 농협 갔더니…\"비밀번호 불러달라\" (2021.05.27/뉴스데스크/MBC)",
+				"url": "https://www.youtube.com/watch?v=Cz1Iw2sTOCc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=1",
+				"weights": 0.15144947772886067
+			},
+			{
+				"id": 197866,
+				"title": "백신복권 첫 당첨자는 20대여성...11억원 어디에 쓰나 봤더니",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=215&aid=0000960907&rankingType=RANKING",
+				"weights": 0.1434446607845834
+			},
+			{
+				"id": 199436,
+				"title": "'43억' 로또 당첨자 계좌 비밀번호 물어본 은행 직원 '논란'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=015&aid=0004553370&rankingType=RANKING",
+				"weights": 0.13970564039941613
+			},
+			{
+				"id": 198227,
+				"title": "美11억 ‘백신 복권’ 첫 당첨자 22세 엔지니어…다음주도 추첨",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442950&rankingType=RANKING",
+				"weights": 0.1389887561974239
+			},
+			{
+				"id": 199676,
+				"title": "[30초뉴스] 백신 맞고 백만장자…美 '백신복권' 첫 당첨자는 22살 여성",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487219&rankingType=RANKING",
+				"weights": 0.13180052417751287
+			},
+			{
+				"id": 198543,
+				"title": "美 '백신 복권' 11억 첫 당첨자 나왔다…접종률도 33% 급증",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378101&rankingType=RANKING",
+				"weights": 0.1270705048611946
+			}
+		]
+	},
+	"197773": {
+		"rank": 40,
+		"name": "차관",
+		"weights": 1.3990946486696383,
+		"n_key": [
+			{
+				"id": 199815,
+				"name": "신임사장",
+				"weights": 0.07663305717020913
+			},
+			{
+				"id": 197845,
+				"name": "한전",
+				"weights": 0.2914517470016317
+			},
+			{
+				"id": 199168,
+				"name": "산업부",
+				"weights": 0.2385076413554427
+			},
+			{
+				"id": 196711,
+				"name": "사장",
+				"weights": 0.924484806599321
+			},
+			{
+				"id": 199500,
+				"name": "정승일",
+				"weights": 0.18277323592790248
+			},
+			{
+				"id": 196812,
+				"name": "택시",
+				"weights": 0.8975009048484556
+			},
+			{
+				"id": 198255,
+				"name": "경찰서",
+				"weights": 0.10290821257769968
+			},
+			{
+				"id": 197775,
+				"name": "일꾼",
+				"weights": 0.5622354578985723
+			},
+			{
+				"id": 197435,
+				"name": "법무부",
+				"weights": 1.323352137799141
+			},
+			{
+				"id": 197774,
+				"name": "택시기사",
+				"weights": 2.0272814816063387
+			},
+			{
+				"id": 197772,
+				"name": "이용구",
+				"weights": 2.690163380511001
+			}
+		],
+		"n_content": [
+			{
+				"id": 198671,
+				"title": "‘택시기사 폭행 혐의’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076793&rankingType=RANKING",
+				"weights": 0.13279629445388347
+			},
+			{
+				"id": 197771,
+				"title": "‘택시기사 폭행’ 이용구 법무부 차관 사의…“새 일꾼 필요”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209407&rankingType=RANKING",
+				"weights": 0.1292821593498362
+			},
+			{
+				"id": 199708,
+				"title": "'택시기사 폭행' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487223&rankingType=RANKING",
+				"weights": 0.1131152107428273
+			},
+			{
+				"id": 198513,
+				"title": "'택시기사 폭행' 이용구 차관 사의…\"새 일꾼 필요\"(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378345&rankingType=RANKING",
+				"weights": 0.11186891926101285
+			},
+			{
+				"id": 198025,
+				"title": "‘택시기사 폭행 의혹’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052815&rankingType=RANKING",
+				"weights": 0.11090513680602608
+			},
+			{
+				"id": 199367,
+				"title": "'택시기사 폭행 혐의' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267479&rankingType=RANKING",
+				"weights": 0.1061771729606113
+			},
+			{
+				"id": 199499,
+				"title": "한전 신임 사장에 정승일 前 산업부 차관",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496955&rankingType=RANKING",
+				"weights": 0.10614017875769335
+			}
+		]
+	},
+	"197837": {
+		"rank": 41,
+		"name": "청와대",
+		"weights": 1.3346818177568671,
+		"n_key": [
+			{
+				"id": 198130,
+				"name": "시민사회수석",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 198131,
+				"name": "방정균",
+				"weights": 0.4872437779099262
+			},
+			{
+				"id": 199260,
+				"name": "이재용",
+				"weights": 0.32531766075475693
+			},
+			{
+				"id": 198625,
+				"name": "정만호",
+				"weights": 0.2526546631414519
+			},
+			{
+				"id": 198209,
+				"name": "비서관",
+				"weights": 0.4656524434355203
+			},
+			{
+				"id": 197902,
+				"name": "국민소통수석",
+				"weights": 1.3267540402699998
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			},
+			{
+				"id": 197839,
+				"name": "참모",
+				"weights": 0.4691331991313282
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			},
+			{
+				"id": 197838,
+				"name": "소통수석",
+				"weights": 2.1280994741411
+			}
+		],
+		"n_content": [
+			{
+				"id": 197998,
+				"title": "문 대통령, 청와대 국민소통수석에 박수현 초대 대변인 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052786&rankingType=RANKING",
+				"weights": 0.15245111193867464
+			},
+			{
+				"id": 198208,
+				"title": "문 대통령, 청와대 소통수석에 박수현 전 의원 내정…비서관 인사 단행",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=005&aid=0001442968&rankingType=RANKING",
+				"weights": 0.15210474484063985
+			},
+			{
+				"id": 199310,
+				"title": "청와대 참모진 교체…박수현, '대통령의 입'에서 국민소통수석으로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267493&rankingType=RANKING",
+				"weights": 0.13854933828413823
+			},
+			{
+				"id": 199437,
+				"title": "문대통령, 청와대 개편 단행…'초대 대변인' 박수현 소통수석으로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496939&rankingType=RANKING",
+				"weights": 0.1287173868499875
+			},
+			{
+				"id": 198663,
+				"title": "청와대 국민소통수석에 박수현 전 대변인",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076826&rankingType=RANKING",
+				"weights": 0.11025018392984184
+			},
+			{
+				"id": 198624,
+				"title": "정만호 청와대 국민소통수석 교체…후임에 박수현 전 대변인",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897115&rankingType=RANKING",
+				"weights": 0.10589018966020769
+			},
+			{
+				"id": 198777,
+				"title": "[단독] 청와대 신임 소통수석 박수현 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580092&rankingType=RANKING",
+				"weights": 0.10064699364132243
+			}
+		]
+	},
+	"196713": {
+		"rank": 42,
+		"name": "임대사업자",
+		"weights": 1.3303411254965183,
+		"n_key": [
+			{
+				"id": 197528,
+				"name": "박사",
+				"weights": 0.42945735192323253
+			},
+			{
+				"id": 198724,
+				"name": "윤호중",
+				"weights": 0.24210340469958452
+			},
+			{
+				"id": 196750,
+				"name": "국민",
+				"weights": 1.2498070202521396
+			},
+			{
+				"id": 197743,
+				"name": "양도세",
+				"weights": 0.243682767324939
+			},
+			{
+				"id": 197742,
+				"name": "다주택자",
+				"weights": 0.09583013137276887
+			},
+			{
+				"id": 197741,
+				"name": "종부세",
+				"weights": 0.3977361270067722
+			},
+			{
+				"id": 196668,
+				"name": "정부",
+				"weights": 4.640984918181698
+			}
+		],
+		"n_content": [
+			{
+				"id": 197682,
+				"title": "\"文정부, 손바닥 뒤집듯 정책 뒤집어\"..30만 임대사업자 벼랑끝",
+				"url": "https://news.v.daum.net/v/20210527174501669",
+				"weights": 0.24937969397289994
+			},
+			{
+				"id": 198525,
+				"title": "\"文정부, 손바닥 뒤집듯 정책 뒤집어\"…30만 임대사업자 벼랑끝",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=009&aid=0004800487&rankingType=RANKING",
+				"weights": 0.2346504578218203
+			},
+			{
+				"id": 197696,
+				"title": "부동산 임대사업자 국회의원들을 공개합니다",
+				"url": "https://news.v.daum.net/v/20210528122102719",
+				"weights": 0.15490063701424595
+			},
+			{
+				"id": 196712,
+				"title": "부동산 임대사업자 국회의원들을 공개합니다",
+				"url": "https://v.daum.net/v/20210528122102719",
+				"weights": 0.1493264442359563
+			},
+			{
+				"id": 198528,
+				"title": "與 \"임대사업자들께 송구…언론이 당과 국민 이간질\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=003&aid=0010521769&rankingType=RANKING",
+				"weights": 0.10493299634158879
+			},
+			{
+				"id": 198768,
+				"title": "6개월 내 안 팔면 양도세 폭탄…임대사업자 반발",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001579952&rankingType=RANKING",
+				"weights": 0.0992576730381376
+			},
+			{
+				"id": 197740,
+				"title": "다주택자 '투기수단'된 임대사업자 폐지… 종부세·양도세 혜택 '끝'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=417&aid=0000698496&rankingType=RANKING",
+				"weights": 0.09583013137276887
+			}
+		]
+	},
+	"197902": {
+		"rank": 43,
+		"name": "국민소통수석",
+		"weights": 1.3267540402699998,
+		"n_key": [
+			{
+				"id": 198625,
+				"name": "정만호",
+				"weights": 0.2526546631414519
+			},
+			{
+				"id": 197839,
+				"name": "참모",
+				"weights": 0.4691331991313282
+			},
+			{
+				"id": 197837,
+				"name": "청와대",
+				"weights": 1.3346818177568671
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			},
+			{
+				"id": 197530,
+				"name": "대통령",
+				"weights": 3.9987908439905486
+			}
+		],
+		"n_content": [
+			{
+				"id": 197998,
+				"title": "문 대통령, 청와대 국민소통수석에 박수현 초대 대변인 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052786&rankingType=RANKING",
+				"weights": 0.15245111193867464
+			},
+			{
+				"id": 199051,
+				"title": "정만호 靑국민소통수석 교체…후임에 박수현 前대변인(종합)",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=001&aid=0012422742&rankingType=RANKING",
+				"weights": 0.14676447348124422
+			},
+			{
+				"id": 199310,
+				"title": "청와대 참모진 교체…박수현, '대통령의 입'에서 국민소통수석으로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267493&rankingType=RANKING",
+				"weights": 0.13854933828413823
+			},
+			{
+				"id": 197901,
+				"title": "文대통령, 靑 국민소통수석에 박수현 초대 대변인 내정",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647050&rankingType=RANKING",
+				"weights": 0.12867379417313313
+			},
+			{
+				"id": 198002,
+				"title": "文대통령, 국민소통수석에 박수현 전 대변인 임명…靑 참모진 8명 인사",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=629&aid=0000085839&rankingType=RANKING",
+				"weights": 0.11727531916554731
+			},
+			{
+				"id": 199540,
+				"title": "文대통령, 신임 국민소통수석에 박수현 전 대변인 임명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=123&aid=0002247135&rankingType=RANKING",
+				"weights": 0.11655173364486038
+			},
+			{
+				"id": 198137,
+				"title": "文, 靑 참모진 교체… '초대 대변인' 박수현 국민소통수석으로",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607304&rankingType=RANKING",
+				"weights": 0.11399171053682235
+			}
+		]
+	},
+	"197435": {
+		"rank": 44,
+		"name": "법무부",
+		"weights": 1.323352137799141,
+		"n_key": [
+			{
+				"id": 197680,
+				"name": "국적법",
+				"weights": 0.8560446219264277
+			},
+			{
+				"id": 198182,
+				"name": "중국인",
+				"weights": 0.2941829409340724
+			},
+			{
+				"id": 197775,
+				"name": "일꾼",
+				"weights": 0.5622354578985723
+			},
+			{
+				"id": 197774,
+				"name": "택시기사",
+				"weights": 2.0272814816063387
+			},
+			{
+				"id": 197773,
+				"name": "차관",
+				"weights": 1.3990946486696383
+			},
+			{
+				"id": 197772,
+				"name": "이용구",
+				"weights": 2.690163380511001
+			},
+			{
+				"id": 197436,
+				"name": "고검장",
+				"weights": 0.4330617193518187
+			}
+		],
+		"n_content": [
+			{
+				"id": 198671,
+				"title": "‘택시기사 폭행 혐의’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=032&aid=0003076793&rankingType=RANKING",
+				"weights": 0.13279629445388347
+			},
+			{
+				"id": 197771,
+				"title": "‘택시기사 폭행’ 이용구 법무부 차관 사의…“새 일꾼 필요”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=449&aid=0000209407&rankingType=RANKING",
+				"weights": 0.1292821593498362
+			},
+			{
+				"id": 199708,
+				"title": "'택시기사 폭행' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=422&aid=0000487223&rankingType=RANKING",
+				"weights": 0.1131152107428273
+			},
+			{
+				"id": 198025,
+				"title": "‘택시기사 폭행 의혹’ 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=056&aid=0011052815&rankingType=RANKING",
+				"weights": 0.11090513680602608
+			},
+			{
+				"id": 199367,
+				"title": "'택시기사 폭행 혐의' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=437&aid=0000267479&rankingType=RANKING",
+				"weights": 0.1061771729606113
+			},
+			{
+				"id": 198298,
+				"title": "'택시기사 폭행 의혹' 이용구 법무부 차관, 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=031&aid=0000601096&rankingType=RANKING",
+				"weights": 0.1038378389344883
+			},
+			{
+				"id": 198190,
+				"title": "'택시기사 폭행 의혹' 이용구 법무부 차관 사의 표명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=088&aid=0000704977&rankingType=RANKING",
+				"weights": 0.10378966224830995
+			}
+		]
+	},
+	"196750": {
+		"rank": 45,
+		"name": "국민",
+		"weights": 1.2498070202521396,
+		"n_key": [
+			{
+				"id": 196717,
+				"name": "마스크",
+				"weights": 0.23951779526659725
+			},
+			{
+				"id": 199579,
+				"name": "김부겸",
+				"weights": 0.07294304407816295
+			},
+			{
+				"id": 196803,
+				"name": "이준석",
+				"weights": 11.46951106287532
+			},
+			{
+				"id": 197838,
+				"name": "소통수석",
+				"weights": 2.1280994741411
+			},
+			{
+				"id": 197726,
+				"name": "민주당",
+				"weights": 0.6984271823506377
+			},
+			{
+				"id": 196713,
+				"name": "임대사업자",
+				"weights": 1.3303411254965183
+			},
+			{
+				"id": 196777,
+				"name": "대선",
+				"weights": 1.046941922811075
+			},
+			{
+				"id": 198000,
+				"name": "김동연",
+				"weights": 0.27671488356831064
+			},
+			{
+				"id": 196724,
+				"name": "윤석열",
+				"weights": 1.6823215970139873
+			},
+			{
+				"id": 196748,
+				"name": "민심수석",
+				"weights": 0.35920733034088764
+			},
+			{
+				"id": 196746,
+				"name": "박수현",
+				"weights": 3.8140608447519853
+			}
+		],
+		"n_content": [
+			{
+				"id": 197708,
+				"title": "靑돌아온 박수현 \"민심수석 각오로 靑-국민 가교역할 최선\"",
+				"url": "https://news.v.daum.net/v/20210528120429389",
+				"weights": 0.18077452921488482
+			},
+			{
+				"id": 196745,
+				"title": "靑돌아온 박수현 \"민심수석 각오로 靑-국민 가교역할 최선\"",
+				"url": "https://v.daum.net/v/20210528120429389",
+				"weights": 0.17843280112600282
+			},
+			{
+				"id": 199531,
+				"title": "'이준석 돌풍', 국민의힘 쇄신 기폭제 되나",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=002&aid=0002191336&rankingType=RANKING",
+				"weights": 0.14712607640000852
+			},
+			{
+				"id": 199455,
+				"title": "'마지막 소통수석' 박수현 \"허리 숙여 국민 심장에 귀 맞출 것\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496942&rankingType=RANKING",
+				"weights": 0.10809228872578537
+			},
+			{
+				"id": 198528,
+				"title": "與 \"임대사업자들께 송구…언론이 당과 국민 이간질\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=003&aid=0010521769&rankingType=RANKING",
+				"weights": 0.10493299634158879
+			},
+			{
+				"id": 197999,
+				"title": "‘탄핵 내전’ 국민의힘, 野 대선 윤석열·김동연 빅매치?",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=262&aid=0000014489&rankingType=RANKING",
+				"weights": 0.08647056900794706
+			},
+			{
+				"id": 199652,
+				"title": "[바이오] 1차접종만해도 일상생활 복귀… 국민 70% 맞아야 NO 마스크",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=029&aid=0002676619&rankingType=RANKING",
+				"weights": 0.07678944993060695
+			}
+		]
+	},
+	"196788": {
+		"rank": 46,
+		"name": "AZ",
+		"weights": 1.124512788365138,
+		"n_key": [
+			{
+				"id": 198392,
+				"name": "정은경",
+				"weights": 0.20486562077766013
+			},
+			{
+				"id": 197973,
+				"name": "화이자",
+				"weights": 0.7421022998950257
+			}
+		],
+		"n_content": [
+			{
+				"id": 197681,
+				"title": "'잔여 백신' 첫날 젊은층 대거 몰렸다..AZ 부정적 시선 바뀌나",
+				"url": "https://news.v.daum.net/v/20210528072422766",
+				"weights": 0.3785767689604995
+			},
+			{
+				"id": 196787,
+				"title": "'잔여 백신' 첫날 젊은층 대거 몰렸다..AZ 부정적 시선 바뀌나",
+				"url": "https://v.daum.net/v/20210528072422766",
+				"weights": 0.37837978071285283
+			},
+			{
+				"id": 197437,
+				"title": "오늘 AZ 백신 82만8000회분 공급..1270만회분 도입 완료",
+				"url": "https://v.daum.net/v/20210528050024795",
+				"weights": 0.09901117710956465
+			},
+			{
+				"id": 198490,
+				"title": "오늘도 AZ 40만명+α 접종…92일만에 접종률 10% 돌파 전망",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378429&rankingType=RANKING",
+				"weights": 0.09410652726097977
+			},
+			{
+				"id": 199732,
+				"title": "[단독] AZ 부작용 많다?…이상반응 신고, 화이자 0.16%·AZ 0.14%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329364&rankingType=RANKING",
+				"weights": 0.09006441445956997
+			},
+			{
+				"id": 198902,
+				"title": "\"화이자 맞고 싶었다\" 불만에…정은경 \"AZ 안심하고 맞을 수 있는 백신\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=082&aid=0001094241&rankingType=RANKING",
+				"weights": 0.08437411986167125
+			}
+		]
+	},
+	"196682": {
+		"rank": 47,
+		"name": "예약자",
+		"weights": 1.1138874100548493,
+		"n_key": [
+			{
+				"id": 197872,
+				"name": "카카오",
+				"weights": 1.0305439911004595
+			},
+			{
+				"id": 197808,
+				"name": "네이버",
+				"weights": 5.880424357241987
+			}
+		],
+		"n_content": [
+			{
+				"id": 197683,
+				"title": "AZ 백신 불안에도 \"예약자 접종률 98%\".. 입 쩍 벌어지는 '백신 붐'",
+				"url": "https://news.v.daum.net/v/20210528113025132",
+				"weights": 0.33732465021159513
+			},
+			{
+				"id": 196681,
+				"title": "AZ 백신 불안에도 \"예약자 접종률 98%\".. 입 쩍 벌어지는 '백신 붐'",
+				"url": "https://v.daum.net/v/20210528113025132",
+				"weights": 0.33345769666100755
+			},
+			{
+				"id": 198090,
+				"title": "AZ 백신 불안에도 \"예약자 접종률 98%\"... 입 쩍 벌어지는 '백신 붐'",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=469&aid=0000607305&rankingType=RANKING",
+				"weights": 0.15298593468754973
+			},
+			{
+				"id": 198796,
+				"title": "잔여백신 접종 6만2천명…카카오·네이버 예약자 4천2백명",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580135&rankingType=RANKING",
+				"weights": 0.11912212029632474
+			},
+			{
+				"id": 198593,
+				"title": "'잔여 백신' 시행 첫날, 예약자 98% 이상 접종했다",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=055&aid=0000897126&rankingType=RANKING",
+				"weights": 0.09304491530420726
+			},
+			{
+				"id": 199090,
+				"title": "코로나 백신, 불안해서 접종 안한다고? “예약자 접종률 98%",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=022&aid=0003585301&rankingType=RANKING",
+				"weights": 0.07795209289416478
+			}
+		]
+	},
+	"197964": {
+		"rank": 48,
+		"name": "조국",
+		"weights": 1.0930111702164544,
+		"n_key": [
+			{
+				"id": 198539,
+				"name": "김웅",
+				"weights": 0.901620307506722
+			},
+			{
+				"id": 199415,
+				"name": "권경애",
+				"weights": 0.25239106951746226
+			},
+			{
+				"id": 197749,
+				"name": "이낙연",
+				"weights": 0.9912049686658195
+			},
+			{
+				"id": 198737,
+				"name": "김주하",
+				"weights": 0.09810848079909235
+			},
+			{
+				"id": 197904,
+				"name": "AI",
+				"weights": 0.40878969744867044
+			},
+			{
+				"id": 198736,
+				"name": "MB",
+				"weights": 0.19123733344293048
+			},
+			{
+				"id": 198718,
+				"name": "진중권",
+				"weights": 0.7369119642109346
+			},
+			{
+				"id": 197449,
+				"name": "검찰",
+				"weights": 1.0591342892765383
+			},
+			{
+				"id": 198223,
+				"name": "공수처",
+				"weights": 0.40589629294114515
+			},
+			{
+				"id": 197965,
+				"name": "헌법",
+				"weights": 0.08803254696641076
+			},
+			{
+				"id": 197722,
+				"name": "박범계",
+				"weights": 0.7988439393746977
+			},
+			{
+				"id": 197963,
+				"name": "추미애",
+				"weights": 0.38399047168607664
+			}
+		],
+		"n_content": [
+			{
+				"id": 199414,
+				"title": "조국 자서전에 진중권 “가지가지한다” 권경애 “또 무슨 혹세무민”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=023&aid=0003616783&rankingType=RANKING",
+				"weights": 0.17265874483662166
+			},
+			{
+				"id": 199699,
+				"title": "김웅, 조국 자서전에 \"그러다 오줌 싼다\"…진중권 \"가지가지 한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=448&aid=0000329411&rankingType=RANKING",
+				"weights": 0.15588848490239735
+			},
+			{
+				"id": 199794,
+				"title": "진중권, 조국 회고록 출간에 \"가지가지 한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=008&aid=0004593641&rankingType=RANKING",
+				"weights": 0.13138183696458994
+			},
+			{
+				"id": 198222,
+				"title": "[단독]검찰이 공수처에 넘긴 수사기록엔 \"조국 수사외압 가담\" 진술",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=011&aid=0003915897&rankingType=RANKING",
+				"weights": 0.10557038071555999
+			},
+			{
+				"id": 198735,
+				"title": "이낙연 \"불평등 입시 언급, 조국 비판? MB 때 도입된 것\"[김주하 AI 뉴스]",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580143&rankingType=RANKING",
+				"weights": 0.09810848079909235
+			},
+			{
+				"id": 199080,
+				"title": "‘조국 사태’ 비판 해석 나오자…이낙연 “MB가 도입한 제도가 문제”",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=366&aid=0000724183&rankingType=RANKING",
+				"weights": 0.09312885264383813
+			},
+			{
+				"id": 198717,
+				"title": "\"가족의 피로 썼다\"는 조국 책 출간에 진중권 \"가지가지 한다\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=057&aid=0001580065&rankingType=RANKING",
+				"weights": 0.0918146829417943
+			}
+		]
+	},
+	"196632": {
+		"rank": 49,
+		"name": "농협",
+		"weights": 1.0853928729792257,
+		"n_key": [
+			{
+				"id": 197513,
+				"name": "수령자",
+				"weights": 0.12566344654742717
+			},
+			{
+				"id": 197477,
+				"name": "하나로마트",
+				"weights": 0.10110888054596373
+			},
+			{
+				"id": 196634,
+				"name": "뉴스데스크",
+				"weights": 0.15144947772886067
+			},
+			{
+				"id": 196633,
+				"name": "당첨자",
+				"weights": 1.559951213772508
+			},
+			{
+				"id": 196631,
+				"name": "로또",
+				"weights": 0.8046476768194747
+			}
+		],
+		"n_content": [
+			{
+				"id": 199584,
+				"title": "로또 1등 당첨자 농협 갔더니…\"비밀번호 불러달라\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121476&rankingType=RANKING",
+				"weights": 0.48398222926824463
+			},
+			{
+				"id": 196630,
+				"title": "로또 1등 당첨자 농협 갔더니…\"비밀번호 불러달라\" (2021.05.27/뉴스데스크/MBC)",
+				"url": "https://www.youtube.com/watch?v=Cz1Iw2sTOCc&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=1",
+				"weights": 0.15144947772886067
+			},
+			{
+				"id": 197512,
+				"title": "로또 1등 수령자에 통장 비번 요구·5억 적금 강매한 농협",
+				"url": "https://v.daum.net/v/20210528105749714",
+				"weights": 0.12566344654742717
+			},
+			{
+				"id": 199598,
+				"title": "'로또 1등' 농협 갔더니…\"비밀번호 불러달라\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121626&rankingType=RANKING",
+				"weights": 0.11723411783625672
+			},
+			{
+				"id": 199666,
+				"title": "'로또 1등' 농협 갔더니…\"비밀번호 불러달라\"",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=214&aid=0001121547&rankingType=RANKING",
+				"weights": 0.1059547210524728
+			},
+			{
+				"id": 197476,
+				"title": "농협 하나로마트에 가면 이것 꼭 사세요 저는 이거 사러 하나로마트 가요!",
+				"url": "https://www.youtube.com/watch?v=EpsZ9MtkY-o&list=PLmtapKaZsgZt3g_uAPJbsMWdkVsznn_2R&index=187",
+				"weights": 0.10110888054596373
+			}
+		]
+	},
+	"196707": {
+		"rank": 50,
+		"name": "벌금형",
+		"weights": 1.078972167262828,
+		"n_key": [
+			{
+				"id": 196766,
+				"name": "부인",
+				"weights": 0.5631879667214998
+			},
+			{
+				"id": 197018,
+				"name": "성추행",
+				"weights": 0.3759768120390268
+			},
+			{
+				"id": 197160,
+				"name": "출연자",
+				"weights": 0.10724944493189299
+			},
+			{
+				"id": 196687,
+				"name": "동료",
+				"weights": 1.7434950582346378
+			},
+			{
+				"id": 198272,
+				"name": "재물손괴",
+				"weights": 0.38408470378018844
+			},
+			{
+				"id": 197900,
+				"name": "음주운전",
+				"weights": 0.5055871468960623
+			},
+			{
+				"id": 196709,
+				"name": "변호사",
+				"weights": 2.351428864113518
+			}
+		],
+		"n_content": [
+			{
+				"id": 198974,
+				"title": "\"밥먹으며 전화하냐\" 아내 반찬에 침뱉은 변호사 벌금형",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=079&aid=0003509329&rankingType=RANKING",
+				"weights": 0.16238877102631644
+			},
+			{
+				"id": 197707,
+				"title": "밥 먹으며 전화통화 한다고..아내 반찬에 침 뱉은 변호사 벌금형",
+				"url": "https://news.v.daum.net/v/20210528124631132",
+				"weights": 0.1516679552489602
+			},
+			{
+				"id": 196706,
+				"title": "밥 먹으며 전화통화 한다고..아내 반찬에 침 뱉은 변호사 벌금형",
+				"url": "https://v.daum.net/v/20210528124631132",
+				"weights": 0.14426928381164927
+			},
+			{
+				"id": 198487,
+				"title": "밥 먹으며 전화통화 한다고…아내 반찬에 침 뱉은 변호사 벌금형",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=421&aid=0005378798&rankingType=RANKING",
+				"weights": 0.12121237896518257
+			},
+			{
+				"id": 198849,
+				"title": "\"밥 먹으면서 왜 전화하냐\"…아내 밥에 침 뱉은 변호사 벌금형",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=082&aid=0001094326&rankingType=RANKING",
+				"weights": 0.11146073407040287
+			},
+			{
+				"id": 199441,
+				"title": "부인이 먹던 밥에 '퉤 퉤'…침 뱉은 변호사 '재물손괴' 벌금형",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=119&aid=0002496936&rankingType=RANKING",
+				"weights": 0.10491195407129658
+			},
+			{
+				"id": 197909,
+				"title": "의정부변호사, 복합 혐의로 실형 선고 예상됐던 음주운전 사안에서 벌금형 선처 이끌어내",
+				"url": "https://news.naver.com/main/ranking/read.nhn?mode=LSD&mid=shm&sid1=001&oid=014&aid=0004647060&rankingType=RANKING",
+				"weights": 0.09648969576030544
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+zookeeper:
+  host: 3.36.242.26
+
+kafka:
+  hostname:
+    - kafka1
+    - kafka2
+    - kafka3
+  hosts:
+    - 52.78.57.50
+    - 54.180.41.198
+    - 54.180.7.130
+  port: 9092
+  znode: gentle_kafka
+  topics:
+    - naver_news
+    - daum_news
+    - youtube_contents
+    - google_trend

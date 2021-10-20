@@ -1,0 +1,145 @@
+/* .background {
+background-image: url('img/autumn1.jpg');
+} */
+
+.nav {
+    font-family: 'Heebo', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    padding-top: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.content_nav {
+    font-size: 30px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+a { 
+    text-decoration: none;
+    color: black;
+}
+
+#logo {
+    font-size: 40px;
+}
+
+#header_background {
+    position: absolute;
+    background-color:rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 1410px;
+    top: 0px;
+}
+
+.search_section{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.search {
+    background-color: rgba(255, 255, 255, 1);
+    position: relative;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid #bbb;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+input {
+    width: 85%;
+    margin: 0px;
+    border: 0;
+    padding: 10px 12px;
+    outline: none;
+}
+.fa-search {
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    margin: 10;
+}
+
+.clock-time {
+    font-size: 150px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.clock-time-sec {
+    font-size: 60px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.network {
+    /* left: 50%;
+    top: 50%; */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /* font-family: 'Hi Melody', cursive; */
+    font-family: 'Heebo', sans-serif;
+    color: rgba(255, 255, 255, 1);
+}
+.bubble {
+    width: 600px;
+    height: 600px;
+}
+
+.information_section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    color: rgba(255, 255, 255, 1);
+}
+
+.bar {
+    position: absolute;
+    background-color: wheat;
+    width: 100%;
+    height: 100px;
+    top: 1410px;
+}
+
+#introduction {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 1510px;
+}
+
+#member {
+    
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 2110px;
+}
+
+#tail {
+    background-color: rgba(0, 0, 0, 0.2);
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    top: 3310px;
+}
+
+.reset div {
+    justify-content: space-around;
+    display: flex;
+}
+
+.title {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
